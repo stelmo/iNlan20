@@ -82880,6 +82880,7 @@
 "Subsystem":""
 },
 "annotation":{
+"kegg.reaction":"K18332",
 "sbo":"SBO:0000176"
 }
 },
@@ -82898,6 +82899,10 @@
 "notes":{
 "Confidence_score":"0",
 "Subsystem":""
+},
+"annotation":{
+"kegg.reaction":"K18332",
+"sbo":"SBO:0000176"
 }
 },
 {

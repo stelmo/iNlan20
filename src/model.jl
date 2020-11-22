@@ -556,7 +556,7 @@ function fixmisc(model)
     end
 
     # add metabolic reaction sbo term
-    rxnids = ["FUMh","r_xylanase","CMPL2h","SUCCOAh","SUCOAACTh","PFLh","r_dextrinase","HYDhbi","PFOh","r_HAH","MEhx","MASh","r_gapd","HYDhfe","MEhy","NGAM","r_R04019","r_R01100","r_R02543","r_R01498","r_hemicellulase","r_R06522","r_R01500","r_lacd1","r_lacd2","r_02541","HYDh2","H2ht","r_glutabutl","r_2abut2akgt","r_HICITD","r_cellulase","r_MetSmethtrans","r_glglutglyl"]
+    rxnids = ["HYDh3","FUMh","r_xylanase","CMPL2h","SUCCOAh","SUCOAACTh","PFLh","r_dextrinase","HYDhbi","PFOh","r_HAH","MEhx","MASh","r_gapd","HYDhfe","MEhy","NGAM","r_R04019","r_R01100","r_R02543","r_R01498","r_hemicellulase","r_R06522","r_R01500","r_lacd1","r_lacd2","r_02541","HYDh2","H2ht","r_glutabutl","r_2abut2akgt","r_HICITD","r_cellulase","r_MetSmethtrans","r_glglutglyl"]
     for rxnid in rxnids
         # println(rxnid)
         rxn = getrxn(model, rxnid)
@@ -573,6 +573,12 @@ function fixmisc(model)
             trxn["annotation"] = Dict()
         end
         trxn["annotation"]["sbo"] = "SBO:0000185"
+    end
+
+    for rxnid in ["HYDh2", "HYDh3"]
+        trxn = getrxn(model, rxnid)
+        trxn["annotation"]["kegg.reaction"] = "K18332"
+
     end
 
     for metid in ["nh3_c", "metox_c"]
