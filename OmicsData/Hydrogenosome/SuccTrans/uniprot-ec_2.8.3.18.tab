@@ -1,0 +1,56 @@
+Entry	Entry name	Status	Protein names	Gene names	Organism	Length
+B3EY95	SCACT_ACEAC	reviewed	Succinyl-CoA:acetate CoA-transferase (EC 2.8.3.18) (Succinyl-coenzyme A (CoA):acetate CoA-transferase) (SCACT)		Acetobacter aceti	505
+A0A2H1JUU9	A0A2H1JUU9_9MICO	unreviewed	Succinyl-CoA:acetate CoA-transferase (EC 2.8.3.18)	BC102111_02582	Brevibacterium casei CIP 102111	501
+A0A2H1HYZ8	A0A2H1HYZ8_9MICO	unreviewed	Succinyl-CoA:acetate CoA-transferase (EC 2.8.3.18)	BSP239C_00176	Brevibacterium sp. 239c	501
+A0A0F6TBF5	A0A0F6TBF5_9CORY	unreviewed	Succinate CoA transferase (EC 2.8.3.18)	cat1 NG00_01723 UL81_09605	Corynebacterium camporealensis	498
+A0A0U5F138	A0A0U5F138_9PROT	unreviewed	Acetyl-CoA hydrolase (Succinyl-CoA:acetate CoA-transferase) (EC 2.8.3.18)	aarC AD948_09570 ASN_3794 HK16_07260	Acetobacter senegalensis	505
+A0A0G3HEM7	A0A0G3HEM7_9CORY	unreviewed	Succinate CoA transferase (EC 2.8.3.18)	cat1 CUTER_09160	Corynebacterium uterequi	499
+A0A0G3GYG6	A0A0G3GYG6_9CORY	unreviewed	Succinate CoA transferase (EC 2.8.3.18)	cat1 CEPID_10335	Corynebacterium epidermidicanis	503
+A0A0G3H0D5	A0A0G3H0D5_9CORY	unreviewed	Succinate CoA transferase (EC 2.8.3.18)	cat1 CMUST_12890	Corynebacterium mustelae	505
+A0A0G3H8D2	A0A0G3H8D2_9CORY	unreviewed	Succinate CoA transferase (EC 2.8.3.18)	cat1 CTEST_11140	Corynebacterium testudinoris	500
+A0A0F6R139	A0A0F6R139_9CORY	unreviewed	Succinate CoA transferase (EC 2.8.3.18)	cat1 UL82_02895	Corynebacterium kutscheri	504
+A0A0B6EY35	A0A0B6EY35_9CORY	unreviewed	Succinate CoA transferase (EC 2.8.3.18)	cat1 CSING_11110	Corynebacterium singulare	500
+A0A0U5FY27	A0A0U5FY27_9PROT	unreviewed	Succinyl-CoA:acetate CoA-transferase (EC 2.8.3.18)	aarC AGA_1545	Acetobacter ghanensis	505
+A0A1Y0Y6A0	A0A1Y0Y6A0_ACEPA	unreviewed	Succinyl-CoA:acetate CoA-transferase (EC 2.8.3.18)	aarC S1001342_00164	Acetobacter pasteurianus subsp. pasteurianus	505
+A0A1Y0UZL5	A0A1Y0UZL5_9PROT	unreviewed	Succinyl-CoA:acetate CoA-transferase (EC 2.8.3.18)	aarC S101447_00160	Acetobacter ascendens	505
+A0A1P8V192	A0A1P8V192_9RHOB	unreviewed	Succinyl-CoA:acetate CoA-transferase (EC 2.8.3.18)	Ga0080574_TMP5138	Pelagibaca abyssi	513
+A0A1U7D6B7	A0A1U7D6B7_9RHOB	unreviewed	Succinyl-CoA:acetate CoA-transferase (EC 2.8.3.18)	Ga0080559_TMP2908	Salipiger profundus	504
+A0A1A0DE50	A0A1A0DE50_ACEPA	unreviewed	Succinyl-CoA:acetate CoA-transferase (EC 2.8.3.18)	SRCM100623_01485	Acetobacter pasteurianus (Acetobacter turbidans)	505
+A0A1A0CTK5	A0A1A0CTK5_ACEPA	unreviewed	Succinyl-CoA:acetate CoA-transferase (EC 2.8.3.18)	SRCM100623_02506	Acetobacter pasteurianus (Acetobacter turbidans)	505
+A0A0P0RF26	A0A0P0RF26_9BURK	unreviewed	Propionyl-CoA:succinyl-CoA transferase (EC 2.8.3.18)	K788_0008530	Paraburkholderia caribensis MBA4	519
+A0A1A7BX94	A0A1A7BX94_9BURK	unreviewed	Succinyl-CoA:acetate CoA-transferase (EC 2.8.3.18)	ASR47_1001221	Janthinobacterium sp. S3-2	496
+A0A0N0VJI6	A0A0N0VJI6_9PSED	unreviewed	Succinate CoA transferase (EC 2.8.3.18)	PF66_03523	Pseudomonas fuscovaginae	497
+A0A1U9MJL5	A0A1U9MJL5_9RHIZ	unreviewed	Succinyl-CoA:acetate CoA-transferase (EC 2.8.3.18)	BBC0122_018120	Bartonella apis	496
+A0A4V6IMW3	A0A4V6IMW3_METTU	unreviewed	Succinyl-CoA:acetate CoA-transferase (EC 2.8.3.18)	MTUNDRAET4_3175	Methylocella tundrae	511
+A0A1P8UWK6	A0A1P8UWK6_9RHOB	unreviewed	Succinyl-CoA:acetate CoA-transferase (EC 2.8.3.18)	Ga0080574_TMP3431	Pelagibaca abyssi	504
+A0A2N9JA62	A0A2N9JA62_9ACTN	unreviewed	Succinyl-CoA:acetate CoA-transferase (EC 2.8.3.18)	MPLG2_0046	Micropruina glycogenica	503
+A0A1Y0YA71	A0A1Y0YA71_ACEPA	unreviewed	Succinyl-CoA:acetate CoA-transferase (EC 2.8.3.18)	S1001342_03027	Acetobacter pasteurianus subsp. pasteurianus	505
+A0A344UWW7	A0A344UWW7_9ACTN	unreviewed	Succinyl-CoA:acetate CoA-transferase (EC 2.8.3.18)	JS278_02627	Acidipropionibacterium virtanenii	503
+A0A1R0FA75	A0A1R0FA75_9RHIZ	unreviewed	Succinyl-CoA:acetate CoA-transferase (EC 2.8.3.18)	PEB0149_013250	Bartonella apis	497
+A0A1U9MCJ7	A0A1U9MCJ7_9RHIZ	unreviewed	Succinyl-CoA:acetate CoA-transferase (EC 2.8.3.18)	BBC0178_017990	Bartonella apis	497
+A0A0X2NQG1	A0A0X2NQG1_9CORY	unreviewed	Succinate CoA transferase (EC 2.8.3.18)	CVAR292_02462	Corynebacterium variabile	500
+A0A0X2NQS5	A0A0X2NQS5_9CORY	unreviewed	Acetyl-CoA hydrolase (Succinate CoA transferase) (EC 2.8.3.18)	CVA01_11000 CVAR292_02463	Corynebacterium variabile	500
+A0A2H1JVM9	A0A2H1JVM9_9MICO	unreviewed	Succinyl-CoA:acetate CoA-transferase (EC 2.8.3.18)	BSP109_02535	Brevibacterium sp. Mu109	501
+A0A2H1INC8	A0A2H1INC8_9MICO	unreviewed	Succinyl-CoA:acetate CoA-transferase (EC 2.8.3.18)	BI49514_01118	Brevibacterium iodinum ATCC 49514	501
+A0A2H1KJ62	A0A2H1KJ62_9MICO	unreviewed	Succinyl-CoA:acetate CoA-transferase (EC 2.8.3.18)	BANT10_03112	Brevibacterium antiquum	524
+A0A1Y0V824	A0A1Y0V824_9PROT	unreviewed	Succinyl-CoA:acetate CoA-transferase (EC 2.8.3.18)	S101447_02791	Acetobacter ascendens	503
+A0A2Z3YRI0	A0A2Z3YRI0_9CORY	unreviewed	Succinyl-CoA:acetate CoA-transferase (EC 2.8.3.18)	Csp1_21460	Corynebacterium provencense	508
+A0A2H1JQ36	A0A2H1JQ36_9MICO	unreviewed	Succinyl-CoA:acetate CoA-transferase (EC 2.8.3.18)	BANT918_01774	Brevibacterium antiquum CNRZ 918	524
+A0A1Y0NCE3	A0A1Y0NCE3_9BURK	unreviewed	Succinyl-CoA:acetate CoA-transferase (EC 2.8.3.18)	AEP_03232	Curvibacter sp. AEP1-3	504
+A0A2N7QVE1	A0A2N7QVE1_9GAMM	unreviewed	Succinyl-CoA:acetate CoA-transferase (EC 2.8.3.18)	DyAD56_09765	Dyella sp. AD56	503
+A0A2A3YYU5	A0A2A3YYU5_9MICO	unreviewed	Propionyl-CoA--succinate CoA transferase (Succinyl-CoA:acetate CoA-transferase) (EC 2.8.3.18)	BAUR920_03332 CIK64_18290 CIK65_02430	Brevibacterium aurantiacum	501
+A0A2H1I8W7	A0A2H1I8W7_9MICO	unreviewed	Acetyl-CoA hydrolase/transferase family protein (Succinyl-CoA:acetate CoA-transferase) (EC 2.8.3.18)	BAURA63_00945 CIK61_14445	Brevibacterium aurantiacum	501
+A0A2H1I3S6	A0A2H1I3S6_9MICO	unreviewed	Propionyl-CoA--succinate CoA transferase (Succinyl-CoA:acetate CoA-transferase) (EC 2.8.3.18)	BAUR9175_00907 BAURA86_01270 CIK79_15200 CXR24_07190 CXR26_06880 CXR27_07420	Brevibacterium aurantiacum	501
+A0A2H1JJP0	A0A2H1JJP0_BRELN	unreviewed	Succinyl-CoA:acetate CoA-transferase (EC 2.8.3.18)	BLIN9172_02220	Brevibacterium linens ATCC 9172	501
+A0A2Z3YUM1	A0A2Z3YUM1_9CORY	unreviewed	Succinyl-CoA:acetate CoA-transferase (EC 2.8.3.18)	Csp1_21470	Corynebacterium provencense	500
+A0A2H1IXJ6	A0A2H1IXJ6_BRELN	unreviewed	Succinyl-CoA:acetate CoA-transferase (EC 2.8.3.18)	BLIN101_01693	Brevibacterium linens	501
+A0A2H1L3Z9	A0A2H1L3Z9_9MICO	unreviewed	Succinyl-CoA:acetate CoA-transferase (EC 2.8.3.18)	BJEO58_01174	Brevibacterium jeotgali	501
+A0A1A0DJA2	A0A1A0DJA2_ACEPA	unreviewed	Succinyl-CoA:acetate CoA-transferase (EC 2.8.3.18)	aarC SRCM100623_00562	Acetobacter pasteurianus (Acetobacter turbidans)	128
+A0A2H5ZE63	A0A2H5ZE63_9BACT	unreviewed	Succinyl-CoA:acetate CoA-transferase (EC 2.8.3.18)	HRbin29_01670	bacterium HR29	440
+A0A231HA21	A0A231HA21_9NOCA	unreviewed	Succinyl-CoA:acetate CoA-transferase (EC 2.8.3.18)	B7C42_02095	Nocardia cerradoensis	423
+A0A0P7VUV3	A0A0P7VUV3_9RHOB	unreviewed	Succinyl-CoA:acetate CoA-transferase (EC 2.8.3.18)	aarC HLUCCA04_13270	Oceanicaulis sp. HLUCCA04	430
+A0A1A0C501	A0A1A0C501_ACEPA	unreviewed	Succinyl-CoA:acetate CoA-transferase (EC 2.8.3.18)	SRCM100623_03037	Acetobacter pasteurianus (Acetobacter turbidans)	284
+A0A2H5YJ67	A0A2H5YJ67_9BACT	unreviewed	Succinyl-CoA:acetate CoA-transferase (EC 2.8.3.18)	HRbin24_01544	bacterium HR24	490
+A0A5B8RA53	A0A5B8RA53_9ZZZZ	unreviewed	Succinyl-CoA:acetate CoA-transferase (EC 2.8.3.18)	KBTEX_02408	uncultured organism	516
+A0A2H5ZJB1	A0A2H5ZJB1_9BACT	unreviewed	Succinyl-CoA:acetate CoA-transferase (EC 2.8.3.18)	HRbin30_01118	bacterium HR30	444
+A0A2H5ZAZ7	A0A2H5ZAZ7_9BACT	unreviewed	Succinyl-CoA:acetate CoA-transferase (EC 2.8.3.18)	HRbin29_00519	bacterium HR29	495

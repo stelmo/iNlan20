@@ -1,0 +1,1789 @@
+proteinId	description	modelnotes	defline
+1176	CBM18-CBM18-CBM18-CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+3638	GH43_16-CBM6-CBM1		Glycoside Hydrolase Family 43  / Carbohydrate-Binding Module Family 6  / Carbohydrate-Binding Module Family 1 protein
+8807	PL1		Polysaccharide Lyase Family 1 protein
+14148	GH10-CBM1		Glycoside Hydrolase Family 10  / Carbohydrate-Binding Module Family 1 protein
+14256	GH10-CBM1		Glycoside Hydrolase Family 10  / Carbohydrate-Binding Module Family 1 protein
+15347	CE8-CBM1		Carbohydrate Esterase Family 8  / Carbohydrate-Binding Module Family 1 protein
+22798	GH3		Glycoside Hydrolase Family 3 protein
+24345	GH16_21		Glycoside Hydrolase Family 16 protein
+24645	CBM13-DOC2-DOC2-CE1		Carbohydrate-Binding Module Family 13  / Non-Catalytic Module Family DOC2 / Carbohydrate Esterase Family 1 protein
+24949	GH5_4-DOC2-DOC2		Glycoside Hydrolase Family 5  / Non-Catalytic Module Family DOC2
+25495	GH43_35		Glycoside Hydrolase Family 43 protein
+25511	GH43	fragment N-term / C-term;	Glycoside Hydrolase Family 43 protein
+26502	CBM18-CBM18-CBM18-CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+30025	CE4		Carbohydrate Esterase Family 4 protein
+30518	CBM1		Carbohydrate-Binding Module Family 1 protein
+32143	GH5_7		Glycoside Hydrolase Family 5 protein
+39329	DOC2-CE1		Non-Catalytic Module Family DOC2 / Carbohydrate Esterase Family 1 protein
+42509	GH43_4		Glycoside Hydrolase Family 43 protein
+50107	GT34	fragment N-term / C-term;	Glycosyltransferase Family 34 protein
+50261	GH11		Glycoside Hydrolase Family 11 protein
+52187	CBM1-PL1		Carbohydrate-Binding Module Family 1  / Polysaccharide Lyase Family 1 protein
+52218	CBM1-CE12		Carbohydrate-Binding Module Family 1  / Carbohydrate Esterase Family 12 protein
+53776	CBM18		Carbohydrate-Binding Module Family 18 protein
+53847	GH1		Glycoside Hydrolase Family 1 protein
+53857	GH1		Glycoside Hydrolase Family 1 protein
+62464	CBM18-CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+62479	CBM18-CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+63061	CBM12		Carbohydrate-Binding Module Family 12 protein
+65711	DOC2-DOC2-DOC2-GH5_1		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 5 protein
+69157	GH48-DOC2-DOC2		Glycoside Hydrolase Family 48  / Non-Catalytic Module Family DOC2
+69199	DOC2		Non-Catalytic Module Family DOC2
+69334	DOC2-DOC2		Non-Catalytic Module Family DOC2
+71360	CBM48		Carbohydrate-Binding Module Family 48 protein
+74770	CBM1		Carbohydrate-Binding Module Family 1 protein
+82829	DOC2		Non-Catalytic Module Family DOC2
+85209	CE6-DOC2-DOC2		Carbohydrate Esterase Family 6  / Non-Catalytic Module Family DOC2
+86893	CBM18-CBM18-CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+87122	GH11-CBM1		Glycoside Hydrolase Family 11  / Carbohydrate-Binding Module Family 1 protein
+87201	GH11-CBM1		Glycoside Hydrolase Family 11  / Carbohydrate-Binding Module Family 1 protein
+97632	GH45		Glycoside Hydrolase Family 45 protein
+102803	GT20		Glycosyltransferase Family 20 protein
+102974	CE4		Carbohydrate Esterase Family 4 protein
+103103	CE4		Carbohydrate Esterase Family 4 protein
+106767	CE2		Carbohydrate Esterase Family 2 protein
+121049	Myosin_motor-GT2		Glycosyltransferase Family 2 protein
+133895	CE4		Carbohydrate Esterase Family 4 protein
+134374	DOC2-DOC2-EXPN		Non-Catalytic Module Family DOC2 / Distantly related to plant expansins
+135082	DOC2-CE1		Non-Catalytic Module Family DOC2 / Carbohydrate Esterase Family 1 protein
+138987	GH5_7		Glycoside Hydrolase Family 5 protein
+140307	DOC2-DOC2-DOC2		Non-Catalytic Module Family DOC2
+151375	CBM1		Carbohydrate-Binding Module Family 1 protein
+152561	CBM18-CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+152648	CBM18-CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+164674	CBM18-CBM18-CBM18-CBM18-CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+165454	GT4		Glycosyltransferase Family 4 protein
+174042	PL3_2		Polysaccharide Lyase Family 3 protein
+174043	PL3_2		Polysaccharide Lyase Family 3 protein
+174110	PL3_2		Polysaccharide Lyase Family 3 protein
+174151	DOC2-DOC2-GH6		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 6 protein
+174400	GH26-DOC2-DOC2		Glycoside Hydrolase Family 26  / Non-Catalytic Module Family DOC2
+176754	GH5_4-DOC2		Glycoside Hydrolase Family 5  / Non-Catalytic Module Family DOC2
+189152	DOC2-DOC2-CE1		Non-Catalytic Module Family DOC2 / Carbohydrate Esterase Family 1 protein
+189205	GH48-DOC2-DOC2		Glycoside Hydrolase Family 48  / Non-Catalytic Module Family DOC2
+210495	DOC2-DOC2-GH45		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 45 protein
+216701	DOC2-DOC2-GH6		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 6 protein
+216737	DOC2-DOC2-GH6		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 6 protein
+225291	CE2-CE2		Carbohydrate Esterase Family 2 protein
+236157	CBM1-GH6		Carbohydrate-Binding Module Family 1  / Glycoside Hydrolase Family 6 protein
+245186	CBM18-CBM18-CBM18-CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+256557	GT2		Glycosyltransferase Family 2 protein
+256568	GT2		Glycosyltransferase Family 2 protein
+256597	CBM1-GH6		Carbohydrate-Binding Module Family 1  / Glycoside Hydrolase Family 6 protein
+259404	GH10-CBM1		Glycoside Hydrolase Family 10  / Carbohydrate-Binding Module Family 1 protein
+260294	CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+263450	GH11-CBM1		Glycoside Hydrolase Family 11  / Carbohydrate-Binding Module Family 1 protein
+263542	GH11-CBM1		Glycoside Hydrolase Family 11  / Carbohydrate-Binding Module Family 1 protein
+263550	GH11-CBM1		Glycoside Hydrolase Family 11  / Carbohydrate-Binding Module Family 1 protein
+263805	GH124-DOC2-DOC2		Glycoside Hydrolase Family 124  / Non-Catalytic Module Family DOC2
+271820	DOC2-DOC2	(fragment)  splicing problem;	Non-Catalytic Module Family DOC2
+280328	GH10-CBM13-DOC2-DOC2		Glycoside Hydrolase Family 10  / Carbohydrate-Binding Module Family 13  / Non-Catalytic Module Family DOC2
+292348	DOC2-DOC2-EXPN		Non-Catalytic Module Family DOC2 / Distantly related to plant expansins
+292759	GT4	fragment C-term;	Glycosyltransferase Family 4 protein
+299884	DOC2		Non-Catalytic Module Family DOC2
+305821	CBM18		Carbohydrate-Binding Module Family 18 protein
+307245	GT34	fragment N-term;	Glycosyltransferase Family 34 protein
+320628	GT22		Glycosyltransferase Family 22 protein
+321685	DOC2-DOC2-DOC2-DOC2-DOC2-DOC2-DOC2-DOC2		Non-Catalytic Module Family DOC2
+323012	GT1		Glycosyltransferase Family 1 protein
+323681	CBM18-CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+323760	GH5_4		Glycoside Hydrolase Family 5 protein
+327489	GH11-DOC2-DOC2		Glycoside Hydrolase Family 11  / Non-Catalytic Module Family DOC2
+339299	GH39-CBM13-DOC2-DOC2		Glycoside Hydrolase Family 39  / Carbohydrate-Binding Module Family 13  / Non-Catalytic Module Family DOC2
+348298	DOC2-DOC2-CE1		Non-Catalytic Module Family DOC2 / Carbohydrate Esterase Family 1 protein
+353492	CBM18		Carbohydrate-Binding Module Family 18 protein
+359996	DOC2-DOC2-GH6		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 6 protein
+373357	GH13_14		Glycoside Hydrolase Family 13 protein
+376032	PL1		Polysaccharide Lyase Family 1 protein
+383968	DOC2-CE1		Non-Catalytic Module Family DOC2 / Carbohydrate Esterase Family 1 protein
+386075	CE6-DOC2-DOC2		Carbohydrate Esterase Family 6  / Non-Catalytic Module Family DOC2
+414638	GH11		Glycoside Hydrolase Family 11 protein
+422021	CBM18		Carbohydrate-Binding Module Family 18 protein
+426419	GT2		Glycosyltransferase Family 2 protein
+429267	PL1		Polysaccharide Lyase Family 1 protein
+439801	DOC2-DOC2-GH6		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 6 protein
+439815	DOC2-DOC2-GH6		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 6 protein
+439841	DOC2-DOC2-GH6		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 6 protein
+441263	CE4		Carbohydrate Esterase Family 4 protein
+442893	CBM18-GH18	(fragment)  splicing problem;	Carbohydrate-Binding Module Family 18  / Glycoside Hydrolase Family 18 protein
+444460	GH10-CBM1		Glycoside Hydrolase Family 10  / Carbohydrate-Binding Module Family 1 protein
+461992	GH48-DOC2-DOC2		Glycoside Hydrolase Family 48  / Non-Catalytic Module Family DOC2
+469001	CBM18-CBM18-CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+472957	GT20	fragment N-term;	Glycosyltransferase Family 20 protein
+479765	CBM87-CE18		Carbohydrate-Binding Module Family 87  / Carbohydrate Esterase Family 18 protein
+480024	CBM87-CE18-CBM1-CBM1		Carbohydrate-Binding Module Family 87  / Carbohydrate Esterase Family 18  / Carbohydrate-Binding Module Family 1 protein
+489686	GH5_4-DOC2-DOC2	fragment N-term;	Glycoside Hydrolase Family 5  / Non-Catalytic Module Family DOC2
+489940	GH11-CBM1		Glycoside Hydrolase Family 11  / Carbohydrate-Binding Module Family 1 protein
+495720	GH11		Glycoside Hydrolase Family 11 protein
+498183	DOC2-DOC2-CE15		Non-Catalytic Module Family DOC2 / Carbohydrate Esterase Family 15 protein
+499441	GH11-GH11-GH11-GH11-GH11-GH11-CE4		Glycoside Hydrolase Family 11  / Carbohydrate Esterase Family 4 protein
+505434	CBM1		Carbohydrate-Binding Module Family 1 protein
+507843	GH5_4		Glycoside Hydrolase Family 5 protein
+511835	PL1		Polysaccharide Lyase Family 1 protein
+529450	CBM18		Carbohydrate-Binding Module Family 18 protein
+536396	CBM1-CBM1		Carbohydrate-Binding Module Family 1 protein
+538855	GT2		Glycosyltransferase Family 2 protein
+553457	DOC2		Non-Catalytic Module Family DOC2
+578655	GH5_4-DOC2-DOC2		Glycoside Hydrolase Family 5  / Non-Catalytic Module Family DOC2
+578717	GH5_4-DOC2-DOC2		Glycoside Hydrolase Family 5  / Non-Catalytic Module Family DOC2
+578733	GH5_4-DOC2-DOC2		Glycoside Hydrolase Family 5  / Non-Catalytic Module Family DOC2
+581435	DOC2-DOC2-GH45		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 45 protein
+590947	CBM1		Carbohydrate-Binding Module Family 1 protein
+591836	CBM1		Carbohydrate-Binding Module Family 1 protein
+594083	GH3		Glycoside Hydrolase Family 3 protein
+599620	GH53-DOC2-DOC2		Glycoside Hydrolase Family 53  / Non-Catalytic Module Family DOC2
+601915	DOC2-DOC2-DOC2-CBM1-CBM1		Non-Catalytic Module Family DOC2 / Carbohydrate-Binding Module Family 1 protein
+602025	DOC2-DOC2-GH6		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 6 protein
+604437	CE6		Carbohydrate Esterase Family 6 protein
+604512	CBM18-CBM18-CBM18-CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+606965	DOC2-CE1		Non-Catalytic Module Family DOC2 / Carbohydrate Esterase Family 1 protein
+609534	CE8-CBM1		Carbohydrate Esterase Family 8  / Carbohydrate-Binding Module Family 1 protein
+615437	CBM18		Carbohydrate-Binding Module Family 18 protein
+622267	CE1		Carbohydrate Esterase Family 1 protein
+624873	GH53-DOC2-DOC2		Glycoside Hydrolase Family 53  / Non-Catalytic Module Family DOC2
+630636	CBM1		Carbohydrate-Binding Module Family 1 protein
+635744	GT8		Glycosyltransferase Family 8 protein
+642611	DOC2-DOC2-GH6		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 6 protein
+642615	DOC2-DOC2-GH6		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 6 protein
+642626	DOC2-DOC2-GH6		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 6 protein
+884128	GH114		Glycoside Hydrolase Family 114 protein
+921403	CE6-CBM1		Carbohydrate Esterase Family 6  / Carbohydrate-Binding Module Family 1 protein
+921553	GT2		Glycosyltransferase Family 2 protein
+921754	Myosin_motor-GT2		Glycosyltransferase Family 2 protein
+922520	CBM87-CE18		Carbohydrate-Binding Module Family 87  / Carbohydrate Esterase Family 18 protein
+922723	GT2		Glycosyltransferase Family 2 protein
+923774	CBM18		Carbohydrate-Binding Module Family 18 protein
+923970	CE1		Carbohydrate Esterase Family 1 protein
+924125	DOC2-DOC2		Non-Catalytic Module Family DOC2
+924211	GT22		Glycosyltransferase Family 22 protein
+925141	CE6		Carbohydrate Esterase Family 6 protein
+925839	DOC2		Non-Catalytic Module Family DOC2
+926398	GT41	(fragment)  splicing problem;	Glycosyltransferase Family 41 protein
+926790	GH48-DOC2-DOC2		Glycoside Hydrolase Family 48  / Non-Catalytic Module Family DOC2
+926959	GH124-DOC2-DOC2		Glycoside Hydrolase Family 124  / Non-Catalytic Module Family DOC2
+927101	GH48-DOC2-DOC2		Glycoside Hydrolase Family 48  / Non-Catalytic Module Family DOC2
+927288	CBM18		Carbohydrate-Binding Module Family 18 protein
+927918	GT2		Glycosyltransferase Family 2 protein
+928215	EXPN		Distantly related to plant expansins
+929293	CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+929507	GH36		Glycoside Hydrolase Family 36 protein
+930089	GT2	fragment C-term;	Glycosyltransferase Family 2 protein
+931262	GH32		Glycoside Hydrolase Family 32 protein
+931352	GH32-GH32	fragment N-term;	Glycoside Hydrolase Family 32 protein
+931534	GT2		Glycosyltransferase Family 2 protein
+932078	GT2		Glycosyltransferase Family 2 protein
+932305	DOC2-DOC2-CBM10-GH45		Non-Catalytic Module Family DOC2 / Carbohydrate-Binding Module Family 10  / Glycoside Hydrolase Family 45 protein
+932592	GH16_10		Glycoside Hydrolase Family 16 protein
+932969	DOC2-DOC2	fragment N-term;	Non-Catalytic Module Family DOC2
+933132	CBM1-PL3_2		Carbohydrate-Binding Module Family 1  / Polysaccharide Lyase Family 3 protein
+933440	GH10-CBM13-DOC2-DOC2		Glycoside Hydrolase Family 10  / Carbohydrate-Binding Module Family 13  / Non-Catalytic Module Family DOC2
+933954	CBM35		Carbohydrate-Binding Module Family 35 protein
+934182	DOC2-DOC2-DOC2-EXPN		Non-Catalytic Module Family DOC2 / Distantly related to plant expansins
+934298	GH13_14		Glycoside Hydrolase Family 13 protein
+934641	GH16_10		Glycoside Hydrolase Family 16 protein
+936186	CBM18	fragment N-term;	Carbohydrate-Binding Module Family 18 protein
+936206	DOC2-DOC2		Non-Catalytic Module Family DOC2
+937751	GT22		Glycosyltransferase Family 22 protein
+938498	CE12		Carbohydrate Esterase Family 12 protein
+938569	DOC2		Non-Catalytic Module Family DOC2
+938864	CBM48		Carbohydrate-Binding Module Family 48 protein
+938912	CBM48-GH13_8		Carbohydrate-Binding Module Family 48  / Glycoside Hydrolase Family 13 protein
+939143	GT17		Glycosyltransferase Family 17 protein
+940442	DOC2		Non-Catalytic Module Family DOC2
+940715	DOC2-DOC2	fragment N-term / C-term;	Non-Catalytic Module Family DOC2
+940786	DOC2-DOC2-DOC2-CBM1	fragment C-term;	Non-Catalytic Module Family DOC2 / Carbohydrate-Binding Module Family 1 protein
+940921	EXPN-CBM63-DOC2		Distantly related to plant expansins / Carbohydrate-Binding Module Family 63  / Non-Catalytic Module Family DOC2
+941009	GT101		Glycosyltransferase Family 101 protein
+941065	GT2	(fragment)  splicing problem;	Glycosyltransferase Family 2 protein
+941845	GH18		Glycoside Hydrolase Family 18 protein
+942093	CBM29	fragment N-term;	Carbohydrate-Binding Module Family 29 protein
+942360	DOC2		Non-Catalytic Module Family DOC2
+942486	DOC2		Non-Catalytic Module Family DOC2
+943120	Myosin_motor-GT2		Glycosyltransferase Family 2 protein
+943795	CE1		Carbohydrate Esterase Family 1 protein
+944018	DOC2-DOC2-GH115	fragment C-term;	Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 115 protein
+944148	DOC2-GH26-GH26		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 26 protein
+944390	GT8		Glycosyltransferase Family 8 protein
+944394	DOC2-DOC2-DOC2		Non-Catalytic Module Family DOC2
+945610	GT2		Glycosyltransferase Family 2 protein
+946014	CBM48-GH13_8		Carbohydrate-Binding Module Family 48  / Glycoside Hydrolase Family 13 protein
+946271	CE4		Carbohydrate Esterase Family 4 protein
+946345	DOC2-DOC2		Non-Catalytic Module Family DOC2
+947185	CBM48		Carbohydrate-Binding Module Family 48 protein
+947322	CBM18		Carbohydrate-Binding Module Family 18 protein
+947613	CBM18-CBM18-CBM18-CBM18-CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+948184	CBM18-CBM18-CBM18-CBM18-CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+948253	DOC2		Non-Catalytic Module Family DOC2
+948577	CBM18	(fragment)  splicing problem;	Carbohydrate-Binding Module Family 18 protein
+948589	GH39-CBM13	fragment N-term;	Glycoside Hydrolase Family 39  / Carbohydrate-Binding Module Family 13 protein
+949749	CBM21		Carbohydrate-Binding Module Family 21 protein
+950403	CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+951413	CBM1		Carbohydrate-Binding Module Family 1 protein
+951507	CBM18-CBM18-CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+952463	GH9-DOC2-DOC2		Glycoside Hydrolase Family 9  / Non-Catalytic Module Family DOC2
+952725	CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+955650	CBM12		Carbohydrate-Binding Module Family 12 protein
+956103	DOC2-DOC2		Non-Catalytic Module Family DOC2
+956602	GH11		Glycoside Hydrolase Family 11 protein
+956901	CBM18		Carbohydrate-Binding Module Family 18 protein
+957104	GH114-CBM18		Glycoside Hydrolase Family 114  / Carbohydrate-Binding Module Family 18 protein
+957743	DOC2-DOC2		Non-Catalytic Module Family DOC2
+958035	GH11-GH11		Glycoside Hydrolase Family 11 protein
+958933	DOC2-DOC2		Non-Catalytic Module Family DOC2
+959217	GH114		Glycoside Hydrolase Family 114 protein
+959273	DOC2-DOC2		Non-Catalytic Module Family DOC2
+960487	EXPN		Distantly related to plant expansins
+961377	CBM18-CBM18-CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+961488	CE4		Carbohydrate Esterase Family 4 protein
+961623	DOC2-DOC2-DOC2		Non-Catalytic Module Family DOC2
+961754	CE4		Carbohydrate Esterase Family 4 protein
+961828	DOC2		Non-Catalytic Module Family DOC2
+961834	PL3_2		Polysaccharide Lyase Family 3 protein
+962908	DOC2-DOC2-DOC2-DOC2		Non-Catalytic Module Family DOC2
+962955	CBM1		Carbohydrate-Binding Module Family 1 protein
+963696	CBM18		Carbohydrate-Binding Module Family 18 protein
+966148	CBM1-PL3		Carbohydrate-Binding Module Family 1  / Polysaccharide Lyase Family 3 protein
+966605	GH3-DOC2-GH6-DOC2-DOC2		Glycoside Hydrolase Family 3  / Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 6 protein
+966802	DOC2-CBM18		Non-Catalytic Module Family DOC2 / Carbohydrate-Binding Module Family 18 protein
+966859	DOC2-DOC2		Non-Catalytic Module Family DOC2
+967916	CBM18		Carbohydrate-Binding Module Family 18 protein
+968128	CBM18		Carbohydrate-Binding Module Family 18 protein
+969059	DOC2		Non-Catalytic Module Family DOC2
+969479	CBM18		Carbohydrate-Binding Module Family 18 protein
+970100	GH31	fragment N-term;	Glycoside Hydrolase Family 31 protein
+972400	GH5_7		Glycoside Hydrolase Family 5 protein
+972543	CBM1-GH6		Carbohydrate-Binding Module Family 1  / Glycoside Hydrolase Family 6 protein
+972821	GT4		Glycosyltransferase Family 4 protein
+972881	DOC2-DOC2		Non-Catalytic Module Family DOC2
+973500	GH5_5-CBM10-DOC2-DOC2		Glycoside Hydrolase Family 5  / Carbohydrate-Binding Module Family 10  / Non-Catalytic Module Family DOC2
+973503	DOC2-DOC2		Non-Catalytic Module Family DOC2
+974317	DOC2-DOC2-DOC2-DOC2-DOC2-DOC2-CBM1		Non-Catalytic Module Family DOC2 / Carbohydrate-Binding Module Family 1 protein
+974519	CE6-DOC2-DOC2		Carbohydrate Esterase Family 6  / Non-Catalytic Module Family DOC2
+974574	GT2		Glycosyltransferase Family 2 protein
+974833	CE1		Carbohydrate Esterase Family 1 protein
+975286	DOC2		Non-Catalytic Module Family DOC2
+975813	GT2		Glycosyltransferase Family 2 protein
+976154	GH11		Glycoside Hydrolase Family 11 protein
+976179	GH10-CBM1		Glycoside Hydrolase Family 10  / Carbohydrate-Binding Module Family 1 protein
+977185	CBM18-CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+977600	CE4-CBM18-CBM18-CBM18-CBM18-CBM18		Carbohydrate Esterase Family 4  / Carbohydrate-Binding Module Family 18 protein
+977870	GH9-DOC2-DOC2-DOC2		Glycoside Hydrolase Family 9  / Non-Catalytic Module Family DOC2
+978289	Myosin_motor-GT2		Glycosyltransferase Family 2 protein
+978418	CBM18		Carbohydrate-Binding Module Family 18 protein
+978535	GH5_7		Glycoside Hydrolase Family 5 protein
+978830	CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+978973	GT34		Glycosyltransferase Family 34 protein
+979306	CE8-CBM1		Carbohydrate Esterase Family 8  / Carbohydrate-Binding Module Family 1 protein
+979556	GH18		Glycoside Hydrolase Family 18 protein
+979581	GH47		Glycoside Hydrolase Family 47 protein
+979626	GH5_7		Glycoside Hydrolase Family 5 protein
+979756	CE4		Carbohydrate Esterase Family 4 protein
+980329	GT10		Glycosyltransferase Family 10 protein
+980524	CBM10-CBM10		Carbohydrate-Binding Module Family 10 protein
+980608	GH48-DOC2-DOC2		Glycoside Hydrolase Family 48  / Non-Catalytic Module Family DOC2
+980871	CE2		Carbohydrate Esterase Family 2 protein
+980876	GH1		Glycoside Hydrolase Family 1 protein
+981428	Myosin_motor-GT2		Glycosyltransferase Family 2 protein
+981495	GT2		Glycosyltransferase Family 2 protein
+982250	GH43_10-CBM22-DOC2-DOC2		Glycoside Hydrolase Family 43  / Carbohydrate-Binding Module Family 22  / Non-Catalytic Module Family DOC2
+982594	GT1		Glycosyltransferase Family 1 protein
+982697	DOC2-DOC2		Non-Catalytic Module Family DOC2
+983037	GH47		Glycoside Hydrolase Family 47 protein
+983506	GH5_4-DOC2-DOC2		Glycoside Hydrolase Family 5  / Non-Catalytic Module Family DOC2
+984303	DOC2-DOC2-GH6		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 6 protein
+984447	DOC2-DOC2-DOC2		Non-Catalytic Module Family DOC2
+984504	DOC2-DOC2		Non-Catalytic Module Family DOC2
+984764	CBM1-GH6		Carbohydrate-Binding Module Family 1  / Glycoside Hydrolase Family 6 protein
+985415	CBM35-GH26-DOC2-DOC2		Carbohydrate-Binding Module Family 35  / Glycoside Hydrolase Family 26  / Non-Catalytic Module Family DOC2
+985524	CBM52-GH64		Carbohydrate-Binding Module Family 52  / Glycoside Hydrolase Family 64 protein
+986162	CE15-DOC2-DOC2		Carbohydrate Esterase Family 15  / Non-Catalytic Module Family DOC2
+986208	GT71		Glycosyltransferase Family 71 protein
+986360	GT39		Glycosyltransferase Family 39 protein
+986760	DOC2-DOC2-CBM1-GH45		Non-Catalytic Module Family DOC2 / Carbohydrate-Binding Module Family 1  / Glycoside Hydrolase Family 45 protein
+987146	GH3		Glycoside Hydrolase Family 3 protein
+987191	EXPN-CBM63		Distantly related to plant expansins / Carbohydrate-Binding Module Family 63 protein
+987317	GH10-CBM13-DOC2-DOC2		Glycoside Hydrolase Family 10  / Carbohydrate-Binding Module Family 13  / Non-Catalytic Module Family DOC2
+987534	GH1		Glycoside Hydrolase Family 1 protein
+987717	GH3		Glycoside Hydrolase Family 3 protein
+987829	GH5_7		Glycoside Hydrolase Family 5 protein
+988851	CE4		Carbohydrate Esterase Family 4 protein
+989296	GH43_16-CBM6-CBM1		Glycoside Hydrolase Family 43  / Carbohydrate-Binding Module Family 6  / Carbohydrate-Binding Module Family 1 protein
+989662	GT35		Glycosyltransferase Family 35 protein
+989839	DOC2-DOC2-GH6		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 6 protein
+989875	DOC2-DOC2-GH6		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 6 protein
+990092	GH13_28		Glycoside Hydrolase Family 13 protein
+990241	CBM21		Carbohydrate-Binding Module Family 21 protein
+990253	CE4		Carbohydrate Esterase Family 4 protein
+990773	DOC2-DOC2-CBM1-GH45		Non-Catalytic Module Family DOC2 / Carbohydrate-Binding Module Family 1  / Glycoside Hydrolase Family 45 protein
+991188	DOC2-DOC2-GH10		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 10 protein
+991298	CE6-DOC2-DOC2		Carbohydrate Esterase Family 6  / Non-Catalytic Module Family DOC2
+991449	CBM10-CBM10		Carbohydrate-Binding Module Family 10 protein
+992801	CE1		Carbohydrate Esterase Family 1 protein
+993033	GH11-GH10-DOC2-DOC2		Glycoside Hydrolase Family 11  / Glycoside Hydrolase Family 10  / Non-Catalytic Module Family DOC2
+993394	GT34		Glycosyltransferase Family 34 protein
+993584	GT2		Glycosyltransferase Family 2 protein
+993598	GT2		Glycosyltransferase Family 2 protein
+993640	CBM26-GH31		Carbohydrate-Binding Module Family 26  / Glycoside Hydrolase Family 31 protein
+993845	GH11-GH10-DOC2		Glycoside Hydrolase Family 11  / Glycoside Hydrolase Family 10  / Non-Catalytic Module Family DOC2
+994270	EXPN-CBM63		Distantly related to plant expansins / Carbohydrate-Binding Module Family 63 protein
+994291	CE4		Carbohydrate Esterase Family 4 protein
+995372	GH48-DOC2-DOC2		Glycoside Hydrolase Family 48  / Non-Catalytic Module Family DOC2
+995969	CBM18-CBM18-CBM18-CBM18-CBM18-CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+996094	DOC2-DOC2-DOC2-GH45		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 45 protein
+996244	DOC2-DOC2-GH6		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 6 protein
+996664	DOC2-DOC2-DOC2-EXPN		Non-Catalytic Module Family DOC2 / Distantly related to plant expansins
+997245	CBM29-CBM1		Carbohydrate-Binding Module Family 29  / Carbohydrate-Binding Module Family 1 protein
+997604	CBM48		Carbohydrate-Binding Module Family 48 protein
+997829	GH1		Glycoside Hydrolase Family 1 protein
+997896	DOC2-DOC2-CBM1-CBM1		Non-Catalytic Module Family DOC2 / Carbohydrate-Binding Module Family 1 protein
+997911	DOC2-CBM1		Non-Catalytic Module Family DOC2 / Carbohydrate-Binding Module Family 1 protein
+998731	GH9-DOC2-DOC2-DOC2		Glycoside Hydrolase Family 9  / Non-Catalytic Module Family DOC2
+998827	GH114		Glycoside Hydrolase Family 114 protein
+999008	EXPN-CBM63-DOC2-DOC2		Distantly related to plant expansins / Carbohydrate-Binding Module Family 63  / Non-Catalytic Module Family DOC2
+999670	GT4		Glycosyltransferase Family 4 protein
+1000032	CBM13-PL1-CBM13-CBM13		Carbohydrate-Binding Module Family 13  / Polysaccharide Lyase Family 1 protein
+1000200	EXPN		Distantly related to plant expansins
+1000278	CBM18-CBM18-CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1000478	GH10-CBM1		Glycoside Hydrolase Family 10  / Carbohydrate-Binding Module Family 1 protein
+1000637	CBM10-GH45		Carbohydrate-Binding Module Family 10  / Glycoside Hydrolase Family 45 protein
+1001424	CE8		Carbohydrate Esterase Family 8 protein
+1001578	GH47		Glycoside Hydrolase Family 47 protein
+1002137	CBM18-CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1002192	GH114		Glycoside Hydrolase Family 114 protein
+1002352	GH114-DOC2-DOC2-DOC2		Glycoside Hydrolase Family 114  / Non-Catalytic Module Family DOC2
+1002393	DOC2-DOC2-DOC2-CBM1		Non-Catalytic Module Family DOC2 / Carbohydrate-Binding Module Family 1 protein
+1002396	DOC2-DOC2-DOC2-DOC2-DOC2-CBM1		Non-Catalytic Module Family DOC2 / Carbohydrate-Binding Module Family 1 protein
+1002571	CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1002633	GH26-DOC2-DOC2		Glycoside Hydrolase Family 26  / Non-Catalytic Module Family DOC2
+1003231	GH5_4-GH5_4-GH5_4-DOC2-DOC2	fragment N-term;	Glycoside Hydrolase Family 5  / Non-Catalytic Module Family DOC2
+1003352	DOC2-DOC2-CBM1-CBM1-CBM1		Non-Catalytic Module Family DOC2 / Carbohydrate-Binding Module Family 1 protein
+1003359	DOC2-DOC2-DOC2-CBM1-CBM1-CBM1-CBM1		Non-Catalytic Module Family DOC2 / Carbohydrate-Binding Module Family 1 protein
+1003412	DOC2-DOC2-DOC2		Non-Catalytic Module Family DOC2
+1003546	GH10-CBM29-CBM29-CBM29-DOC2-DOC2-DOC2		Glycoside Hydrolase Family 10  / Carbohydrate-Binding Module Family 29  / Non-Catalytic Module Family DOC2
+1003974	DOC2-DOC2-GH45		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 45 protein
+1004662	GT2		Glycosyltransferase Family 2 protein
+1005628	GT58		Glycosyltransferase Family 58 protein
+1006221	GH43_4	fragment N-term / C-term;	Glycoside Hydrolase Family 43 protein
+1006448	GH3		Glycoside Hydrolase Family 3 protein
+1006459	CE4		Carbohydrate Esterase Family 4 protein
+1006470	GH9	fragment N-term;	Glycoside Hydrolase Family 9 protein
+1006492	CBM52-CBM52-GH16_3		Carbohydrate-Binding Module Family 52  / Glycoside Hydrolase Family 16 protein
+1006591	GH16_21		Glycoside Hydrolase Family 16 protein
+1006596	CBM87-CE18		Carbohydrate-Binding Module Family 87  / Carbohydrate Esterase Family 18 protein
+1006683	GH115	fragment N-term;	Glycoside Hydrolase Family 115 protein
+1006827	CBM18-CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1006913	GH10-CBM1		Glycoside Hydrolase Family 10  / Carbohydrate-Binding Module Family 1 protein
+1007483	CBM52-CBM52-GH16_3		Carbohydrate-Binding Module Family 52  / Glycoside Hydrolase Family 16 protein
+1007747	GH114		Glycoside Hydrolase Family 114 protein
+1007824	CBM48		Carbohydrate-Binding Module Family 48 protein
+1008169	DOC2-DOC2		Non-Catalytic Module Family DOC2
+1008382	CBM1-PL1-PL1		Carbohydrate-Binding Module Family 1  / Polysaccharide Lyase Family 1 protein
+1008489	CBM87-CE18		Carbohydrate-Binding Module Family 87  / Carbohydrate Esterase Family 18 protein
+1008534	GH1		Glycoside Hydrolase Family 1 protein
+1008746	DOC2-DOC2		Non-Catalytic Module Family DOC2
+1008819	CBM18-CBM18-CBM18-CBM18-CE4		Carbohydrate-Binding Module Family 18  / Carbohydrate Esterase Family 4 protein
+1009300	CE6-CBM13-DOC2-DOC2		Carbohydrate Esterase Family 6  / Carbohydrate-Binding Module Family 13  / Non-Catalytic Module Family DOC2
+1009309	DOC2-DOC2		Non-Catalytic Module Family DOC2
+1009640	CE4		Carbohydrate Esterase Family 4 protein
+1009672	DOC2-DOC2-GH43_29-GH43_29-GH43_29-GH43_29		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 43 protein
+1009699	CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1010410	GH20		Glycoside Hydrolase Family 20 protein
+1010833	CE4		Carbohydrate Esterase Family 4 protein
+1011228	DOC2-DOC2-DOC2-DOC2-DOC2-DOC2		Non-Catalytic Module Family DOC2
+1011239	CBM18-CBM18-CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1011309	GH43_16-CBM6-DOC2-DOC2		Glycoside Hydrolase Family 43  / Carbohydrate-Binding Module Family 6  / Non-Catalytic Module Family DOC2
+1011902	CBM18-CBM18-CE4		Carbohydrate-Binding Module Family 18  / Carbohydrate Esterase Family 4 protein
+1011920	DOC2-DOC2-EXPN		Non-Catalytic Module Family DOC2 / Distantly related to plant expansins
+1012277	CE4		Carbohydrate Esterase Family 4 protein
+1012937	GH3		Glycoside Hydrolase Family 3 protein
+1012953	GH11		Glycoside Hydrolase Family 11 protein
+1013244	CE4		Carbohydrate Esterase Family 4 protein
+1013609	GH11-GH11-GH11-GH11-GH11-CE3-CBM1		Glycoside Hydrolase Family 11  / Carbohydrate Esterase Family 3  / Carbohydrate-Binding Module Family 1 protein
+1014009	GT39		Glycosyltransferase Family 39 protein
+1014239	DOC2-DOC2-DOC2-DOC2		Non-Catalytic Module Family DOC2
+1014364	DOC2-DOC2		Non-Catalytic Module Family DOC2
+1014585	CBM10-GH45		Carbohydrate-Binding Module Family 10  / Glycoside Hydrolase Family 45 protein
+1014659	GT20		Glycosyltransferase Family 20 protein
+1015149	DOC2-DOC2-DOC2		Non-Catalytic Module Family DOC2
+1015189	PL3_2		Polysaccharide Lyase Family 3 protein
+1015229	GH114		Glycoside Hydrolase Family 114 protein
+1015825	CE4-CBM18-CBM18		Carbohydrate Esterase Family 4  / Carbohydrate-Binding Module Family 18 protein
+1016327	GH10-CBM1		Glycoside Hydrolase Family 10  / Carbohydrate-Binding Module Family 1 protein
+1016901	DOC2-DOC2-GH6		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 6 protein
+1017468	DOC2		Non-Catalytic Module Family DOC2
+1018204	CBM87-CE18		Carbohydrate-Binding Module Family 87  / Carbohydrate Esterase Family 18 protein
+1018245	CE6-DOC2-DOC2		Carbohydrate Esterase Family 6  / Non-Catalytic Module Family DOC2
+1018259	DOC2-DOC2		Non-Catalytic Module Family DOC2
+1019140	CBM18		Carbohydrate-Binding Module Family 18 protein
+1021065	CE6-CBM1		Carbohydrate Esterase Family 6  / Carbohydrate-Binding Module Family 1 protein
+1021349	CBM18		Carbohydrate-Binding Module Family 18 protein
+1021565	CBM1		Carbohydrate-Binding Module Family 1 protein
+1021960	CBM18		Carbohydrate-Binding Module Family 18 protein
+1021962	CBM18		Carbohydrate-Binding Module Family 18 protein
+1022204	GH10-CBM13-DOC2-DOC2		Glycoside Hydrolase Family 10  / Carbohydrate-Binding Module Family 13  / Non-Catalytic Module Family DOC2
+1022217	DOC2-DOC2-DOC2-CBM29-CBM29		Non-Catalytic Module Family DOC2 / Carbohydrate-Binding Module Family 29 protein
+1022252	GH5_5-CBM10-CBM10-GH5_5-CBM10-CBM10-DOC2-DOC2		Glycoside Hydrolase Family 5  / Carbohydrate-Binding Module Family 10  / Non-Catalytic Module Family DOC2
+1022355	DOC2-GH6		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 6 protein
+1022365	DOC2-GH6		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 6 protein
+1022427	CBM18		Carbohydrate-Binding Module Family 18 protein
+1022639	GH9-CBM13-GH43_19-DOC2-DOC2-DOC2		Glycoside Hydrolase Family 9  / Carbohydrate-Binding Module Family 13  / Glycoside Hydrolase Family 43  / Non-Catalytic Module Family DOC2
+1022653	CBM1-GH43_37-CBM61		Carbohydrate-Binding Module Family 1  / Glycoside Hydrolase Family 43  / Carbohydrate-Binding Module Family 61 protein
+1022776	DOC2-DOC2-GH6		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 6 protein
+1022976	DOC2-DOC2-DOC2		Non-Catalytic Module Family DOC2
+1023344	PL1_6	(fragment)  splicing problem;	Polysaccharide Lyase Family 1 protein
+1024000	GH5_4-DOC2-DOC2		Glycoside Hydrolase Family 5  / Non-Catalytic Module Family DOC2
+1024730	GH9-DOC2-DOC2		Glycoside Hydrolase Family 9  / Non-Catalytic Module Family DOC2
+1024737	GH9-DOC2-DOC2		Glycoside Hydrolase Family 9  / Non-Catalytic Module Family DOC2
+1024805	CBM18-CBM18-CBM18-CBM18-CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1024938	GH47		Glycoside Hydrolase Family 47 protein
+1025421	GT2	(fragment)  splicing problem;	Glycosyltransferase Family 2 protein
+1025488	CBM1-PL3_2		Carbohydrate-Binding Module Family 1  / Polysaccharide Lyase Family 3 protein
+1025532	DOC2-DOC2-CBM1		Non-Catalytic Module Family DOC2 / Carbohydrate-Binding Module Family 1 protein
+1025667	CE4		Carbohydrate Esterase Family 4 protein
+1025940	GH10		Glycoside Hydrolase Family 10 protein
+1025970	CBM1		Carbohydrate-Binding Module Family 1 protein
+1026025	DOC2-DOC2		Non-Catalytic Module Family DOC2
+1026028	GH39-CBM13		Glycoside Hydrolase Family 39  / Carbohydrate-Binding Module Family 13 protein
+1026046	GH11-GH11-DOC2-DOC2		Glycoside Hydrolase Family 11  / Non-Catalytic Module Family DOC2
+1026079	CBM18-CBM18-CBM18-CBM18-CBM18-CBM18-GH18		Carbohydrate-Binding Module Family 18  / Glycoside Hydrolase Family 18 protein
+1026773	DOC2-DOC2-GH16		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 16 protein
+1027169	GH5_7		Glycoside Hydrolase Family 5 protein
+1027182	DOC2-DOC2		Non-Catalytic Module Family DOC2
+1027298	DOC2-DOC2-DOC2-CBM1-CBM1		Non-Catalytic Module Family DOC2 / Carbohydrate-Binding Module Family 1 protein
+1027304	DOC2-CBM1-CBM1-CBM1-CBM1-CBM1-CBM1-CBM1		Non-Catalytic Module Family DOC2 / Carbohydrate-Binding Module Family 1 protein
+1027689	PL1		Polysaccharide Lyase Family 1 protein
+1027739	CBM1-CE4		Carbohydrate-Binding Module Family 1  / Carbohydrate Esterase Family 4 protein
+1027772	DOC2-DOC2-GH45		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 45 protein
+1027894	CE8-CBM1		Carbohydrate Esterase Family 8  / Carbohydrate-Binding Module Family 1 protein
+1027898	GH11-GH11-DOC2		Glycoside Hydrolase Family 11  / Non-Catalytic Module Family DOC2
+1027907	GH11-DOC2-DOC2-GH11-GH11-CE4		Glycoside Hydrolase Family 11  / Non-Catalytic Module Family DOC2 / Carbohydrate Esterase Family 4 protein
+1027971	CBM1-CBM1-CBM1-CBM1		Carbohydrate-Binding Module Family 1 protein
+1028237	DOC2-DOC2		Non-Catalytic Module Family DOC2
+1028674	CBM18		Carbohydrate-Binding Module Family 18 protein
+1028794	GH114		Glycoside Hydrolase Family 114 protein
+1029108	CBM29-CBM29-CBM29-CBM1		Carbohydrate-Binding Module Family 29  / Carbohydrate-Binding Module Family 1 protein
+1029415	GT32		Glycosyltransferase Family 32 protein
+1029427	GH1		Glycoside Hydrolase Family 1 protein
+1029430	GH1		Glycoside Hydrolase Family 1 protein
+1029436	CBM18		Carbohydrate-Binding Module Family 18 protein
+1029897	GH74-DOC2-DOC2		Glycoside Hydrolase Family 74  / Non-Catalytic Module Family DOC2
+1030134	GH43_16-CBM6		Glycoside Hydrolase Family 43  / Carbohydrate-Binding Module Family 6 protein
+1030154	GH1		Glycoside Hydrolase Family 1 protein
+1030301	DOC2-DOC2		Non-Catalytic Module Family DOC2
+1030640	DOC2-DOC2-GH30_5		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 30 protein
+1030652	CBM18-CBM18-CBM18-CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1030874	CBM18-CBM18-CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1030984	CBM26-GH31		Carbohydrate-Binding Module Family 26  / Glycoside Hydrolase Family 31 protein
+1030993	DOC2-GH45		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 45 protein
+1031313	CBM18		Carbohydrate-Binding Module Family 18 protein
+1031455	CBM87-CE18-CBM1-CBM1		Carbohydrate-Binding Module Family 87  / Carbohydrate Esterase Family 18  / Carbohydrate-Binding Module Family 1 protein
+1031673	GT2		Glycosyltransferase Family 2 protein
+1031677	GT101		Glycosyltransferase Family 101 protein
+1032046	CBM1-PL1		Carbohydrate-Binding Module Family 1  / Polysaccharide Lyase Family 1 protein
+1032224	GH10-CBM29		Glycoside Hydrolase Family 10  / Carbohydrate-Binding Module Family 29 protein
+1032413	DOC2-DOC2		Non-Catalytic Module Family DOC2
+1032442	CBM1-GH6		Carbohydrate-Binding Module Family 1  / Glycoside Hydrolase Family 6 protein
+1032459	CBM1-GH6		Carbohydrate-Binding Module Family 1  / Glycoside Hydrolase Family 6 protein
+1032465	CBM1-GH6		Carbohydrate-Binding Module Family 1  / Glycoside Hydrolase Family 6 protein
+1032838	GT34	fragment C-term;	Glycosyltransferase Family 34 protein
+1032921	GH32		Glycoside Hydrolase Family 32 protein
+1032943	GH32		Glycoside Hydrolase Family 32 protein
+1032978	GH48-DOC2-DOC2		Glycoside Hydrolase Family 48  / Non-Catalytic Module Family DOC2
+1032987	GH48-DOC2-DOC2		Glycoside Hydrolase Family 48  / Non-Catalytic Module Family DOC2
+1033236	CBM18		Carbohydrate-Binding Module Family 18 protein
+1033842	CBM35-GH26-DOC2-DOC2		Carbohydrate-Binding Module Family 35  / Glycoside Hydrolase Family 26  / Non-Catalytic Module Family DOC2
+1033919	GH11-GH11-DOC2-DOC2		Glycoside Hydrolase Family 11  / Non-Catalytic Module Family DOC2
+1033986	EXPN-CBM63		Distantly related to plant expansins / Carbohydrate-Binding Module Family 63 protein
+1034280	DOC2-DOC2-DOC2-GH9		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 9 protein
+1034394	CBM18-CBM18-CBM18-CBM18-CBM18-CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1034396	CBM18-CBM18-CBM18-CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1035177	GH10		Glycoside Hydrolase Family 10 protein
+1035498	GH3		Glycoside Hydrolase Family 3 protein
+1035502	GH3		Glycoside Hydrolase Family 3 protein
+1035513	GH3		Glycoside Hydrolase Family 3 protein
+1035541	DOC2-DOC2	(fragment)  splicing problem;	Non-Catalytic Module Family DOC2
+1036070	GH3		Glycoside Hydrolase Family 3 protein
+1036859	DOC2		Non-Catalytic Module Family DOC2
+1037044	CBM50-CBM50-CE4		Carbohydrate-Binding Module Family 50  / Carbohydrate Esterase Family 4 protein
+1037367	GT39		Glycosyltransferase Family 39 protein
+1037785	GH43_1		Glycoside Hydrolase Family 43 protein
+1037898	DOC2-DOC2-DOC2-CBM1-CBM1-CBM1		Non-Catalytic Module Family DOC2 / Carbohydrate-Binding Module Family 1 protein
+1037974	DOC2-DOC2		Non-Catalytic Module Family DOC2
+1038028	CE6-CBM1		Carbohydrate Esterase Family 6  / Carbohydrate-Binding Module Family 1 protein
+1038131	DOC2-DOC2-GH6		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 6 protein
+1038148	DOC2-DOC2-GH6		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 6 protein
+1038559	GT8		Glycosyltransferase Family 8 protein
+1038727	DOC2-DOC2		Non-Catalytic Module Family DOC2
+1039032	GT4		Glycosyltransferase Family 4 protein
+1039230	CBM35-GH26-DOC2-DOC2-DOC2-DOC2-DOC2		Carbohydrate-Binding Module Family 35  / Glycoside Hydrolase Family 26  / Non-Catalytic Module Family DOC2
+1039236	CBM35-GH26-DOC2-DOC2		Carbohydrate-Binding Module Family 35  / Glycoside Hydrolase Family 26  / Non-Catalytic Module Family DOC2
+1039355	DOC2-GH26-DOC2		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 26 protein
+1039573	GH11-GH11-CBM1		Glycoside Hydrolase Family 11  / Carbohydrate-Binding Module Family 1 protein
+1039583	GH11-CBM1		Glycoside Hydrolase Family 11  / Carbohydrate-Binding Module Family 1 protein
+1040286	DOC2-GH10		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 10 protein
+1040292	DOC2-GH10		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 10 protein
+1040450	Myosin_motor-GT2		Glycosyltransferase Family 2 protein
+1040850	GH114		Glycoside Hydrolase Family 114 protein
+1041221	DOC2-DOC2-CBM1-GH45		Non-Catalytic Module Family DOC2 / Carbohydrate-Binding Module Family 1  / Glycoside Hydrolase Family 45 protein
+1041627	GT8		Glycosyltransferase Family 8 protein
+1041689	GT10	fragment C-term;	Glycosyltransferase Family 10 protein
+1041721	GT101		Glycosyltransferase Family 101 protein
+1041756	GT2		Glycosyltransferase Family 2 protein
+1042036	DOC2-DOC2		Non-Catalytic Module Family DOC2
+1042247	DOC2-DOC2-DOC2-CBM29		Non-Catalytic Module Family DOC2 / Carbohydrate-Binding Module Family 29 protein
+1042592	GH48-DOC2-DOC2		Glycoside Hydrolase Family 48  / Non-Catalytic Module Family DOC2
+1042601	CBM1-PL3_2		Carbohydrate-Binding Module Family 1  / Polysaccharide Lyase Family 3 protein
+1042699	CE4		Carbohydrate Esterase Family 4 protein
+1042703	CE4		Carbohydrate Esterase Family 4 protein
+1042711	CE4		Carbohydrate Esterase Family 4 protein
+1042712	CE4		Carbohydrate Esterase Family 4 protein
+1042796	GT71		Glycosyltransferase Family 71 protein
+1043053	DOC2-DOC2-DOC2		Non-Catalytic Module Family DOC2
+1043394	GH11-GH11-GH11-DOC2-DOC2		Glycoside Hydrolase Family 11  / Non-Catalytic Module Family DOC2
+1043723	CE15-DOC2-DOC2		Carbohydrate Esterase Family 15  / Non-Catalytic Module Family DOC2
+1043738	GH10-CBM13-DOC2-DOC2		Glycoside Hydrolase Family 10  / Carbohydrate-Binding Module Family 13  / Non-Catalytic Module Family DOC2
+1043740	GH10-CBM13-DOC2-DOC2		Glycoside Hydrolase Family 10  / Carbohydrate-Binding Module Family 13  / Non-Catalytic Module Family DOC2
+1043858	DOC2-DOC2		Non-Catalytic Module Family DOC2
+1043862	DOC2-DOC2		Non-Catalytic Module Family DOC2
+1043868	DOC2-DOC2		Non-Catalytic Module Family DOC2
+1043990	GH9-DOC2-DOC2		Glycoside Hydrolase Family 9  / Non-Catalytic Module Family DOC2
+1044074	GH13_28-CBM26		Glycoside Hydrolase Family 13  / Carbohydrate-Binding Module Family 26 protein
+1044083	DOC2-GH26-GH26-DOC2		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 26 protein
+1044338	DOC2-DOC2-GH6		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 6 protein
+1044348	DOC2-DOC2-GH6		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 6 protein
+1044493	GT1		Glycosyltransferase Family 1 protein
+1045074	GT41		Glycosyltransferase Family 41 protein
+1045103	GH2-CBM13-DOC2-DOC2		Glycoside Hydrolase Family 2  / Carbohydrate-Binding Module Family 13  / Non-Catalytic Module Family DOC2
+1045106	GH2-CBM13-DOC2-DOC2		Glycoside Hydrolase Family 2  / Carbohydrate-Binding Module Family 13  / Non-Catalytic Module Family DOC2
+1045456	GH43_2-CBM6		Glycoside Hydrolase Family 43  / Carbohydrate-Binding Module Family 6 protein
+1045621	CBM48-GH13_8		Carbohydrate-Binding Module Family 48  / Glycoside Hydrolase Family 13 protein
+1046051	CE4		Carbohydrate Esterase Family 4 protein
+1046116	DOC2-DOC2-DOC2-EXPN		Non-Catalytic Module Family DOC2 / Distantly related to plant expansins
+1046699	DOC2-DOC2		Non-Catalytic Module Family DOC2
+1047105	CBM48		Carbohydrate-Binding Module Family 48 protein
+1047177	DOC2-DOC2-DOC2-CBM1-CBM1-CBM1		Non-Catalytic Module Family DOC2 / Carbohydrate-Binding Module Family 1 protein
+1047215	CBM18-CBM18-CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1047272	GH11-CBM1		Glycoside Hydrolase Family 11  / Carbohydrate-Binding Module Family 1 protein
+1047654	DOC2-DOC2-CBM1-CBM1-CBM1-CBM1-CBM1-CBM1		Non-Catalytic Module Family DOC2 / Carbohydrate-Binding Module Family 1 protein
+1047688	DOC2-GH45		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 45 protein
+1047952	CBM18-CBM18-CBM18-CBM18-GH18		Carbohydrate-Binding Module Family 18  / Glycoside Hydrolase Family 18 protein
+1048004	GH39-CBM13-DOC2-DOC2		Glycoside Hydrolase Family 39  / Carbohydrate-Binding Module Family 13  / Non-Catalytic Module Family DOC2
+1048016	GH9-DOC2-DOC2-DOC2		Glycoside Hydrolase Family 9  / Non-Catalytic Module Family DOC2
+1048538	GT17		Glycosyltransferase Family 17 protein
+1048726	GT34		Glycosyltransferase Family 34 protein
+1048786	DOC2-DOC2-GH43_29		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 43 protein
+1048846	GT8		Glycosyltransferase Family 8 protein
+1049051	GH73		Glycoside Hydrolase Family 73 protein
+1049188	CE8		Carbohydrate Esterase Family 8 protein
+1049332	DOC2		Non-Catalytic Module Family DOC2
+1049704	DOC2		Non-Catalytic Module Family DOC2
+1049876	CE4		Carbohydrate Esterase Family 4 protein
+1049972	GH13_25-GH133		Glycoside Hydrolase Family 13  / Glycoside Hydrolase Family 133 protein
+1050086	GH114-DOC2-DOC2-DOC2		Glycoside Hydrolase Family 114  / Non-Catalytic Module Family DOC2
+1050193	CBM18-CBM18-CBM18-CBM18-CBM18-CBM18-CE4		Carbohydrate-Binding Module Family 18  / Carbohydrate Esterase Family 4 protein
+1050236	GH114		Glycoside Hydrolase Family 114 protein
+1050239	GH114-DOC2-DOC2-DOC2-DOC2		Glycoside Hydrolase Family 114  / Non-Catalytic Module Family DOC2
+1050394	CBM18-CBM18-CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1050407	CBM18-CBM18-CBM18-CBM18-CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1050431	DOC2-DOC2		Non-Catalytic Module Family DOC2
+1050693	GH3		Glycoside Hydrolase Family 3 protein
+1051129	GT4		Glycosyltransferase Family 4 protein
+1051333	CBM87-CE18		Carbohydrate-Binding Module Family 87  / Carbohydrate Esterase Family 18 protein
+1051461	GH5_5-CBM10-CBM10-CBM1		Glycoside Hydrolase Family 5  / Carbohydrate-Binding Module Family 10 protein
+1051790	DOC2-DOC2-DOC2-EXPN		Non-Catalytic Module Family DOC2 / Distantly related to plant expansins
+1051819	CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1051916	CE8-CBM1		Carbohydrate Esterase Family 8  / Carbohydrate-Binding Module Family 1 protein
+1051950	GH8-DOC2		Glycoside Hydrolase Family 8  / Non-Catalytic Module Family DOC2
+1051988	GT3		Glycosyltransferase Family 3 protein
+1052770	CBM18-CBM18-CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1052772	CBM18-CBM18-CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1052784	CBM1		Carbohydrate-Binding Module Family 1 protein
+1052887	DOC2-DOC2		Non-Catalytic Module Family DOC2
+1052907	GH31		Glycoside Hydrolase Family 31 protein
+1052950	DOC2-DOC2-GH45		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 45 protein
+1052952	DOC2-DOC2-GH45		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 45 protein
+1052961	GT34		Glycosyltransferase Family 34 protein
+1053378	DOC2-DOC2-DOC2-GH5_1		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 5 protein
+1053734	GT71		Glycosyltransferase Family 71 protein
+1053922	GH3		Glycoside Hydrolase Family 3 protein
+1053929	CE4		Carbohydrate Esterase Family 4 protein
+1053968	CBM1-GH43_4		Carbohydrate-Binding Module Family 1  / Glycoside Hydrolase Family 43 protein
+1054138	DOC2-DOC2-GH6		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 6 protein
+1054196	GH3		Glycoside Hydrolase Family 3 protein
+1054205	GH3		Glycoside Hydrolase Family 3 protein
+1054371	DOC2-DOC2-CBM13-CE1		Non-Catalytic Module Family DOC2 / Carbohydrate-Binding Module Family 13  / Carbohydrate Esterase Family 1 protein
+1054373	DOC2-CE1		Non-Catalytic Module Family DOC2 / Carbohydrate Esterase Family 1 protein
+1054465	GH43_35		Glycoside Hydrolase Family 43 protein
+1054488	DOC2-DOC2		Non-Catalytic Module Family DOC2
+1054524	DOC2-DOC2		Non-Catalytic Module Family DOC2
+1054743	CE4		Carbohydrate Esterase Family 4 protein
+1054997	GT2	(fragment)  splicing problem;	Glycosyltransferase Family 2 protein
+1055123	GH43_16-CBM6-CBM13-DOC2		Glycoside Hydrolase Family 43  / Carbohydrate-Binding Module Family 6  / Carbohydrate-Binding Module Family 13  / Non-Catalytic Module Family DOC2
+1055188	GH3		Glycoside Hydrolase Family 3 protein
+1055363	GH124-DOC2-DOC2-DOC2		Glycoside Hydrolase Family 124  / Non-Catalytic Module Family DOC2
+1055371	GT39		Glycosyltransferase Family 39 protein
+1055489	GT34		Glycosyltransferase Family 34 protein
+1055594	DOC2-DOC2		Non-Catalytic Module Family DOC2
+1055610	GT39		Glycosyltransferase Family 39 protein
+1055807	CBM52-GH64		Carbohydrate-Binding Module Family 52  / Glycoside Hydrolase Family 64 protein
+1055809	CBM52-GH64		Carbohydrate-Binding Module Family 52  / Glycoside Hydrolase Family 64 protein
+1055870	GT34		Glycosyltransferase Family 34 protein
+1056215	CBM18		Carbohydrate-Binding Module Family 18 protein
+1056227	GH5_4		Glycoside Hydrolase Family 5 protein
+1056249	GH1		Glycoside Hydrolase Family 1 protein
+1056260	GH39-CBM13-DOC2-DOC2		Glycoside Hydrolase Family 39  / Carbohydrate-Binding Module Family 13  / Non-Catalytic Module Family DOC2
+1056544	DOC2-DOC2-CBM1-GH45		Non-Catalytic Module Family DOC2 / Carbohydrate-Binding Module Family 1  / Glycoside Hydrolase Family 45 protein
+1057485	DOC2-DOC2-CE15		Non-Catalytic Module Family DOC2 / Carbohydrate Esterase Family 15 protein
+1057549	CBM18-CBM18-CBM18-CBM18-CBM18-CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1057651	DOC2-DOC2-GH6		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 6 protein
+1057764	CBM18-CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1058331	DOC2-DOC2-GH95		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 95 protein
+1058409	GH11		Glycoside Hydrolase Family 11 protein
+1058754	CE8		Carbohydrate Esterase Family 8 protein
+1058940	GH43_16-CBM6-DOC2-DOC2		Glycoside Hydrolase Family 43  / Carbohydrate-Binding Module Family 6  / Non-Catalytic Module Family DOC2
+1059004	GT15	fragment C-term;	Glycosyltransferase Family 15 protein
+1059070	CBM18		Carbohydrate-Binding Module Family 18 protein
+1059077	DOC2-CBM13-CE1		Non-Catalytic Module Family DOC2 / Carbohydrate-Binding Module Family 13  / Carbohydrate Esterase Family 1 protein
+1059104	CBM18-CE1		Carbohydrate-Binding Module Family 18  / Carbohydrate Esterase Family 1 protein
+1059152	CE2		Carbohydrate Esterase Family 2 protein
+1059571	PL3_2		Polysaccharide Lyase Family 3 protein
+1059574	PL3_2		Polysaccharide Lyase Family 3 protein
+1059583	CE8		Carbohydrate Esterase Family 8 protein
+1059676	CE15-DOC2-DOC2		Carbohydrate Esterase Family 15  / Non-Catalytic Module Family DOC2
+1059887	CE4		Carbohydrate Esterase Family 4 protein
+1059893	CBM18-CBM18-CBM18-CBM18-CE4		Carbohydrate-Binding Module Family 18  / Carbohydrate Esterase Family 4 protein
+1060805	CBM1-PL3_2		Carbohydrate-Binding Module Family 1  / Polysaccharide Lyase Family 3 protein
+1060845	GT34		Glycosyltransferase Family 34 protein
+1061004	DOC2		Non-Catalytic Module Family DOC2
+1061532	CBM1-PL3_2		Carbohydrate-Binding Module Family 1  / Polysaccharide Lyase Family 3 protein
+1061808	GH3		Glycoside Hydrolase Family 3 protein
+1061928	CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1062607	GT34		Glycosyltransferase Family 34 protein
+1062936	CBM18		Carbohydrate-Binding Module Family 18 protein
+1063104	DOC2-DOC2		Non-Catalytic Module Family DOC2
+1063397	DOC2-DOC2		Non-Catalytic Module Family DOC2
+1063605	CBM18		Carbohydrate-Binding Module Family 18 protein
+1063781	DOC2-GH6		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 6 protein
+1063940	GH10		Glycoside Hydrolase Family 10 protein
+1064080	GT71		Glycosyltransferase Family 71 protein
+1064137	CBM18-CBM18-CBM18-CBM18-CBM18-CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1064267	DOC2-DOC2-GH6		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 6 protein
+1064274	DOC2-DOC2-GH6		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 6 protein
+1064289	DOC2-DOC2-GH6		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 6 protein
+1064328	DOC2-DOC2-GH6		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 6 protein
+1064352	DOC2-DOC2-GH6		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 6 protein
+1064354	DOC2-DOC2-GH6		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 6 protein
+1064557	CE8-CBM1		Carbohydrate Esterase Family 8  / Carbohydrate-Binding Module Family 1 protein
+1064587	CE4		Carbohydrate Esterase Family 4 protein
+1064715	GH3		Glycoside Hydrolase Family 3 protein
+1064719	GH3		Glycoside Hydrolase Family 3 protein
+1064734	DOC2-DOC2-DOC2-DOC2-DOC2		Non-Catalytic Module Family DOC2
+1064865	CBM18-CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1065130	CBM18		Carbohydrate-Binding Module Family 18 protein
+1065258	CE4		Carbohydrate Esterase Family 4 protein
+1065647	GT8		Glycosyltransferase Family 8 protein
+1065949	CBM18		Carbohydrate-Binding Module Family 18 protein
+1065964	CBM18		Carbohydrate-Binding Module Family 18 protein
+1066038	CBM18		Carbohydrate-Binding Module Family 18 protein
+1066117	CBM18-CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1066315	CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1066736	CBM18-CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1068080	CBM18		Carbohydrate-Binding Module Family 18 protein
+1068310	DOC2-DOC2-DOC2		Non-Catalytic Module Family DOC2
+1069141	CBM13	fragment N-term;	Carbohydrate-Binding Module Family 13 protein
+1071101	GH10	(fragment)  splicing problem;	Glycoside Hydrolase Family 10 protein
+1071175	DOC2-DOC2-DOC2-CBM1-CBM1-CBM1-CBM1-CBM1		Non-Catalytic Module Family DOC2 / Carbohydrate-Binding Module Family 1 protein
+1071357	GT22	fragment C-term;	Glycosyltransferase Family 22 protein
+1072397	GH37		Glycoside Hydrolase Family 37 protein
+1072876	GT2	fragment N-term / C-term;	Glycosyltransferase Family 2 protein
+1073654	GH11		Glycoside Hydrolase Family 11 protein
+1076364	CBM48		Carbohydrate-Binding Module Family 48 protein
+1077952	CBM18		Carbohydrate-Binding Module Family 18 protein
+1078284	GH45-DOC2-DOC2-DOC2		Glycoside Hydrolase Family 45  / Non-Catalytic Module Family DOC2
+1078636	GT71		Glycosyltransferase Family 71 protein
+1079159	DOC2-DOC2		Non-Catalytic Module Family DOC2
+1079711	CBM52-DOC2-DOC2-GH16_3-GH16_3-GH16_3		Carbohydrate-Binding Module Family 52  / Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 16 protein
+1081700	GT2		Glycosyltransferase Family 2 protein
+1082038	CBM18		Carbohydrate-Binding Module Family 18 protein
+1082088	GT8		Glycosyltransferase Family 8 protein
+1082256	GH114		Glycoside Hydrolase Family 114 protein
+1082613	GT2		Glycosyltransferase Family 2 protein
+1082710	CBM18	fragment N-term;	Carbohydrate-Binding Module Family 18 protein
+1082860	GH10-CBM29-CBM29-CBM29-CBM29-DOC2-DOC2-DOC2		Glycoside Hydrolase Family 10  / Carbohydrate-Binding Module Family 29  / Non-Catalytic Module Family DOC2
+1083504	CBM18-CBM18-CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1083964	GH5_4		Glycoside Hydrolase Family 5 protein
+1083986	DOC2-DOC2-GH6		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 6 protein
+1084457	CBM18-CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1084515	GT20		Glycosyltransferase Family 20 protein
+1084953	CE8-CBM1		Carbohydrate Esterase Family 8  / Carbohydrate-Binding Module Family 1 protein
+1085199	GH11		Glycoside Hydrolase Family 11 protein
+1085200	GH11		Glycoside Hydrolase Family 11 protein
+1086223	GH11		Glycoside Hydrolase Family 11 protein
+1086461	DOC2-DOC2-DOC2		Non-Catalytic Module Family DOC2
+1087032	DOC2		Non-Catalytic Module Family DOC2
+1089011	CBM18		Carbohydrate-Binding Module Family 18 protein
+1089683	CBM18-CBM18-CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1089686	CBM18-CBM18-CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1268458	CE1-CE1-CE1		Carbohydrate Esterase Family 1 protein
+1269040	GH10-CBM1	fragment N-term;	Glycoside Hydrolase Family 10  / Carbohydrate-Binding Module Family 1 protein
+1269041	GH10-CBM1	fragment N-term;	Glycoside Hydrolase Family 10  / Carbohydrate-Binding Module Family 1 protein
+1270280	GH43_1		Glycoside Hydrolase Family 43 protein
+1270679	CBM10-CBM10-CBM10		Carbohydrate-Binding Module Family 10 protein
+1271028	GH74-DOC2-DOC2-DOC2-DOC2		Glycoside Hydrolase Family 74  / Non-Catalytic Module Family DOC2
+1271135	GT2		Glycosyltransferase Family 2 protein
+1271205	GT22	fragment C-term;	Glycosyltransferase Family 22 protein
+1272269	GH11-CBM1		Glycoside Hydrolase Family 11  / Carbohydrate-Binding Module Family 1 protein
+1272329	CE4		Carbohydrate Esterase Family 4 protein
+1272592	GH1	fragment N-term;	Glycoside Hydrolase Family 1 protein
+1273039	GH3	fragment N-term / C-term;	Glycoside Hydrolase Family 3 protein
+1273901	CBM18		Carbohydrate-Binding Module Family 18 protein
+1274167	CBM21		Carbohydrate-Binding Module Family 21 protein
+1274558	PL4		Polysaccharide Lyase Family 4 protein
+1274947	DOC2		Non-Catalytic Module Family DOC2
+1275190	GH45	fragment C-term;	Glycoside Hydrolase Family 45 protein
+1276527	GT71		Glycosyltransferase Family 71 protein
+1276553	GT3		Glycosyltransferase Family 3 protein
+1277176	GH9-DOC2-DOC2-DOC2		Glycoside Hydrolase Family 9  / Non-Catalytic Module Family DOC2
+1277335	CBM48		Carbohydrate-Binding Module Family 48 protein
+1277337	GT35	fragment N-term;	Glycosyltransferase Family 35 protein
+1278435	CBM18-GH18-DOC2-DOC2		Carbohydrate-Binding Module Family 18  / Glycoside Hydrolase Family 18  / Non-Catalytic Module Family DOC2
+1278464	GH5_4-GH5_4-DOC2-DOC2	fragment N-term;	Glycoside Hydrolase Family 5  / Non-Catalytic Module Family DOC2
+1279472	GH10		Glycoside Hydrolase Family 10 protein
+1279617	GH114		Glycoside Hydrolase Family 114 protein
+1280077	CBM18-CBM18-CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1280133	GH18	fragment C-term;	Glycoside Hydrolase Family 18 protein
+1281121	GH9-DOC2-DOC2-DOC2		Glycoside Hydrolase Family 9  / Non-Catalytic Module Family DOC2
+1281989	GT71		Glycosyltransferase Family 71 protein
+1283074	GT33	fragment C-term;	Glycosyltransferase Family 33 protein
+1284151	CBM18		Carbohydrate-Binding Module Family 18 protein
+1285300	CBM18		Carbohydrate-Binding Module Family 18 protein
+1285302	GH43_16-CBM6-DOC2-DOC2		Glycoside Hydrolase Family 43  / Carbohydrate-Binding Module Family 6  / Non-Catalytic Module Family DOC2
+1285453	GH43_16	fragment N-term;	Glycoside Hydrolase Family 43 protein
+1285502	GH20		Glycoside Hydrolase Family 20 protein
+1285551	CBM1-PL1		Carbohydrate-Binding Module Family 1  / Polysaccharide Lyase Family 1 protein
+1285555	CBM1-PL1		Carbohydrate-Binding Module Family 1  / Polysaccharide Lyase Family 1 protein
+1285559	CBM1		Carbohydrate-Binding Module Family 1 protein
+1285636	DOC2-GH6		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 6 protein
+1285707	GH48-DOC2-DOC2		Glycoside Hydrolase Family 48  / Non-Catalytic Module Family DOC2
+1285714	GT17		Glycosyltransferase Family 17 protein
+1285775	DOC2-DOC2-GH6		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 6 protein
+1285776	DOC2-DOC2-GH6		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 6 protein
+1286052	GH3		Glycoside Hydrolase Family 3 protein
+1286053	GH3		Glycoside Hydrolase Family 3 protein
+1286220	CBM21		Carbohydrate-Binding Module Family 21 protein
+1286465	GH5_5-CBM10-CBM10-GH5_5-CBM10-DOC2-DOC2		Glycoside Hydrolase Family 5  / Carbohydrate-Binding Module Family 10  / Non-Catalytic Module Family DOC2
+1286802	CBM1		Carbohydrate-Binding Module Family 1 protein
+1286824	CBM13-PL1-CBM13-CBM13		Carbohydrate-Binding Module Family 13  / Polysaccharide Lyase Family 1 protein
+1287244	GH26	fragment N-term / C-term;	Glycoside Hydrolase Family 26 protein
+1287286	CBM18-CBM18-CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1287387	CBM1-CE4		Carbohydrate-Binding Module Family 1  / Carbohydrate Esterase Family 4 protein
+1287456	GT3		Glycosyltransferase Family 3 protein
+1287541	GH5_7		Glycoside Hydrolase Family 5 protein
+1287557	CBM18		Carbohydrate-Binding Module Family 18 protein
+1287806	CBM10-CBM10-CBM10		Carbohydrate-Binding Module Family 10 protein
+1287907	DOC2-DOC2-DOC2-GH5_1		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 5 protein
+1288575	DOC2		Non-Catalytic Module Family DOC2
+1288584	DOC2-DOC2		Non-Catalytic Module Family DOC2
+1288592	CBM87-CE18		Carbohydrate-Binding Module Family 87  / Carbohydrate Esterase Family 18 protein
+1288862	DOC2-DOC2		Non-Catalytic Module Family DOC2
+1288902	CBM32		Carbohydrate-Binding Module Family 32 protein
+1288914	CBM1-GH6		Carbohydrate-Binding Module Family 1  / Glycoside Hydrolase Family 6 protein
+1289062	GH32		Glycoside Hydrolase Family 32 protein
+1289073	GH48-DOC2-DOC2		Glycoside Hydrolase Family 48  / Non-Catalytic Module Family DOC2
+1289151	CBM1-GH6		Carbohydrate-Binding Module Family 1  / Glycoside Hydrolase Family 6 protein
+1289249	GH11		Glycoside Hydrolase Family 11 protein
+1289250	GH11		Glycoside Hydrolase Family 11 protein
+1289293	DOC2-DOC2-GH10		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 10 protein
+1289373	DOC2-CE1		Non-Catalytic Module Family DOC2 / Carbohydrate Esterase Family 1 protein
+1289410	DOC2-DOC2		Non-Catalytic Module Family DOC2
+1289440	GH10-CBM13-DOC2-DOC2		Glycoside Hydrolase Family 10  / Carbohydrate-Binding Module Family 13  / Non-Catalytic Module Family DOC2
+1289443	GH5_7-CBM1-DOC2-DOC2		Glycoside Hydrolase Family 5  / Carbohydrate-Binding Module Family 1  / Non-Catalytic Module Family DOC2
+1289545	CBM18-CBM18-CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1289844	GT39	fragment C-term;	Glycosyltransferase Family 39 protein
+1289923	GH3		Glycoside Hydrolase Family 3 protein
+1290109	GH3		Glycoside Hydrolase Family 3 protein
+1290219	DOC2-DOC2-DOC2		Non-Catalytic Module Family DOC2
+1291186	PL1		Polysaccharide Lyase Family 1 protein
+1291276	PL4		Polysaccharide Lyase Family 4 protein
+1291280	GH11-CBM1		Glycoside Hydrolase Family 11  / Carbohydrate-Binding Module Family 1 protein
+1291505	DOC2-GH10		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 10 protein
+1291508	DOC2-GH10		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 10 protein
+1291510	DOC2-GH10		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 10 protein
+1291701	CBM18		Carbohydrate-Binding Module Family 18 protein
+1291702	CBM18		Carbohydrate-Binding Module Family 18 protein
+1291786	GH11		Glycoside Hydrolase Family 11 protein
+1291856	CBM18		Carbohydrate-Binding Module Family 18 protein
+1291947	GT101		Glycosyltransferase Family 101 protein
+1292051	DOC2-DOC2		Non-Catalytic Module Family DOC2
+1292258	CE4		Carbohydrate Esterase Family 4 protein
+1292264	GT39		Glycosyltransferase Family 39 protein
+1292646	DOC2-DOC2		Non-Catalytic Module Family DOC2
+1293109	DOC2-DOC2-GH5_4	fragment C-term;	Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 5 protein
+1293336	GH11-GH11-GH11-CE4		Glycoside Hydrolase Family 11  / Carbohydrate Esterase Family 4 protein
+1293346	GH5_4		Glycoside Hydrolase Family 5 protein
+1293355	CBM18		Carbohydrate-Binding Module Family 18 protein
+1293817	CBM18		Carbohydrate-Binding Module Family 18 protein
+1293984	GH39-CBM13-DOC2-DOC2		Glycoside Hydrolase Family 39  / Carbohydrate-Binding Module Family 13  / Non-Catalytic Module Family DOC2
+1294043	GT71		Glycosyltransferase Family 71 protein
+1294060	GH43_2-CBM6		Glycoside Hydrolase Family 43  / Carbohydrate-Binding Module Family 6 protein
+1294171	CBM10-GH45		Carbohydrate-Binding Module Family 10  / Glycoside Hydrolase Family 45 protein
+1294191	DOC2		Non-Catalytic Module Family DOC2
+1294231	GH11-CBM1		Glycoside Hydrolase Family 11  / Carbohydrate-Binding Module Family 1 protein
+1294326	GT101		Glycosyltransferase Family 101 protein
+1294335	DOC2	fragment N-term;	Non-Catalytic Module Family DOC2
+1294648	CBM1-CE4		Carbohydrate-Binding Module Family 1  / Carbohydrate Esterase Family 4 protein
+1294676	GH5_4	fragment N-term / C-term;	Glycoside Hydrolase Family 5 protein
+1294735	DOC2-DOC2-DOC2-DOC2-DOC2		Non-Catalytic Module Family DOC2
+1294738	DOC2-DOC2-DOC2-CBM1		Non-Catalytic Module Family DOC2 / Carbohydrate-Binding Module Family 1 protein
+1294739	DOC2-DOC2-DOC2-DOC2-DOC2-DOC2		Non-Catalytic Module Family DOC2
+1294796	GH43_16-CBM6		Glycoside Hydrolase Family 43  / Carbohydrate-Binding Module Family 6 protein
+1294852	GH3		Glycoside Hydrolase Family 3 protein
+1294853	GH3		Glycoside Hydrolase Family 3 protein
+1295013	DOC2-DOC2-CBM1-CBM1-CBM1-CBM1-CBM1-CBM1		Non-Catalytic Module Family DOC2 / Carbohydrate-Binding Module Family 1 protein
+1295023	GH3		Glycoside Hydrolase Family 3 protein
+1295025	DOC2-DOC2-GH6		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 6 protein
+1295164	CE4		Carbohydrate Esterase Family 4 protein
+1295169	DOC2-CE1		Non-Catalytic Module Family DOC2 / Carbohydrate Esterase Family 1 protein
+1295187	GH10-CBM1		Glycoside Hydrolase Family 10  / Carbohydrate-Binding Module Family 1 protein
+1295221	CE8-CBM1		Carbohydrate Esterase Family 8  / Carbohydrate-Binding Module Family 1 protein
+1295299	DOC2-DOC2		Non-Catalytic Module Family DOC2
+1295525	CBM87-CE18		Carbohydrate-Binding Module Family 87  / Carbohydrate Esterase Family 18 protein
+1295744	GH5_7		Glycoside Hydrolase Family 5 protein
+1295810	DOC2-DOC2-GH6		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 6 protein
+1295977	GH3		Glycoside Hydrolase Family 3 protein
+1296071	DOC2-GH10		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 10 protein
+1296147	CE4		Carbohydrate Esterase Family 4 protein
+1296375	GH5_7	fragment N-term;	Glycoside Hydrolase Family 5 protein
+1296433	GH5_4-DOC2-DOC2		Glycoside Hydrolase Family 5  / Non-Catalytic Module Family DOC2
+1296435	CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1296497	DOC2-DOC2-GH6		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 6 protein
+1296588	GH5_4-DOC2-DOC2		Glycoside Hydrolase Family 5  / Non-Catalytic Module Family DOC2
+1296626	GH1		Glycoside Hydrolase Family 1 protein
+1296684	GH3		Glycoside Hydrolase Family 3 protein
+1296956	CE4		Carbohydrate Esterase Family 4 protein
+1297203	DOC2-DOC2		Non-Catalytic Module Family DOC2
+1297604	CE4		Carbohydrate Esterase Family 4 protein
+1297688	PL3_2		Polysaccharide Lyase Family 3 protein
+1297735	GH3		Glycoside Hydrolase Family 3 protein
+1298002	GH115		Glycoside Hydrolase Family 115 protein
+1298417	DOC2-DOC2		Non-Catalytic Module Family DOC2
+1298495	DOC2-DOC2-GH10		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 10 protein
+1298525	DOC2-DOC2		Non-Catalytic Module Family DOC2
+1298658	PL3_2		Polysaccharide Lyase Family 3 protein
+1298671	PL3_2		Polysaccharide Lyase Family 3 protein
+1299053	PL11_2		Polysaccharide Lyase Family 11 protein
+1299127	CBM1-CE12		Carbohydrate-Binding Module Family 1  / Carbohydrate Esterase Family 12 protein
+1299175	DOC2-DOC2-GH6		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 6 protein
+1299487	DOC2-DOC2-DOC2		Non-Catalytic Module Family DOC2
+1299713	CBM18		Carbohydrate-Binding Module Family 18 protein
+1299880	CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1300325	GH11-GH10		Glycoside Hydrolase Family 11  / Glycoside Hydrolase Family 10 protein
+1300655	DOC2-DOC2		Non-Catalytic Module Family DOC2
+1300801	CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1300846	CBM1-PL1		Carbohydrate-Binding Module Family 1  / Polysaccharide Lyase Family 1 protein
+1300847	CBM1-PL1		Carbohydrate-Binding Module Family 1  / Polysaccharide Lyase Family 1 protein
+1300851	CBM1-PL1		Carbohydrate-Binding Module Family 1  / Polysaccharide Lyase Family 1 protein
+1300963	DOC2-GH6		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 6 protein
+1301222	GH3		Glycoside Hydrolase Family 3 protein
+1301273	CE4		Carbohydrate Esterase Family 4 protein
+1301479	GH3		Glycoside Hydrolase Family 3 protein
+1301483	GH3		Glycoside Hydrolase Family 3 protein
+1301655	GH45		Glycoside Hydrolase Family 45 protein
+1301996	GH11		Glycoside Hydrolase Family 11 protein
+1302008	GH11		Glycoside Hydrolase Family 11 protein
+1302257	CBM32		Carbohydrate-Binding Module Family 32 protein
+1302310	CBM18		Carbohydrate-Binding Module Family 18 protein
+1302491	CBM1		Carbohydrate-Binding Module Family 1 protein
+1302500	GH3		Glycoside Hydrolase Family 3 protein
+1302520	DOC2-DOC2-DOC2-GH5_1		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 5 protein
+1303068	DOC2-DOC2-DOC2		Non-Catalytic Module Family DOC2
+1303186	CE3-DOC2		Carbohydrate Esterase Family 3  / Non-Catalytic Module Family DOC2
+1303432	CBM1-PL3_2		Carbohydrate-Binding Module Family 1  / Polysaccharide Lyase Family 3 protein
+1303879	DOC2-DOC2-DOC2-GH5_1		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 5 protein
+1303929	GH1		Glycoside Hydrolase Family 1 protein
+1304294	CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1304698	GT39		Glycosyltransferase Family 39 protein
+1304717	DOC2-DOC2-DOC2		Non-Catalytic Module Family DOC2
+1304742	GH48-DOC2-DOC2		Glycoside Hydrolase Family 48  / Non-Catalytic Module Family DOC2
+1305161	GH11		Glycoside Hydrolase Family 11 protein
+1305162	GH11		Glycoside Hydrolase Family 11 protein
+1305163	GH11		Glycoside Hydrolase Family 11 protein
+1305164	GH11		Glycoside Hydrolase Family 11 protein
+1305165	GH11		Glycoside Hydrolase Family 11 protein
+1305169	CBM48		Carbohydrate-Binding Module Family 48 protein
+1305204	CBM1-GH6		Carbohydrate-Binding Module Family 1  / Glycoside Hydrolase Family 6 protein
+1305345	GH48-DOC2-DOC2		Glycoside Hydrolase Family 48  / Non-Catalytic Module Family DOC2
+1305364	CBM1		Carbohydrate-Binding Module Family 1 protein
+1305401	GH32		Glycoside Hydrolase Family 32 protein
+1305531	GH43_16-CBM6-CBM13-DOC2-DOC2		Glycoside Hydrolase Family 43  / Carbohydrate-Binding Module Family 6  / Carbohydrate-Binding Module Family 13  / Non-Catalytic Module Family DOC2
+1305577	CE4		Carbohydrate Esterase Family 4 protein
+1305646	GH11-CBM1		Glycoside Hydrolase Family 11  / Carbohydrate-Binding Module Family 1 protein
+1305647	GH11-CBM1		Glycoside Hydrolase Family 11  / Carbohydrate-Binding Module Family 1 protein
+1305689	GH10-CBM29-CBM29-CBM29-DOC2-DOC2-DOC2		Glycoside Hydrolase Family 10  / Carbohydrate-Binding Module Family 29  / Non-Catalytic Module Family DOC2
+1305707	DOC2-DOC2		Non-Catalytic Module Family DOC2
+1305814	DOC2-DOC2-CBM13-GH95		Non-Catalytic Module Family DOC2 / Carbohydrate-Binding Module Family 13  / Glycoside Hydrolase Family 95 protein
+1305997	CBM18-CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1306473	GH3		Glycoside Hydrolase Family 3 protein
+1306697	GH3		Glycoside Hydrolase Family 3 protein
+1306967	CBM18		Carbohydrate-Binding Module Family 18 protein
+1307221	GH16_10		Glycoside Hydrolase Family 16 protein
+1307464	CBM18		Carbohydrate-Binding Module Family 18 protein
+1307515	GT71		Glycosyltransferase Family 71 protein
+1307551	DOC2-DOC2-DOC2		Non-Catalytic Module Family DOC2
+1307763	DOC2-DOC2		Non-Catalytic Module Family DOC2
+1307765	GH114		Glycoside Hydrolase Family 114 protein
+1307829	DOC2-DOC2		Non-Catalytic Module Family DOC2
+1307887	EXPN		Distantly related to plant expansins
+1307926	GH10		Glycoside Hydrolase Family 10 protein
+1308050	PL1		Polysaccharide Lyase Family 1 protein
+1308100	DOC2-DOC2-GH10		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 10 protein
+1308147	PL4		Polysaccharide Lyase Family 4 protein
+1308197	GT2		Glycosyltransferase Family 2 protein
+1308268	DOC2-CE1		Non-Catalytic Module Family DOC2 / Carbohydrate Esterase Family 1 protein
+1308702	CBM18		Carbohydrate-Binding Module Family 18 protein
+1308914	CBM18		Carbohydrate-Binding Module Family 18 protein
+1308986	GT2		Glycosyltransferase Family 2 protein
+1309038	GT2		Glycosyltransferase Family 2 protein
+1309187	DOC2-DOC2		Non-Catalytic Module Family DOC2
+1309416	CBM1-PL3_2		Carbohydrate-Binding Module Family 1  / Polysaccharide Lyase Family 3 protein
+1309418	CBM1-PL3_2		Carbohydrate-Binding Module Family 1  / Polysaccharide Lyase Family 3 protein
+1309607	GH18		Glycoside Hydrolase Family 18 protein
+1309684	GH11		Glycoside Hydrolase Family 11 protein
+1309945	DOC2-DOC2-DOC2		Non-Catalytic Module Family DOC2
+1309950	DOC2-DOC2		Non-Catalytic Module Family DOC2
+1309951	DOC2-DOC2		Non-Catalytic Module Family DOC2
+1310005	DOC2-DOC2		Non-Catalytic Module Family DOC2
+1310068	PL1_6		Polysaccharide Lyase Family 1 protein
+1310133	DOC2-DOC2-GH6		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 6 protein
+1310557	GH11		Glycoside Hydrolase Family 11 protein
+1310558	GH11-CBM1		Glycoside Hydrolase Family 11  / Carbohydrate-Binding Module Family 1 protein
+1311118	GH18		Glycoside Hydrolase Family 18 protein
+1311266	DOC2		Non-Catalytic Module Family DOC2
+1311718	GH5_4		Glycoside Hydrolase Family 5 protein
+1311779	GH114		Glycoside Hydrolase Family 114 protein
+1311897	DOC2-DOC2		Non-Catalytic Module Family DOC2
+1312139	DOC2		Non-Catalytic Module Family DOC2
+1312603	CBM18		Carbohydrate-Binding Module Family 18 protein
+1312689	CBM18-GH18-DOC2-DOC2		Carbohydrate-Binding Module Family 18  / Glycoside Hydrolase Family 18  / Non-Catalytic Module Family DOC2
+1312697	CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1312730	CBM1		Carbohydrate-Binding Module Family 1 protein
+1312731	CBM1		Carbohydrate-Binding Module Family 1 protein
+1312733	CBM1		Carbohydrate-Binding Module Family 1 protein
+1312734	CBM1		Carbohydrate-Binding Module Family 1 protein
+1312736	CBM1		Carbohydrate-Binding Module Family 1 protein
+1312737	DOC2-GH26-GH26		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 26 protein
+1312738	DOC2-GH26-GH26-DOC2		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 26 protein
+1312742	DOC2-GH26-GH26-GH26-GH26-DOC2-DOC2		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 26 protein
+1313018	GH3	fragment N-term;	Glycoside Hydrolase Family 3 protein
+1313021	DOC2-CBM1-CBM1-CBM1		Non-Catalytic Module Family DOC2 / Carbohydrate-Binding Module Family 1 protein
+1313027	DOC2-DOC2-GH6		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 6 protein
+1313028	DOC2-DOC2		Non-Catalytic Module Family DOC2
+1313121	GH5_8-CBM10-GH5_8	fragment N-term / C-term;	Glycoside Hydrolase Family 5  / Carbohydrate-Binding Module Family 10 protein
+1313242	CBM87-CE18-DOC2		Carbohydrate-Binding Module Family 87  / Carbohydrate Esterase Family 18  / Non-Catalytic Module Family DOC2
+1313290	GH6	fragment C-term;	Glycoside Hydrolase Family 6 protein
+1313375	CBM1-CE12		Carbohydrate-Binding Module Family 1  / Carbohydrate Esterase Family 12 protein
+1313536	CBM1-PL1		Carbohydrate-Binding Module Family 1  / Polysaccharide Lyase Family 1 protein
+1313560	GH5_4		Glycoside Hydrolase Family 5 protein
+1313739	PL4-CBM1		Polysaccharide Lyase Family 4  / Carbohydrate-Binding Module Family 1 protein
+1314054	DOC2-DOC2-DOC2-DOC2-DOC2-DOC2-CBM1		Non-Catalytic Module Family DOC2 / Carbohydrate-Binding Module Family 1 protein
+1314071	DOC2-DOC2-GH6		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 6 protein
+1314073	DOC2-DOC2-GH6		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 6 protein
+1314078	GT8		Glycosyltransferase Family 8 protein
+1314111	GH11		Glycoside Hydrolase Family 11 protein
+1314358	GH16_21		Glycoside Hydrolase Family 16 protein
+1314361	GH16_21		Glycoside Hydrolase Family 16 protein
+1314410	GH43_35		Glycoside Hydrolase Family 43 protein
+1314517	CE1		Carbohydrate Esterase Family 1 protein
+1314847	DOC2-DOC2-CE1-CE1-CE1-CE1-CE1-CE1		Non-Catalytic Module Family DOC2 / Carbohydrate Esterase Family 1 protein
+1314998	GH11		Glycoside Hydrolase Family 11 protein
+1314999	GH11		Glycoside Hydrolase Family 11 protein
+1315001	GH11		Glycoside Hydrolase Family 11 protein
+1315065	CBM1-PL1		Carbohydrate-Binding Module Family 1  / Polysaccharide Lyase Family 1 protein
+1315070	CBM1-PL1-PL1		Carbohydrate-Binding Module Family 1  / Polysaccharide Lyase Family 1 protein
+1315091	GH11		Glycoside Hydrolase Family 11 protein
+1315092	GH11		Glycoside Hydrolase Family 11 protein
+1315385	GH5_7		Glycoside Hydrolase Family 5 protein
+1315540	CE4		Carbohydrate Esterase Family 4 protein
+1316247	GH115		Glycoside Hydrolase Family 115 protein
+1316318	CBM18-CBM18-CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1316339	DOC2-DOC2-DOC2		Non-Catalytic Module Family DOC2
+1316366	CBM1		Carbohydrate-Binding Module Family 1 protein
+1316522	CE4		Carbohydrate Esterase Family 4 protein
+1316928	DOC2-DOC2-DOC2-DOC2-DOC2-DOC2-DOC2-DOC2-DOC2-CBM1		Non-Catalytic Module Family DOC2 / Carbohydrate-Binding Module Family 1 protein
+1317044	GH11		Glycoside Hydrolase Family 11 protein
+1317047	CE4		Carbohydrate Esterase Family 4 protein
+1317193	GH11-DOC2-DOC2		Glycoside Hydrolase Family 11  / Non-Catalytic Module Family DOC2
+1317226	EXPN-CBM63		Distantly related to plant expansins / Carbohydrate-Binding Module Family 63 protein
+1317297	GT39		Glycosyltransferase Family 39 protein
+1317439	DOC2-DOC2-DOC2-GH5_1		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 5 protein
+1317457	GH11-GH11-GH11-DOC2-DOC2-CE4		Glycoside Hydrolase Family 11  / Non-Catalytic Module Family DOC2 / Carbohydrate Esterase Family 4 protein
+1317462	DOC2-DOC2-GH115		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 115 protein
+1317855	PL3_2		Polysaccharide Lyase Family 3 protein
+1317857	PL3_2		Polysaccharide Lyase Family 3 protein
+1317859	PL3_2		Polysaccharide Lyase Family 3 protein
+1317867	PL3_2		Polysaccharide Lyase Family 3 protein
+1317869	PL3_2		Polysaccharide Lyase Family 3 protein
+1317870	PL3_2		Polysaccharide Lyase Family 3 protein
+1317914	DOC2-DOC2-GH10		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 10 protein
+1318069	GT32		Glycosyltransferase Family 32 protein
+1318541	GH11		Glycoside Hydrolase Family 11 protein
+1318560	DOC2-DOC2-GH6		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 6 protein
+1318731	GT71		Glycosyltransferase Family 71 protein
+1318968	CBM48		Carbohydrate-Binding Module Family 48 protein
+1319055	GT76		Glycosyltransferase Family 76 protein
+1319262	CBM18		Carbohydrate-Binding Module Family 18 protein
+1319498	CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1319506	EXPN		Distantly related to plant expansins
+1319511	GT2		Glycosyltransferase Family 2 protein
+1319533	GH11		Glycoside Hydrolase Family 11 protein
+1319604	CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1320330	GH11-CBM1		Glycoside Hydrolase Family 11  / Carbohydrate-Binding Module Family 1 protein
+1320650	DOC2		Non-Catalytic Module Family DOC2
+1320755	GH3	fragment N-term;	Glycoside Hydrolase Family 3 protein
+1321652	DOC2		Non-Catalytic Module Family DOC2
+1322209	CE4		Carbohydrate Esterase Family 4 protein
+1322229	GH48-DOC2-DOC2		Glycoside Hydrolase Family 48  / Non-Catalytic Module Family DOC2
+1322299	CE6-DOC2	(fragment)  splicing problem;	Carbohydrate Esterase Family 6  / Non-Catalytic Module Family DOC2
+1322980	DOC2		Non-Catalytic Module Family DOC2
+1322989	CBM1-PL3_2		Carbohydrate-Binding Module Family 1  / Polysaccharide Lyase Family 3 protein
+1323002	CE1-DOC2-DOC2-GH11		Carbohydrate Esterase Family 1  / Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 11 protein
+1324302	GH3	fragment N-term / C-term;	Glycoside Hydrolase Family 3 protein
+1325288	GH114		Glycoside Hydrolase Family 114 protein
+1327518	GH10-CBM1		Glycoside Hydrolase Family 10  / Carbohydrate-Binding Module Family 1 protein
+1329937	DOC2-DOC2-GH6		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 6 protein
+1331241	DOC2-DOC2-DOC2-CBM1-CBM1-CBM1-CBM1-CBM1-CBM1-CBM1		Non-Catalytic Module Family DOC2 / Carbohydrate-Binding Module Family 1 protein
+1331981	CBM87-CE18		Carbohydrate-Binding Module Family 87  / Carbohydrate Esterase Family 18 protein
+1332539	GH6	fragment C-term;	Glycoside Hydrolase Family 6 protein
+1334034	CBM1-PL1		Carbohydrate-Binding Module Family 1  / Polysaccharide Lyase Family 1 protein
+1334748	CBM48-GH13_8		Carbohydrate-Binding Module Family 48  / Glycoside Hydrolase Family 13 protein
+1335540	DOC2-DOC2-DOC2-CBM1-CBM1-CBM1		Non-Catalytic Module Family DOC2 / Carbohydrate-Binding Module Family 1 protein
+1337575	CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1337907	GH43_1		Glycoside Hydrolase Family 43 protein
+1339530	GH3	(fragment)  splicing problem;	Glycoside Hydrolase Family 3 protein
+1340108	CBM1		Carbohydrate-Binding Module Family 1 protein
+1340494	GT2		Glycosyltransferase Family 2 protein
+1340895	CBM18-CBM18-CBM18-CBM18-CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1340998	CBM29-CBM1		Carbohydrate-Binding Module Family 29  / Carbohydrate-Binding Module Family 1 protein
+1341325	DOC2		Non-Catalytic Module Family DOC2
+1342252	CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1342579	CBM18		Carbohydrate-Binding Module Family 18 protein
+1342813	CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1342825	CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1343357	GT101	(fragment)  splicing problem;	Glycosyltransferase Family 101 protein
+1344036	CBM18-CBM18-CBM18-CBM18-CBM18-CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1344313	CBM48		Carbohydrate-Binding Module Family 48 protein
+1345476	GH11-GH11-GH11-CE4		Glycoside Hydrolase Family 11  / Carbohydrate Esterase Family 4 protein
+1345796	GT2		Glycosyltransferase Family 2 protein
+1346175	PL4-DOC2		Polysaccharide Lyase Family 4  / Non-Catalytic Module Family DOC2
+1346626	CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1346628	GT10		Glycosyltransferase Family 10 protein
+1347883	GH48-DOC2-DOC2		Glycoside Hydrolase Family 48  / Non-Catalytic Module Family DOC2
+1349496	CBM18		Carbohydrate-Binding Module Family 18 protein
+1352658	CBM18-CBM18-CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1352892	CBM18		Carbohydrate-Binding Module Family 18 protein
+1353671	DOC2-DOC2-DOC2-CBM1-CBM1		Non-Catalytic Module Family DOC2 / Carbohydrate-Binding Module Family 1 protein
+1353726	EXPN		Distantly related to plant expansins
+1353824	CBM18		Carbohydrate-Binding Module Family 18 protein
+1354026	CBM18		Carbohydrate-Binding Module Family 18 protein
+1354103	GH6	(fragment)  splicing problem;	Glycoside Hydrolase Family 6 protein
+1354764	DOC2		Non-Catalytic Module Family DOC2
+1355486	GH6	(fragment)  splicing problem;	Glycoside Hydrolase Family 6 protein
+1356993	CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1357013	DOC2-DOC2		Non-Catalytic Module Family DOC2
+1358037	CBM18		Carbohydrate-Binding Module Family 18 protein
+1358557	CBM18		Carbohydrate-Binding Module Family 18 protein
+1359030	GT2		Glycosyltransferase Family 2 protein
+1359089	GT2		Glycosyltransferase Family 2 protein
+1359307	CBM21		Carbohydrate-Binding Module Family 21 protein
+1359850	PL3_2		Polysaccharide Lyase Family 3 protein
+1360937	CE6	fragment N-term;	Carbohydrate Esterase Family 6 protein
+1361686	GH1	fragment N-term / C-term;	Glycoside Hydrolase Family 1 protein
+1361982	GT20		Glycosyltransferase Family 20 protein
+1362515	CBM18		Carbohydrate-Binding Module Family 18 protein
+1362789	GH1		Glycoside Hydrolase Family 1 protein
+1363312	DOC2		Non-Catalytic Module Family DOC2
+1365079	DOC2-DOC2-DOC2-DOC2-CBM18-CBM18		Non-Catalytic Module Family DOC2 / Carbohydrate-Binding Module Family 18 protein
+1366067	DOC2-DOC2		Non-Catalytic Module Family DOC2
+1367557	DOC2-DOC2		Non-Catalytic Module Family DOC2
+1368441	CBM18-CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1368843	GH31		Glycoside Hydrolase Family 31 protein
+1369153	GH5_7	fragment N-term / C-term;	Glycoside Hydrolase Family 5 protein
+1369872	CBM18		Carbohydrate-Binding Module Family 18 protein
+1369885	DOC2-DOC2		Non-Catalytic Module Family DOC2
+1370512	GT17		Glycosyltransferase Family 17 protein
+1371179	GH5_4	(fragment)  splicing problem;	Glycoside Hydrolase Family 5 protein
+1371670	DOC2-DOC2		Non-Catalytic Module Family DOC2
+1371962	DOC2-DOC2-DOC2-DOC2-CBM18-CBM18		Non-Catalytic Module Family DOC2 / Carbohydrate-Binding Module Family 18 protein
+1372376	DOC2-DOC2-DOC2		Non-Catalytic Module Family DOC2
+1373467	CE6-DOC2		Carbohydrate Esterase Family 6  / Non-Catalytic Module Family DOC2
+1373850	CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1374365	GT2		Glycosyltransferase Family 2 protein
+1375401	CBM18		Carbohydrate-Binding Module Family 18 protein
+1376214	PL3_2		Polysaccharide Lyase Family 3 protein
+1376420	CBM18		Carbohydrate-Binding Module Family 18 protein
+1377532	GT2		Glycosyltransferase Family 2 protein
+1377882	CBM1		Carbohydrate-Binding Module Family 1 protein
+1378359	CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1379752	DOC2-DOC2-DOC2		Non-Catalytic Module Family DOC2
+1379922	GH18		Glycoside Hydrolase Family 18 protein
+1379983	CBM18		Carbohydrate-Binding Module Family 18 protein
+1380694	EXPN		Distantly related to plant expansins
+1380738	GT2		Glycosyltransferase Family 2 protein
+1380917	DOC2-DOC2-DOC2-DOC2	fragment N-term;	Non-Catalytic Module Family DOC2
+1382378	CBM18		Carbohydrate-Binding Module Family 18 protein
+1382384	GH39-CBM13-DOC2		Glycoside Hydrolase Family 39  / Carbohydrate-Binding Module Family 13  / Non-Catalytic Module Family DOC2
+1382610	DOC2-DOC2-DOC2-CBM18		Non-Catalytic Module Family DOC2 / Carbohydrate-Binding Module Family 18 protein
+1382626	DOC2-DOC2-DOC2-CBM18		Non-Catalytic Module Family DOC2 / Carbohydrate-Binding Module Family 18 protein
+1382721	GH115	fragment N-term / C-term;	Glycoside Hydrolase Family 115 protein
+1383944	CBM18-CBM18-CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1385416	DOC2		Non-Catalytic Module Family DOC2
+1385644	CBM18		Carbohydrate-Binding Module Family 18 protein
+1385813	CBM18-CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1387100	CBM18-CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1388463	CBM18		Carbohydrate-Binding Module Family 18 protein
+1388785	CBM1-PL1		Carbohydrate-Binding Module Family 1  / Polysaccharide Lyase Family 1 protein
+1388798	CBM1-PL1		Carbohydrate-Binding Module Family 1  / Polysaccharide Lyase Family 1 protein
+1389005	CBM18		Carbohydrate-Binding Module Family 18 protein
+1389377	DOC2-DOC2		Non-Catalytic Module Family DOC2
+1392576	DOC2-DOC2		Non-Catalytic Module Family DOC2
+1393922	DOC2		Non-Catalytic Module Family DOC2
+1394421	CBM18		Carbohydrate-Binding Module Family 18 protein
+1395048	GT2		Glycosyltransferase Family 2 protein
+1395063	GT2		Glycosyltransferase Family 2 protein
+1395146	GT2		Glycosyltransferase Family 2 protein
+1395179	GT2		Glycosyltransferase Family 2 protein
+1395181	GT2		Glycosyltransferase Family 2 protein
+1395206	GT2		Glycosyltransferase Family 2 protein
+1395216	GT34		Glycosyltransferase Family 34 protein
+1396562	GH11		Glycoside Hydrolase Family 11 protein
+1397067	EXPN		Distantly related to plant expansins
+1397973	DOC2-DOC2		Non-Catalytic Module Family DOC2
+1399420	CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1400594	DOC2-DOC2		Non-Catalytic Module Family DOC2
+1400906	CBM26-CBM26		Carbohydrate-Binding Module Family 26 protein
+1401004	GT17		Glycosyltransferase Family 17 protein
+1401830	GH11		Glycoside Hydrolase Family 11 protein
+1401882	CBM18		Carbohydrate-Binding Module Family 18 protein
+1402269	CBM1		Carbohydrate-Binding Module Family 1 protein
+1402564	GH5_7	fragment N-term;	Glycoside Hydrolase Family 5 protein
+1403593	DOC2-DOC2-DOC2-DOC2		Non-Catalytic Module Family DOC2
+1403923	DOC2		Non-Catalytic Module Family DOC2
+1404268	DOC2		Non-Catalytic Module Family DOC2
+1404272	DOC2		Non-Catalytic Module Family DOC2
+1404291	DOC2-DOC2		Non-Catalytic Module Family DOC2
+1404292	DOC2		Non-Catalytic Module Family DOC2
+1404769	DOC2-DOC2	fragment N-term;	Non-Catalytic Module Family DOC2
+1405744	GH5_4	fragment C-term;	Glycoside Hydrolase Family 5 protein
+1406696	CBM1		Carbohydrate-Binding Module Family 1 protein
+1406701	CBM18		Carbohydrate-Binding Module Family 18 protein
+1407013	GH3		Glycoside Hydrolase Family 3 protein
+1407127	CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1407525	DOC2-DOC2-DOC2-CBM1-CBM1-CBM1-CBM1		Non-Catalytic Module Family DOC2 / Carbohydrate-Binding Module Family 1 protein
+1407570	DOC2-DOC2		Non-Catalytic Module Family DOC2
+1407838	CBM18-CBM18-CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1408109	CBM18-CBM18-CBM18-CBM18-CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1408643	DOC2-DOC2-DOC2-CBM1-CBM1-CBM1-CBM1-CBM1		Non-Catalytic Module Family DOC2 / Carbohydrate-Binding Module Family 1 protein
+1408658	DOC2-DOC2-DOC2-CBM1-CBM1		Non-Catalytic Module Family DOC2 / Carbohydrate-Binding Module Family 1 protein
+1408960	CBM18		Carbohydrate-Binding Module Family 18 protein
+1409667	CBM1		Carbohydrate-Binding Module Family 1 protein
+1409792	DOC2-DOC2-DOC2-GH45	fragment C-term;	Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 45 protein
+1409827	DOC2-DOC2	fragment C-term;	Non-Catalytic Module Family DOC2
+1415747	CBM18-CBM18-CBM18-CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1415789	CBM10		Carbohydrate-Binding Module Family 10 protein
+1415859	DOC2-DOC2-GH6-GH6-DOC2		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 6 protein
+1415886	DOC2-DOC2-CE1		Non-Catalytic Module Family DOC2 / Carbohydrate Esterase Family 1 protein
+1415924	CBM1		Carbohydrate-Binding Module Family 1 protein
+1415960	CBM18		Carbohydrate-Binding Module Family 18 protein
+1416123	CBM1-CE4		Carbohydrate-Binding Module Family 1  / Carbohydrate Esterase Family 4 protein
+1416128	CBM18-CBM18-CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1416185	CBM1-PL1		Carbohydrate-Binding Module Family 1  / Polysaccharide Lyase Family 1 protein
+1416189	CBM1-PL1		Carbohydrate-Binding Module Family 1  / Polysaccharide Lyase Family 1 protein
+1416532	DOC2-DOC2-GH6		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 6 protein
+1416536	DOC2-DOC2-GH6		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 6 protein
+1416541	GH6	fragment C-term;	Glycoside Hydrolase Family 6 protein
+1416542	GH6	(fragment)  splicing problem;	Glycoside Hydrolase Family 6 protein
+1416570	GH3		Glycoside Hydrolase Family 3 protein
+1416608	DOC2-DOC2-DOC2		Non-Catalytic Module Family DOC2
+1416609	DOC2-DOC2	fragment C-term;	Non-Catalytic Module Family DOC2
+1416645	DOC2-DOC2		Non-Catalytic Module Family DOC2
+1416803	GT2		Glycosyltransferase Family 2 protein
+1416903	DOC2-DOC2		Non-Catalytic Module Family DOC2
+1417100	DOC2-DOC2-GH6		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 6 protein
+1417106	CE4		Carbohydrate Esterase Family 4 protein
+1417414	DOC2-DOC2		Non-Catalytic Module Family DOC2
+1417446	GH11		Glycoside Hydrolase Family 11 protein
+1417447	GH11		Glycoside Hydrolase Family 11 protein
+1417449	GH11		Glycoside Hydrolase Family 11 protein
+1417453	GH11		Glycoside Hydrolase Family 11 protein
+1417454	GH11		Glycoside Hydrolase Family 11 protein
+1417455	GH10-CBM1		Glycoside Hydrolase Family 10  / Carbohydrate-Binding Module Family 1 protein
+1417468	GH10-CBM13-DOC2-DOC2		Glycoside Hydrolase Family 10  / Carbohydrate-Binding Module Family 13  / Non-Catalytic Module Family DOC2
+1417501	GH5_5-CBM10-CBM10-GH5_5-CBM10-DOC2-DOC2		Glycoside Hydrolase Family 5  / Carbohydrate-Binding Module Family 10  / Non-Catalytic Module Family DOC2
+1417503	GH5_5-CBM10-CBM10-GH5_5-CBM10-CBM10-GH5_5-CBM10-CBM10-DOC2-DOC2		Glycoside Hydrolase Family 5  / Carbohydrate-Binding Module Family 10  / Non-Catalytic Module Family DOC2
+1417755	DOC2		Non-Catalytic Module Family DOC2
+1417847	EXPN-CBM63-DOC2-DOC2		Distantly related to plant expansins / Carbohydrate-Binding Module Family 63  / Non-Catalytic Module Family DOC2
+1418051	GH39-CBM13-DOC2-DOC2		Glycoside Hydrolase Family 39  / Carbohydrate-Binding Module Family 13  / Non-Catalytic Module Family DOC2
+1418431	CBM18-CBM18-CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1418462	DOC2		Non-Catalytic Module Family DOC2
+1418556	CBM35-GH26		Carbohydrate-Binding Module Family 35  / Glycoside Hydrolase Family 26 protein
+1418620	CBM18		Carbohydrate-Binding Module Family 18 protein
+1418649	DOC2-DOC2-DOC2-CBM1-CBM1-CBM1-CBM1		Non-Catalytic Module Family DOC2 / Carbohydrate-Binding Module Family 1 protein
+1418658	DOC2-DOC2-DOC2		Non-Catalytic Module Family DOC2
+1418660	DOC2-DOC2-DOC2		Non-Catalytic Module Family DOC2
+1418668	CE15-DOC2-DOC2		Carbohydrate Esterase Family 15  / Non-Catalytic Module Family DOC2
+1418673	CBM1-CE4	(fragment)  splicing problem;	Carbohydrate-Binding Module Family 1  / Carbohydrate Esterase Family 4 protein
+1418892	CE8-CBM1		Carbohydrate Esterase Family 8  / Carbohydrate-Binding Module Family 1 protein
+1418939	GH11-DOC2-DOC2-DOC2-GH11-CE4		Glycoside Hydrolase Family 11  / Non-Catalytic Module Family DOC2 / Carbohydrate Esterase Family 4 protein
+1419092	DOC2		Non-Catalytic Module Family DOC2
+1419285	CBM18-CBM18-CBM18-CBM18-CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1419353	GH11-CBM1		Glycoside Hydrolase Family 11  / Carbohydrate-Binding Module Family 1 protein
+1419523	GH48-DOC2-DOC2		Glycoside Hydrolase Family 48  / Non-Catalytic Module Family DOC2
+1419524	GH48-DOC2-DOC2		Glycoside Hydrolase Family 48  / Non-Catalytic Module Family DOC2
+1419675	CBM18		Carbohydrate-Binding Module Family 18 protein
+1419694	CBM21		Carbohydrate-Binding Module Family 21 protein
+1420402	DOC2-DOC2-GH45		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 45 protein
+1420452	CBM18		Carbohydrate-Binding Module Family 18 protein
+1420570	CBM18		Carbohydrate-Binding Module Family 18 protein
+1420624	CBM18-CBM18-CBM18-CBM18-CBM18-CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1420635	DOC2-DOC2-DOC2-EXPN		Non-Catalytic Module Family DOC2 / Distantly related to plant expansins
+1420710	GT2		Glycosyltransferase Family 2 protein
+1420763	CBM18-CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1420883	EXPN		Distantly related to plant expansins
+1420884	EXPN		Distantly related to plant expansins
+1420927	CBM1-PL1		Carbohydrate-Binding Module Family 1  / Polysaccharide Lyase Family 1 protein
+1420928	CBM1-CE12		Carbohydrate-Binding Module Family 1  / Carbohydrate Esterase Family 12 protein
+1421121	CBM18-CBM18-CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1421142	CBM1-GH6		Carbohydrate-Binding Module Family 1  / Glycoside Hydrolase Family 6 protein
+1421267	GT2	(fragment)  splicing problem;	Glycosyltransferase Family 2 protein
+1421280	CBM18-CBM18-CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1421303	GH48-DOC2-DOC2		Glycoside Hydrolase Family 48  / Non-Catalytic Module Family DOC2
+1421371	CBM18-CBM18-CBM18-CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1421677	GH6	(fragment)  splicing problem;	Glycoside Hydrolase Family 6 protein
+1421726	CBM18-CBM18-CE4		Carbohydrate-Binding Module Family 18  / Carbohydrate Esterase Family 4 protein
+1422142	CBM1-PL3_2		Carbohydrate-Binding Module Family 1  / Polysaccharide Lyase Family 3 protein
+1422156	GT71		Glycosyltransferase Family 71 protein
+1422157	CE8		Carbohydrate Esterase Family 8 protein
+1422177	DOC2-DOC2-GH6		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 6 protein
+1422581	GH3		Glycoside Hydrolase Family 3 protein
+1422582	GH3		Glycoside Hydrolase Family 3 protein
+1422588	GH3		Glycoside Hydrolase Family 3 protein
+1422595	CBM18-CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1422662	GH5_7-CBM1-DOC2-DOC2		Glycoside Hydrolase Family 5  / Carbohydrate-Binding Module Family 1  / Non-Catalytic Module Family DOC2
+1422695	GH3		Glycoside Hydrolase Family 3 protein
+1422698	GH3	fragment N-term / C-term;	Glycoside Hydrolase Family 3 protein
+1422832	CBM1		Carbohydrate-Binding Module Family 1 protein
+1422856	PL4		Polysaccharide Lyase Family 4 protein
+1422936	GT34		Glycosyltransferase Family 34 protein
+1422955	CBM18-CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1423163	GT2		Glycosyltransferase Family 2 protein
+1423180	CBM18		Carbohydrate-Binding Module Family 18 protein
+1423326	CBM18-CBM18-CBM18-GH18		Carbohydrate-Binding Module Family 18  / Glycoside Hydrolase Family 18 protein
+1423698	CBM18		Carbohydrate-Binding Module Family 18 protein
+1423712	GH43_1		Glycoside Hydrolase Family 43 protein
+1423720	GH43_1		Glycoside Hydrolase Family 43 protein
+1423740	CBM18-CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1423902	GH6	(fragment)  splicing problem;	Glycoside Hydrolase Family 6 protein
+1423912	DOC2-DOC2-GH6		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 6 protein
+1424081	CE4		Carbohydrate Esterase Family 4 protein
+1424271	GH3		Glycoside Hydrolase Family 3 protein
+1424273	CBM1-CE12		Carbohydrate-Binding Module Family 1  / Carbohydrate Esterase Family 12 protein
+1424289	GH10-GH10		Glycoside Hydrolase Family 10 protein
+1424355	GT34		Glycosyltransferase Family 34 protein
+1424477	GH26-DOC2		Glycoside Hydrolase Family 26  / Non-Catalytic Module Family DOC2
+1424560	PL4		Polysaccharide Lyase Family 4 protein
+1424561	PL4		Polysaccharide Lyase Family 4 protein
+1424564	PL4		Polysaccharide Lyase Family 4 protein
+1424576	GH11-CBM1		Glycoside Hydrolase Family 11  / Carbohydrate-Binding Module Family 1 protein
+1424660	GH16_21		Glycoside Hydrolase Family 16 protein
+1424690	DOC2-CE1		Non-Catalytic Module Family DOC2 / Carbohydrate Esterase Family 1 protein
+1424765	CBM1		Carbohydrate-Binding Module Family 1 protein
+1424769	GH5_7		Glycoside Hydrolase Family 5 protein
+1424903	GH16_21		Glycoside Hydrolase Family 16 protein
+1425181	CBM18-CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1425307	GH11	fragment C-term;	Glycoside Hydrolase Family 11 protein
+1425351	GH11-DOC2	(fragment)  splicing problem;	Glycoside Hydrolase Family 11  / Non-Catalytic Module Family DOC2
+1425451	CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1425611	GT2		Glycosyltransferase Family 2 protein
+1425852	PL4-CBM1-CE12		Polysaccharide Lyase Family 4  / Carbohydrate-Binding Module Family 1  / Carbohydrate Esterase Family 12 protein
+1425915	CBM18-CBM18-CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1425999	GH5_4		Glycoside Hydrolase Family 5 protein
+1426006	CBM1-PL3_2		Carbohydrate-Binding Module Family 1  / Polysaccharide Lyase Family 3 protein
+1426252	GT4		Glycosyltransferase Family 4 protein
+1426421	DOC2-DOC2-DOC2-DOC2-DOC2-CBM1		Non-Catalytic Module Family DOC2 / Carbohydrate-Binding Module Family 1 protein
+1426458	DOC2		Non-Catalytic Module Family DOC2
+1426582	DOC2-DOC2		Non-Catalytic Module Family DOC2
+1426587	DOC2-DOC2		Non-Catalytic Module Family DOC2
+1426644	DOC2-DOC2		Non-Catalytic Module Family DOC2
+1426955	CBM18-CBM18-CBM18-CBM18-CBM18-CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1426997	CBM1		Carbohydrate-Binding Module Family 1 protein
+1427111	GT101		Glycosyltransferase Family 101 protein
+1427156	GH24-CBM18		Glycoside Hydrolase Family 24  / Carbohydrate-Binding Module Family 18 protein
+1427222	DOC2-DOC2-DOC2-GH9		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 9 protein
+1427272	GH11-CBM1		Glycoside Hydrolase Family 11  / Carbohydrate-Binding Module Family 1 protein
+1427446	GH11-CBM1		Glycoside Hydrolase Family 11  / Carbohydrate-Binding Module Family 1 protein
+1427513	CBM18-CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1427616	GT2		Glycosyltransferase Family 2 protein
+1427728	CBM18-CBM18-CE4		Carbohydrate-Binding Module Family 18  / Carbohydrate Esterase Family 4 protein
+1427840	CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1427843	CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1428048	CBM18-CBM18-CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1428231	DOC2		Non-Catalytic Module Family DOC2
+1428526	DOC2-DOC2-DOC2-CBM1-CBM1-CBM1-CBM1-CBM1		Non-Catalytic Module Family DOC2 / Carbohydrate-Binding Module Family 1 protein
+1428630	GH5_4		Glycoside Hydrolase Family 5 protein
+1428733	CBM13-DOC2-DOC2-CE1		Carbohydrate-Binding Module Family 13  / Non-Catalytic Module Family DOC2 / Carbohydrate Esterase Family 1 protein
+1428738	CE1		Carbohydrate Esterase Family 1 protein
+1428740	DOC2-DOC2-CBM13-CE1		Non-Catalytic Module Family DOC2 / Carbohydrate-Binding Module Family 13  / Carbohydrate Esterase Family 1 protein
+1428980	GH11-DOC2-DOC2-DOC2-GH11		Glycoside Hydrolase Family 11  / Non-Catalytic Module Family DOC2
+1429106	CBM18		Carbohydrate-Binding Module Family 18 protein
+1429204	GH1		Glycoside Hydrolase Family 1 protein
+1429284	CBM18-CBM18-CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1429652	GH5_4-DOC2-DOC2		Glycoside Hydrolase Family 5  / Non-Catalytic Module Family DOC2
+1429656	GH5_4-DOC2-DOC2		Glycoside Hydrolase Family 5  / Non-Catalytic Module Family DOC2
+1429786	CBM18-CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1429800	CBM18-CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1429833	CBM1		Carbohydrate-Binding Module Family 1 protein
+1429844	GH11-GH11-DOC2-DOC2-GH11-GH11-CE4		Glycoside Hydrolase Family 11  / Non-Catalytic Module Family DOC2 / Carbohydrate Esterase Family 4 protein
+1429850	GH26-GH26-GH26-DOC2-DOC2		Glycoside Hydrolase Family 26  / Non-Catalytic Module Family DOC2
+1429857	DOC2-DOC2		Non-Catalytic Module Family DOC2
+1429858	DOC2-DOC2		Non-Catalytic Module Family DOC2
+1429883	CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1430052	CBM18-CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1430077	GH48-DOC2-DOC2		Glycoside Hydrolase Family 48  / Non-Catalytic Module Family DOC2
+1430144	CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1430169	DOC2-DOC2-DOC2-CBM1-CBM1		Non-Catalytic Module Family DOC2 / Carbohydrate-Binding Module Family 1 protein
+1430172	DOC2-DOC2-DOC2-CBM1-CBM1-CBM1-CBM1		Non-Catalytic Module Family DOC2 / Carbohydrate-Binding Module Family 1 protein
+1430173	DOC2-CBM1-CBM1		Non-Catalytic Module Family DOC2 / Carbohydrate-Binding Module Family 1 protein
+1430183	DOC2-DOC2		Non-Catalytic Module Family DOC2
+1430186	DOC2-DOC2		Non-Catalytic Module Family DOC2
+1430280	CBM18-CBM18-CBM18-CBM18-CBM18-CBM18-CE4		Carbohydrate-Binding Module Family 18  / Carbohydrate Esterase Family 4 protein
+1430463	CE2-CE2		Carbohydrate Esterase Family 2 protein
+1430472	CBM18-CBM18-CBM18-CBM18-CBM18-CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1430512	GT20		Glycosyltransferase Family 20 protein
+1430528	GH11-GH11-GH11-GH11-GH11-DOC2		Glycoside Hydrolase Family 11  / Non-Catalytic Module Family DOC2
+1430600	PL4-CBM1-CE12		Polysaccharide Lyase Family 4  / Carbohydrate-Binding Module Family 1  / Carbohydrate Esterase Family 12 protein
+1430931	CBM1		Carbohydrate-Binding Module Family 1 protein
+1431074	DOC2-CE1		Non-Catalytic Module Family DOC2 / Carbohydrate Esterase Family 1 protein
+1431178	CBM18		Carbohydrate-Binding Module Family 18 protein
+1431188	CBM18-CBM18-CBM18-CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1431191	GH11-CBM1		Glycoside Hydrolase Family 11  / Carbohydrate-Binding Module Family 1 protein
+1431192	GH11-CBM1		Glycoside Hydrolase Family 11  / Carbohydrate-Binding Module Family 1 protein
+1431256	CBM18		Carbohydrate-Binding Module Family 18 protein
+1431364	GT17		Glycosyltransferase Family 17 protein
+1431385	GH5_4-DOC2-DOC2		Glycoside Hydrolase Family 5  / Non-Catalytic Module Family DOC2
+1431387	CBM1		Carbohydrate-Binding Module Family 1 protein
+1431536	CBM18-CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1431693	DOC2-DOC2-GH6		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 6 protein
+1431722	GH16_21		Glycoside Hydrolase Family 16 protein
+1431723	GH16_21		Glycoside Hydrolase Family 16 protein
+1431781	GH43_35		Glycoside Hydrolase Family 43 protein
+1431901	CE4		Carbohydrate Esterase Family 4 protein
+1431953	GH48-DOC2-DOC2		Glycoside Hydrolase Family 48  / Non-Catalytic Module Family DOC2
+1431956	CE6-CBM13-DOC2-DOC2		Carbohydrate Esterase Family 6  / Carbohydrate-Binding Module Family 13  / Non-Catalytic Module Family DOC2
+1431969	DOC2-DOC2-DOC2		Non-Catalytic Module Family DOC2
+1432019	DOC2-DOC2-CE1		Non-Catalytic Module Family DOC2 / Carbohydrate Esterase Family 1 protein
+1432043	DOC2-DOC2		Non-Catalytic Module Family DOC2
+1432233	PL4-DOC2-DOC2		Polysaccharide Lyase Family 4  / Non-Catalytic Module Family DOC2
+1432587	CBM18		Carbohydrate-Binding Module Family 18 protein
+1432591	GH1		Glycoside Hydrolase Family 1 protein
+1432689	CBM18-CBM18-CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1432914	CBM1-GH6-GH6-GH6		Carbohydrate-Binding Module Family 1  / Glycoside Hydrolase Family 6 protein
+1432944	CE6-CBM1		Carbohydrate Esterase Family 6  / Carbohydrate-Binding Module Family 1 protein
+1433061	CE4		Carbohydrate Esterase Family 4 protein
+1433063	CE4		Carbohydrate Esterase Family 4 protein
+1433065	CE4		Carbohydrate Esterase Family 4 protein
+1433068	CE4		Carbohydrate Esterase Family 4 protein
+1433069	CE4		Carbohydrate Esterase Family 4 protein
+1433093	CBM18-CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1433331	CE6-CBM1		Carbohydrate Esterase Family 6  / Carbohydrate-Binding Module Family 1 protein
+1433334	DOC2-DOC2-GH5_4-GH5_4-GH5_4-DOC2-DOC2		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 5 protein
+1433444	CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1433514	GH3		Glycoside Hydrolase Family 3 protein
+1433515	GH3		Glycoside Hydrolase Family 3 protein
+1433519	CBM18		Carbohydrate-Binding Module Family 18 protein
+1433589	CBM18-CBM18-CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1433621	CBM48-GH13_8		Carbohydrate-Binding Module Family 48  / Glycoside Hydrolase Family 13 protein
+1433628	CBM18-CBM18-CBM18-CBM18-CBM18-CBM18-CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1433789	CE1-DOC2-DOC2		Carbohydrate Esterase Family 1  / Non-Catalytic Module Family DOC2
+1433888	DOC2-DOC2-DOC2		Non-Catalytic Module Family DOC2
+1433889	CBM18-CBM18-CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1433957	CBM13-DOC2-DOC2-CE1		Carbohydrate-Binding Module Family 13  / Non-Catalytic Module Family DOC2 / Carbohydrate Esterase Family 1 protein
+1434228	CE8		Carbohydrate Esterase Family 8 protein
+1434229	PL3_2	(fragment)  splicing problem;	Polysaccharide Lyase Family 3 protein
+1434237	GT71		Glycosyltransferase Family 71 protein
+1434681	DOC2-DOC2-DOC2-DOC2-DOC2-DOC2-DOC2-CBM1		Non-Catalytic Module Family DOC2 / Carbohydrate-Binding Module Family 1 protein
+1434682	GH5_4	fragment N-term;	Glycoside Hydrolase Family 5 protein
+1434686	GH3		Glycoside Hydrolase Family 3 protein
+1434775	GH48	(fragment)  splicing problem;	Glycoside Hydrolase Family 48 protein
+1434949	CBM1-GH6-GH6		Carbohydrate-Binding Module Family 1  / Glycoside Hydrolase Family 6 protein
+1434972	CBM18-CBM18-CBM18-CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1435354	GH1		Glycoside Hydrolase Family 1 protein
+1435618	GH3		Glycoside Hydrolase Family 3 protein
+1435778	PL3_2		Polysaccharide Lyase Family 3 protein
+1435780	PL3_2		Polysaccharide Lyase Family 3 protein
+1435782	PL3_2		Polysaccharide Lyase Family 3 protein
+1435784	PL3_2		Polysaccharide Lyase Family 3 protein
+1435790	PL3_2		Polysaccharide Lyase Family 3 protein
+1436424	CBM1-GH43_37-CBM61		Carbohydrate-Binding Module Family 1  / Glycoside Hydrolase Family 43  / Carbohydrate-Binding Module Family 61 protein
+1436615	DOC2-DOC2-GH6		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 6 protein
+1436616	DOC2-DOC2-GH6		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 6 protein
+1436618	DOC2-DOC2-GH6		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 6 protein
+1436621	DOC2-DOC2-GH6		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 6 protein
+1436635	DOC2-DOC2-GH6		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 6 protein
+1436662	CBM18-CBM18-CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1436824	GH2-CBM13-DOC2-DOC2		Glycoside Hydrolase Family 2  / Carbohydrate-Binding Module Family 13  / Non-Catalytic Module Family DOC2
+1437232	DOC2-DOC2-DOC2-DOC2-DOC2-DOC2		Non-Catalytic Module Family DOC2
+1437245	DOC2-DOC2-DOC2		Non-Catalytic Module Family DOC2
+1437555	CBM18		Carbohydrate-Binding Module Family 18 protein
+1437879	GH11	fragment N-term;	Glycoside Hydrolase Family 11 protein
+1437891	CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1437967	CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1437980	CBM18-CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1438255	CBM18-CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1438271	CBM18-CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1438490	DOC2-DOC2		Non-Catalytic Module Family DOC2
+1438591	GH18		Glycoside Hydrolase Family 18 protein
+1438724	CE8	fragment C-term;	Carbohydrate Esterase Family 8 protein
+1438954	GH6	fragment N-term;	Glycoside Hydrolase Family 6 protein
+1439100	GH47		Glycoside Hydrolase Family 47 protein
+1615583	GH10	fragment N-term;	Glycoside Hydrolase Family 10 protein
+1615621	CBM18-GH18	(fragment)  splicing problem;	Carbohydrate-Binding Module Family 18  / Glycoside Hydrolase Family 18 protein
+1615979	GH43_16-CBM6-CBM13-DOC2-DOC2		Glycoside Hydrolase Family 43  / Carbohydrate-Binding Module Family 6  / Carbohydrate-Binding Module Family 13  / Non-Catalytic Module Family DOC2
+1616385	GT50		Glycosyltransferase Family 50 protein
+1617008	GH45-DOC2-DOC2-DOC2		Glycoside Hydrolase Family 45  / Non-Catalytic Module Family DOC2
+1617094	PL1		Polysaccharide Lyase Family 1 protein
+1617194	CBM87		Carbohydrate-Binding Module Family 87 protein
+1617222	CBM18-CBM18-CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1618281	CE4		Carbohydrate Esterase Family 4 protein
+1618474	PL1		Polysaccharide Lyase Family 1 protein
+1618586	CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1619773	GH18		Glycoside Hydrolase Family 18 protein
+1620069	GT17		Glycosyltransferase Family 17 protein
+1620564	DOC2-DOC2		Non-Catalytic Module Family DOC2
+1620569	GH114		Glycoside Hydrolase Family 114 protein
+1620927	DOC2-DOC2-GH6		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 6 protein
+1621549	EXPN		Distantly related to plant expansins
+1621760	DOC2-DOC2-DOC2		Non-Catalytic Module Family DOC2
+1621795	DOC2-DOC2-DOC2		Non-Catalytic Module Family DOC2
+1621808	DOC2-DOC2		Non-Catalytic Module Family DOC2
+1621966	DOC2-DOC2		Non-Catalytic Module Family DOC2
+1622167	DOC2-DOC2		Non-Catalytic Module Family DOC2
+1622188	CBM1		Carbohydrate-Binding Module Family 1 protein
+1622435	CE1-CE1	fragment N-term;	Carbohydrate Esterase Family 1 protein
+1622808	EXPN		Distantly related to plant expansins
+1622826	GH43_2-CBM6		Glycoside Hydrolase Family 43  / Carbohydrate-Binding Module Family 6 protein
+1623588	DOC2-DOC2		Non-Catalytic Module Family DOC2
+1624343	CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1624911	GH114		Glycoside Hydrolase Family 114 protein
+1626243	GH11		Glycoside Hydrolase Family 11 protein
+1626244	GH11		Glycoside Hydrolase Family 11 protein
+1626249	GH10-CBM1	fragment N-term;	Glycoside Hydrolase Family 10  / Carbohydrate-Binding Module Family 1 protein
+1626250	GH11		Glycoside Hydrolase Family 11 protein
+1627686	CBM32		Carbohydrate-Binding Module Family 32 protein
+1627814	GT2		Glycosyltransferase Family 2 protein
+1628255	GH10-CBM29-DOC2-DOC2-DOC2		Glycoside Hydrolase Family 10  / Carbohydrate-Binding Module Family 29  / Non-Catalytic Module Family DOC2
+1628421	GH5_4	fragment N-term;	Glycoside Hydrolase Family 5 protein
+1629579	GT17	fragment N-term;	Glycosyltransferase Family 17 protein
+1630250	GT2		Glycosyltransferase Family 2 protein
+1630447	DOC2-DOC2		Non-Catalytic Module Family DOC2
+1630546	CE4		Carbohydrate Esterase Family 4 protein
+1633288	GH30_5	fragment N-term;	Glycoside Hydrolase Family 30 protein
+1633472	GH5_7	fragment N-term;	Glycoside Hydrolase Family 5 protein
+1633485	GH6	fragment N-term;	Glycoside Hydrolase Family 6 protein
+1633960	DOC2-DOC2		Non-Catalytic Module Family DOC2
+1633964	DOC2-DOC2-DOC2		Non-Catalytic Module Family DOC2
+1634555	GT2	(fragment)  splicing problem;	Glycosyltransferase Family 2 protein
+1635047	GT4		Glycosyltransferase Family 4 protein
+1635227	CBM18		Carbohydrate-Binding Module Family 18 protein
+1635318	CBM18-CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1635321	CBM18-CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1635392	GT20		Glycosyltransferase Family 20 protein
+1635989	GH5_4	fragment N-term;	Glycoside Hydrolase Family 5 protein
+1636986	CE4		Carbohydrate Esterase Family 4 protein
+1637371	GH43_4		Glycoside Hydrolase Family 43 protein
+1637449	GT3		Glycosyltransferase Family 3 protein
+1638558	GT10	fragment N-term;	Glycosyltransferase Family 10 protein
+1639452	CBM10		Carbohydrate-Binding Module Family 10 protein
+1639598	DOC2		Non-Catalytic Module Family DOC2
+1639615	CBM10-CBM10		Carbohydrate-Binding Module Family 10 protein
+1640638	CBM87-CE18		Carbohydrate-Binding Module Family 87  / Carbohydrate Esterase Family 18 protein
+1643005	GH43_35		Glycoside Hydrolase Family 43 protein
+1643019	GH43_16-CBM6		Glycoside Hydrolase Family 43  / Carbohydrate-Binding Module Family 6 protein
+1643233	GH3-DOC2-GH6-DOC2-DOC2		Glycoside Hydrolase Family 3  / Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 6 protein
+1643275	GH5_7	fragment N-term;	Glycoside Hydrolase Family 5 protein
+1643845	GH74-DOC2-DOC2-DOC2		Glycoside Hydrolase Family 74  / Non-Catalytic Module Family DOC2
+1645086	DOC2		Non-Catalytic Module Family DOC2
+1645294	CBM18		Carbohydrate-Binding Module Family 18 protein
+1645361	DOC2-DOC2-GH16		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 16 protein
+1645396	CBM26-GH31		Carbohydrate-Binding Module Family 26  / Glycoside Hydrolase Family 31 protein
+1645399	GH31		Glycoside Hydrolase Family 31 protein
+1645402	GH31		Glycoside Hydrolase Family 31 protein
+1645405	GH31		Glycoside Hydrolase Family 31 protein
+1645658	GT17		Glycosyltransferase Family 17 protein
+1645850	DOC2-DOC2		Non-Catalytic Module Family DOC2
+1646956	DOC2-GH10		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 10 protein
+1646957	DOC2-GH10		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 10 protein
+1647010	DOC2-DOC2-GH97		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 97 protein
+1647358	CBM18-CBM18-CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1648016	GT2		Glycosyltransferase Family 2 protein
+1648094	CBM10		Carbohydrate-Binding Module Family 10 protein
+1648349	DOC2-DOC2		Non-Catalytic Module Family DOC2
+1648413	GH114		Glycoside Hydrolase Family 114 protein
+1649260	DOC2-DOC2		Non-Catalytic Module Family DOC2
+1649267	DOC2-DOC2		Non-Catalytic Module Family DOC2
+1649345	GH78		Glycoside Hydrolase Family 78 protein
+1649366	PL1		Polysaccharide Lyase Family 1 protein
+1649418	CBM18	(fragment)  splicing problem;	Carbohydrate-Binding Module Family 18 protein
+1651162	GT2		Glycosyltransferase Family 2 protein
+1651165	GT2		Glycosyltransferase Family 2 protein
+1651396	GH74-DOC2-DOC2-DOC2		Glycoside Hydrolase Family 74  / Non-Catalytic Module Family DOC2
+1651625	CBM18-CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1651627	CBM18		Carbohydrate-Binding Module Family 18 protein
+1651965	GT34	fragment C-term;	Glycosyltransferase Family 34 protein
+1652131	DOC2-DOC2-DOC2		Non-Catalytic Module Family DOC2
+1652197	GH32	fragment N-term;	Glycoside Hydrolase Family 32 protein
+1652204	GH32	fragment N-term;	Glycoside Hydrolase Family 32 protein
+1652282	GH32	fragment N-term;	Glycoside Hydrolase Family 32 protein
+1652286	GH32	fragment N-term;	Glycoside Hydrolase Family 32 protein
+1652364	CBM18		Carbohydrate-Binding Module Family 18 protein
+1652981	CBM32		Carbohydrate-Binding Module Family 32 protein
+1652986	GH6	fragment N-term;	Glycoside Hydrolase Family 6 protein
+1653617	GH30_3		Glycoside Hydrolase Family 30 protein
+1653640	DOC2-DOC2-GH141		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 141 protein
+1653949	CE4		Carbohydrate Esterase Family 4 protein
+1654704	CBM52-GH64		Carbohydrate-Binding Module Family 52  / Glycoside Hydrolase Family 64 protein
+1654705	GT2		Glycosyltransferase Family 2 protein
+1656317	CBM52-CBM52-GH16_3		Carbohydrate-Binding Module Family 52  / Glycoside Hydrolase Family 16 protein
+1658798	CBM18		Carbohydrate-Binding Module Family 18 protein
+1660710	GT17		Glycosyltransferase Family 17 protein
+1661037	GH3	fragment N-term / C-term;	Glycoside Hydrolase Family 3 protein
+1661086	GT2		Glycosyltransferase Family 2 protein
+1661449	GH5_7		Glycoside Hydrolase Family 5 protein
+1661511	CE4		Carbohydrate Esterase Family 4 protein
+1661544	GT34		Glycosyltransferase Family 34 protein
+1663489	DOC2-DOC2-GH6		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 6 protein
+1663533	GH45-DOC2-DOC2		Glycoside Hydrolase Family 45  / Non-Catalytic Module Family DOC2
+1663557	CBM10-CBM10-CBM10-GH45		Carbohydrate-Binding Module Family 10  / Glycoside Hydrolase Family 45 protein
+1663667	CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1664119	CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1664618	CBM18-CBM18-CBM18-CBM18-CBM18-CE4		Carbohydrate-Binding Module Family 18  / Carbohydrate Esterase Family 4 protein
+1664767	CBM18-CBM18-CBM18-CE4		Carbohydrate-Binding Module Family 18  / Carbohydrate Esterase Family 4 protein
+1665893	DOC2-DOC2-CE1		Non-Catalytic Module Family DOC2 / Carbohydrate Esterase Family 1 protein
+1668243	DOC2		Non-Catalytic Module Family DOC2
+1668442	GT71	fragment C-term;	Glycosyltransferase Family 71 protein
+1668929	GH43_16-CBM6-GH43_22		Glycoside Hydrolase Family 43  / Carbohydrate-Binding Module Family 6 protein
+1668993	GH16_21	(fragment)  splicing problem;	Glycoside Hydrolase Family 16 protein
+1669041	DOC2-DOC2		Non-Catalytic Module Family DOC2
+1669150	CBM18-CBM18-CBM18-GH18		Carbohydrate-Binding Module Family 18  / Glycoside Hydrolase Family 18 protein
+1669299	GH10		Glycoside Hydrolase Family 10 protein
+1669300	GH10		Glycoside Hydrolase Family 10 protein
+1669319	GT2		Glycosyltransferase Family 2 protein
+1669671	GH1	fragment C-term;	Glycoside Hydrolase Family 1 protein
+1669903	GT39		Glycosyltransferase Family 39 protein
+1670129	GT39	fragment C-term;	Glycosyltransferase Family 39 protein
+1670379	GH10	fragment N-term;	Glycoside Hydrolase Family 10 protein
+1670380	GH10	fragment N-term;	Glycoside Hydrolase Family 10 protein
+1670382	GH10-GH10	fragment N-term;	Glycoside Hydrolase Family 10 protein
+1670560	DOC2-EXPN		Non-Catalytic Module Family DOC2 / Distantly related to plant expansins
+1670916	CBM35-GH26-DOC2-DOC2		Carbohydrate-Binding Module Family 35  / Glycoside Hydrolase Family 26  / Non-Catalytic Module Family DOC2
+1670977	CBM35-GH26-DOC2-DOC2		Carbohydrate-Binding Module Family 35  / Glycoside Hydrolase Family 26  / Non-Catalytic Module Family DOC2
+1672259	DOC2-DOC2-DOC2		Non-Catalytic Module Family DOC2
+1672285	GT34		Glycosyltransferase Family 34 protein
+1673177	GH5_7		Glycoside Hydrolase Family 5 protein
+1673410	CBM50-CBM50-CE4		Carbohydrate-Binding Module Family 50  / Carbohydrate Esterase Family 4 protein
+1673572	GT71		Glycosyltransferase Family 71 protein
+1673649	GT39		Glycosyltransferase Family 39 protein
+1674298	CBM25		Carbohydrate-Binding Module Family 25 protein
+1674340	DOC2-DOC2-GH43_4		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 43 protein
+1675383	DOC2		Non-Catalytic Module Family DOC2
+1675743	GH48-DOC2-DOC2		Glycoside Hydrolase Family 48  / Non-Catalytic Module Family DOC2
+1675793	CBM1-DOC2-DOC2-CBM1-CBM1-CBM1		Carbohydrate-Binding Module Family 1  / Non-Catalytic Module Family DOC2
+1677182	GT2		Glycosyltransferase Family 2 protein
+1677329	GT2		Glycosyltransferase Family 2 protein
+1677641	CBM87		Carbohydrate-Binding Module Family 87 protein
+1677771	GT4		Glycosyltransferase Family 4 protein
+1677895	DOC2-DOC2		Non-Catalytic Module Family DOC2
+1679204	DOC2-DOC2-DOC2		Non-Catalytic Module Family DOC2
+1679267	GH5_5-CBM10-DOC2-DOC2		Glycoside Hydrolase Family 5  / Carbohydrate-Binding Module Family 10  / Non-Catalytic Module Family DOC2
+1681937	GT31		Glycosyltransferase Family 31 protein
+1682074	DOC2-DOC2-GH43_4		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 43 protein
+1682780	CE4		Carbohydrate Esterase Family 4 protein
+1684881	CBM87-CE18-DOC2		Carbohydrate-Binding Module Family 87  / Carbohydrate Esterase Family 18  / Non-Catalytic Module Family DOC2
+1684958	GH115	fragment N-term;	Glycoside Hydrolase Family 115 protein
+1684965	GH115	fragment N-term;	Glycoside Hydrolase Family 115 protein
+1685944	GH13_28-CBM26-CBM25		Glycoside Hydrolase Family 13  / Carbohydrate-Binding Module Family 26  / Carbohydrate-Binding Module Family 25 protein
+1686178	GH31		Glycoside Hydrolase Family 31 protein
+1686184	GH25		Glycoside Hydrolase Family 25 protein
+1686287	GH3-DOC2-DOC2		Glycoside Hydrolase Family 3  / Non-Catalytic Module Family DOC2
+1686435	CBM18-CBM18-CBM18-CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1686954	GT4		Glycosyltransferase Family 4 protein
+1687992	GH2-CBM13-DOC2-DOC2		Glycoside Hydrolase Family 2  / Carbohydrate-Binding Module Family 13  / Non-Catalytic Module Family DOC2
+1689482	GT71		Glycosyltransferase Family 71 protein
+1692143	GH43_10	fragment C-term;	Glycoside Hydrolase Family 43 protein
+1692153	GH115	fragment N-term;	Glycoside Hydrolase Family 115 protein
+1692356	GH114		Glycoside Hydrolase Family 114 protein
+1692729	DOC2-DOC2		Non-Catalytic Module Family DOC2
+1692976	GT20		Glycosyltransferase Family 20 protein
+1693012	GT17		Glycosyltransferase Family 17 protein
+1693933	CBM48		Carbohydrate-Binding Module Family 48 protein
+1695289	DOC2-DOC2		Non-Catalytic Module Family DOC2
+1695736	DOC2-GH10		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 10 protein
+1696249	CBM18-CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1696937	GT2		Glycosyltransferase Family 2 protein
+1697253	DOC2-DOC2		Non-Catalytic Module Family DOC2
+1698047	EXPN		Distantly related to plant expansins
+1698506	CBM13-DOC2		Carbohydrate-Binding Module Family 13  / Non-Catalytic Module Family DOC2
+1698684	DOC2-CE1		Non-Catalytic Module Family DOC2 / Carbohydrate Esterase Family 1 protein
+1698766	CE4	fragment N-term;	Carbohydrate Esterase Family 4 protein
+1699418	DOC2-GH26		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 26 protein
+1699420	GH43_10-CBM13-DOC2-DOC2		Glycoside Hydrolase Family 43  / Carbohydrate-Binding Module Family 13  / Non-Catalytic Module Family DOC2
+1699789	DOC2		Non-Catalytic Module Family DOC2
+1700141	CBM18-DOC2-DOC2-DOC2		Carbohydrate-Binding Module Family 18  / Non-Catalytic Module Family DOC2
+1701549	DOC2-DOC2		Non-Catalytic Module Family DOC2
+1701550	DOC2		Non-Catalytic Module Family DOC2
+1702466	GH38		Glycoside Hydrolase Family 38 protein
+1703845	GH18-DOC2-DOC2		Glycoside Hydrolase Family 18  / Non-Catalytic Module Family DOC2
+1704317	DOC2-GH105		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 105 protein
+1704666	DOC2-DOC2		Non-Catalytic Module Family DOC2
+1704669	GT17		Glycosyltransferase Family 17 protein
+1704966	DOC2-GH105		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 105 protein
+1704981	GH114		Glycoside Hydrolase Family 114 protein
+1704991	GT71		Glycosyltransferase Family 71 protein
+1705136	GH13_25-GH133		Glycoside Hydrolase Family 13  / Glycoside Hydrolase Family 133 protein
+1705215	CBM18-GH18-DOC2-DOC2		Carbohydrate-Binding Module Family 18  / Glycoside Hydrolase Family 18  / Non-Catalytic Module Family DOC2
+1705506	DOC2-DOC2		Non-Catalytic Module Family DOC2
+1705536	CBM87-CE18-CBM1		Carbohydrate-Binding Module Family 87  / Carbohydrate Esterase Family 18  / Carbohydrate-Binding Module Family 1 protein
+1705800	CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1706214	CBM21		Carbohydrate-Binding Module Family 21 protein
+1707192	DOC2-DOC2		Non-Catalytic Module Family DOC2
+1707418	GH5_8-CBM10-CBM10		Glycoside Hydrolase Family 5  / Carbohydrate-Binding Module Family 10 protein
+1707721	DOC2-DOC2-DOC2		Non-Catalytic Module Family DOC2
+1708128	DOC2-DOC2-DOC2-DOC2		Non-Catalytic Module Family DOC2
+1708129	CBM18-DOC2-DOC2-DOC2		Carbohydrate-Binding Module Family 18  / Non-Catalytic Module Family DOC2
+1711127	GH28		Glycoside Hydrolase Family 28 protein
+1711137	CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1712218	CBM1		Carbohydrate-Binding Module Family 1 protein
+1713574	GT2		Glycosyltransferase Family 2 protein
+1714793	GT22		Glycosyltransferase Family 22 protein
+1714985	GH13_28-CBM26-CBM25		Glycoside Hydrolase Family 13  / Carbohydrate-Binding Module Family 26  / Carbohydrate-Binding Module Family 25 protein
+1714991	DOC2-DOC2		Non-Catalytic Module Family DOC2
+1715210	CBM18-CBM18-CBM18-CBM18-CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1715216	DOC2-DOC2-CE1-CE1		Non-Catalytic Module Family DOC2 / Carbohydrate Esterase Family 1 protein
+1715290	GH43_4		Glycoside Hydrolase Family 43 protein
+1715293	GH43_4		Glycoside Hydrolase Family 43 protein
+1715295	GH43_4		Glycoside Hydrolase Family 43 protein
+1716773	GH3	fragment N-term / C-term;	Glycoside Hydrolase Family 3 protein
+1716777	GH3	fragment N-term;	Glycoside Hydrolase Family 3 protein
+1717649	GH43_35		Glycoside Hydrolase Family 43 protein
+1717656	GH43_35		Glycoside Hydrolase Family 43 protein
+1717881	GT24		Glycosyltransferase Family 24 protein
+1718173	CBM1		Carbohydrate-Binding Module Family 1 protein
+1719149	EXPN		Distantly related to plant expansins
+1719444	CE4		Carbohydrate Esterase Family 4 protein
+1719549	GH31		Glycoside Hydrolase Family 31 protein
+1722995	CBM18		Carbohydrate-Binding Module Family 18 protein
+1723346	GT32		Glycosyltransferase Family 32 protein
+1723925	CBM48		Carbohydrate-Binding Module Family 48 protein
+1724151	CBM18-CBM18-CBM18-CE4		Carbohydrate-Binding Module Family 18  / Carbohydrate Esterase Family 4 protein
+1724272	DOC2-DOC2-DOC2-CBM1		Non-Catalytic Module Family DOC2 / Carbohydrate-Binding Module Family 1 protein
+1724478	GH26-CBM10		Glycoside Hydrolase Family 26  / Carbohydrate-Binding Module Family 10 protein
+1724585	EXPN		Distantly related to plant expansins
+1724823	CBM21		Carbohydrate-Binding Module Family 21 protein
+1724954	GH13		Glycoside Hydrolase Family 13 protein
+1724955	CBM18		Carbohydrate-Binding Module Family 18 protein
+1725089	CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1725095	DOC2-DOC2-CE1		Non-Catalytic Module Family DOC2 / Carbohydrate Esterase Family 1 protein
+1725102	DOC2-DOC2		Non-Catalytic Module Family DOC2
+1725571	GH114		Glycoside Hydrolase Family 114 protein
+1725810	CE4	fragment N-term;	Carbohydrate Esterase Family 4 protein
+1725820	CE4	fragment N-term;	Carbohydrate Esterase Family 4 protein
+1725942	PL11_2		Polysaccharide Lyase Family 11 protein
+1725966	DOC2-DOC2-DOC2-GH5_1		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 5 protein
+1727135	PL1		Polysaccharide Lyase Family 1 protein
+1727155	CBM1		Carbohydrate-Binding Module Family 1 protein
+1727158	CBM1		Carbohydrate-Binding Module Family 1 protein
+1727163	CBM1		Carbohydrate-Binding Module Family 1 protein
+1727235	GT8		Glycosyltransferase Family 8 protein
+1727249	GH45-DOC2-DOC2		Glycoside Hydrolase Family 45  / Non-Catalytic Module Family DOC2
+1728010	CBM32		Carbohydrate-Binding Module Family 32 protein
+1728011	CBM32		Carbohydrate-Binding Module Family 32 protein
+1728666	CBM18		Carbohydrate-Binding Module Family 18 protein
+1728669	GT71		Glycosyltransferase Family 71 protein
+1728696	GH3		Glycoside Hydrolase Family 3 protein
+1730546	CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1730609	DOC2-DOC2-GH6		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 6 protein
+1731818	CBM18		Carbohydrate-Binding Module Family 18 protein
+1731976	DOC2-CE1		Non-Catalytic Module Family DOC2 / Carbohydrate Esterase Family 1 protein
+1732030	CBM13-DOC2		Carbohydrate-Binding Module Family 13  / Non-Catalytic Module Family DOC2
+1732128	GH25		Glycoside Hydrolase Family 25 protein
+1732238	CE4		Carbohydrate Esterase Family 4 protein
+1732239	CE4		Carbohydrate Esterase Family 4 protein
+1732338	DOC2-CBM1		Non-Catalytic Module Family DOC2 / Carbohydrate-Binding Module Family 1 protein
+1733487	GH9-DOC2-DOC2-DOC2		Glycoside Hydrolase Family 9  / Non-Catalytic Module Family DOC2
+1733904	CBM13-DOC2-DOC2		Carbohydrate-Binding Module Family 13  / Non-Catalytic Module Family DOC2
+1734151	CBM13-GH43_19-DOC2-DOC2		Carbohydrate-Binding Module Family 13  / Glycoside Hydrolase Family 43  / Non-Catalytic Module Family DOC2
+1735186	GH47		Glycoside Hydrolase Family 47 protein
+1735213	GH47		Glycoside Hydrolase Family 47 protein
+1735397	GT2		Glycosyltransferase Family 2 protein
+1736054	GH5_4-DOC2-DOC2	fragment N-term;	Glycoside Hydrolase Family 5  / Non-Catalytic Module Family DOC2
+1736297	CBM1-CE4		Carbohydrate-Binding Module Family 1  / Carbohydrate Esterase Family 4 protein
+1736347	CBM1-CE4		Carbohydrate-Binding Module Family 1  / Carbohydrate Esterase Family 4 protein
+1736378	GH115		Glycoside Hydrolase Family 115 protein
+1736465	GT34		Glycosyltransferase Family 34 protein
+1736504	DOC2-DOC2		Non-Catalytic Module Family DOC2
+1736788	GH11	fragment C-term;	Glycoside Hydrolase Family 11 protein
+1736837	GT34		Glycosyltransferase Family 34 protein
+1737033	GT1		Glycosyltransferase Family 1 protein
+1737046	DOC2-DOC2-CBM13-CE1		Non-Catalytic Module Family DOC2 / Carbohydrate-Binding Module Family 13  / Carbohydrate Esterase Family 1 protein
+1737453	GH53		Glycoside Hydrolase Family 53 protein
+1737579	GH43_16-CBM6		Glycoside Hydrolase Family 43  / Carbohydrate-Binding Module Family 6 protein
+1738826	DOC2-DOC2-PL1		Non-Catalytic Module Family DOC2 / Polysaccharide Lyase Family 1 protein
+1738851	GH16_10-DOC2-DOC2		Glycoside Hydrolase Family 16  / Non-Catalytic Module Family DOC2
+1739730	GT71		Glycosyltransferase Family 71 protein
+1739865	GT1		Glycosyltransferase Family 1 protein
+1740297	CBM18-CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1741721	DOC2-DOC2-CBM10-GH45		Non-Catalytic Module Family DOC2 / Carbohydrate-Binding Module Family 10  / Glycoside Hydrolase Family 45 protein
+1742844	DOC2		Non-Catalytic Module Family DOC2
+1742847	CE6-DOC2-DOC2		Carbohydrate Esterase Family 6  / Non-Catalytic Module Family DOC2
+1742946	DOC2-DOC2		Non-Catalytic Module Family DOC2
+1743009	DOC2-DOC2-GH10		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 10 protein
+1743030	CBM26-CBM25		Carbohydrate-Binding Module Family 26  / Carbohydrate-Binding Module Family 25 protein
+1743872	GH8		Glycoside Hydrolase Family 8 protein
+1743930	CBM18-CBM18-CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1745309	GH11-DOC2-DOC2		Glycoside Hydrolase Family 11  / Non-Catalytic Module Family DOC2
+1745393	GH5_7-DOC2-DOC2-DOC2		Glycoside Hydrolase Family 5  / Non-Catalytic Module Family DOC2
+1745609	GT66	fragment C-term;	Glycosyltransferase Family 66 protein
+1745688	CBM18		Carbohydrate-Binding Module Family 18 protein
+1745742	CBM18		Carbohydrate-Binding Module Family 18 protein
+1745755	DOC2-GH30_5		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 30 protein
+1746154	GT2		Glycosyltransferase Family 2 protein
+1746173	GT2		Glycosyltransferase Family 2 protein
+1748161	GT2-GT4		Glycosyltransferase Family 2  / Glycosyltransferase Family 4 protein
+1748172	GT2-GT4		Glycosyltransferase Family 2  / Glycosyltransferase Family 4 protein
+1750283	CBM1		Carbohydrate-Binding Module Family 1 protein
+1750481	CBM18-CBM18-CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1751376	CE4		Carbohydrate Esterase Family 4 protein
+1752422	CBM18		Carbohydrate-Binding Module Family 18 protein
+1753270	CBM18		Carbohydrate-Binding Module Family 18 protein
+1753349	CBM18		Carbohydrate-Binding Module Family 18 protein
+1753374	CBM18		Carbohydrate-Binding Module Family 18 protein
+1753490	CBM18		Carbohydrate-Binding Module Family 18 protein
+1753560	CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1753585	GH114		Glycoside Hydrolase Family 114 protein
+1753795	EXPN		Distantly related to plant expansins
+1753965	CBM18		Carbohydrate-Binding Module Family 18 protein
+1754089	CBM18		Carbohydrate-Binding Module Family 18 protein
+1754501	CBM18		Carbohydrate-Binding Module Family 18 protein
+1754584	CBM18		Carbohydrate-Binding Module Family 18 protein
+1754932	CBM18		Carbohydrate-Binding Module Family 18 protein
+1755210	CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1755666	GH114		Glycoside Hydrolase Family 114 protein
+1756038	CBM18		Carbohydrate-Binding Module Family 18 protein
+1756970	CBM10-CBM10		Carbohydrate-Binding Module Family 10 protein
+1759738	CBM26-CBM25		Carbohydrate-Binding Module Family 26  / Carbohydrate-Binding Module Family 25 protein
+1759743	GH6	fragment N-term;	Glycoside Hydrolase Family 6 protein
+1759879	DOC2-DOC2		Non-Catalytic Module Family DOC2
+1760269	CBM18-CBM18		Carbohydrate-Binding Module Family 18 protein
+1760426	GH25		Glycoside Hydrolase Family 25 protein
+1760607	GH115	fragment N-term;	Glycoside Hydrolase Family 115 protein
+1760609	DOC2-GH10		Non-Catalytic Module Family DOC2 / Glycoside Hydrolase Family 10 protein

@@ -1,0 +1,13 @@
+{
+	"n_targets": 90972,
+	"n_bootstraps": 100,
+	"n_processed": 45860913,
+	"n_pseudoaligned": 28887319,
+	"n_unique": 12597004,
+	"p_pseudoaligned": 63.0,
+	"p_unique": 27.5,
+	"kallisto_version": "0.46.0",
+	"index_version": 10,
+	"start_time": "Sun Aug  4 18:58:13 2019",
+	"call": "../kallisto/kallisto quant -t 8 --rf-stranded -i ./s3denovo.kalind -o ./M2_S3 -b 100 --bias M2-3_S6_L001_R1_001.fastq.gz.P.qtrim.gz M2-3_S6_L001_R2_001.fastq.gz.P.qtrim.gz M2-3_S6_L002_R1_001.fastq.gz.P.qtrim.gz M2-3_S6_L002_R2_001.fastq.gz.P.qtrim.gz M2-3_S6_L003_R1_001.fastq.gz.P.qtrim.gz M2-3_S6_L003_R2_001.fastq.gz.P.qtrim.gz M2-3_S6_L004_R1_001.fastq.gz.P.qtrim.gz M2-3_S6_L004_R2_001.fastq.gz.P.qtrim.gz"
+}
