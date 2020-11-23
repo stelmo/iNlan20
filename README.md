@@ -8,13 +8,13 @@ Anaerobic gut fungi, from the phylum Neocallimastigomycota, are a clade of early
 
 ### Outline of the repo
 1) The model is supplied in two formats, SBML (.xml) and cobrapy compatible JSON (.json), `iNlan20.xml` and `iNlan20.json` respectively.
-2) The Memote report of the model is supplied as well `iNlan20_memote_report.html`.
+2) The Memote report of the model is supplied as `iNlan20_memote_report.html`.
 3) The entire reconstruction pipeline is supplied in `/ReconstructionAndAnalysis/`, which is further explained below.
 4) The omics data (genomics, transcriptomics and reference databases) are supplied in `/OmicsData/`.
 5) The bidirectional blast annotation results for *N. lanati* are supplied in `/MetabolicTables/`.
 6) All the other folders have self explanatory names.
 
 ### Reconstruction and Analysis
-The model can be reconstructed from scratch using a combination of manually curated files and scripts that are collected in `/ReconstructionAndAnalysis/`. To create the basic model run the notebook `/ReconstructionAndAnalysis/Reconstruction of N. lanati GEM.ipynb`. This requires at least version 1.5 of the [Julia language](https://julialang.org/) as well as all the packages: JSON, BioSequences, ExcelReaders, DataValues, Statistics, FASTX, StatsBase and DataFrames. Once the basic model has been built, it is necessary to open the resulting `iNlan20.json` file in cobrapy and save it as both a JSON and SBML model, please use the notebook `/ReconstructionAndAnalysis/Write model.ipynb` for this. 
+The model can be reconstructed from scratch using a combination of manually curated files and scripts that are collected in `/ReconstructionAndAnalysis/`. To create the basic model run the notebook `/ReconstructionAndAnalysis/Reconstruction of N. lanati GEM.ipynb`. This requires at least version 1.5 of the [Julia language](https://julialang.org/), as well as the packages: JSON, BioSequences, ExcelReaders, DataValues, Statistics, FASTX, StatsBase and DataFrames. Once the basic model has been built, it is necessary to open the resulting `iNlan20.json` file in cobrapy and save it as both a JSON and SBML model, please use the notebook `/ReconstructionAndAnalysis/Write model.ipynb` for this. 
 
-After the preceding steps the model can be run. We supply example scripts: `/ReconstructionAndAnalysis/iNlan20 Example Simulations.ipynb` to make this easy. To use this script Python 3.8.3 was used, the cobrapy package, as well as Gurobi's linear solver.
+After the preceding steps the model can be run. We supply example scripts: `/ReconstructionAndAnalysis/iNlan20 Example Simulations.ipynb` to make this easy. To use this script Python 3.8.3 is required, the cobrapy package, as well as Gurobi's linear solver.
