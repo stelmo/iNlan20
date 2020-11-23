@@ -6,6 +6,11 @@ Anaerobic gut fungi, from the phylum Neocallimastigomycota, are a clade of early
  
 ![N. lanati](/Miscellaneous/nlanimg.jpg)
 
+For more information see: 
+1) [Harnessing Nature's Anaerobes for Biotechnology and Bioprocessing](https://doi.org/10.1146/annurev-chembioeng-060718-030340)
+2) [The importance of sourcing enzymes from non-conventional fungi for metabolic engineering and biomass breakdown](https://doi.org/10.1016/j.ymben.2017.09.008)
+3) [Early-branching gut fungi possess a large, comprehensive array of biomass-degrading enzymes](https://doi.org/10.1126/science.aad1431)
+
 ### Outline of the repo
 1) The model is supplied in two formats, SBML (.xml) and cobrapy compatible JSON (.json), `iNlan20.xml` and `iNlan20.json` respectively.
 2) The Memote report of the model is supplied as `iNlan20_memote_report.html`.
