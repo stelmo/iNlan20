@@ -35507,7 +35507,7 @@
 "gene_reaction_rule":"623223",
 "notes":{
 "Annotation_source":"S. cerevisiae GEM",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Sulphur metabolism",
 "original_bigg_ids":[
 "SULR",
@@ -35556,7 +35556,7 @@
 "gene_reaction_rule":"960652",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Leucine",
 "original_bigg_ids":[
 "LEUTAi"
@@ -35603,7 +35603,7 @@
 "gene_reaction_rule":"930109 or 956288",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Tryptophan",
 "original_bigg_ids":[
 "G3PL_c",
@@ -35774,7 +35774,7 @@
 "gene_reaction_rule":"1623393 or 1686502",
 "notes":{
 "Annotation_source":"Bidirectional blasting",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Sulphur metabolism",
 "original_bigg_ids":[
 "SLFAT"
@@ -35949,7 +35949,7 @@
 "gene_reaction_rule":"1694214",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Methionine",
 "original_bigg_ids":[
 "AHML",
@@ -35999,7 +35999,7 @@
 "gene_reaction_rule":"1694214",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Methionine",
 "original_bigg_ids":[
 "HCYSMT2"
@@ -36109,7 +36109,7 @@
 "gene_reaction_rule":"1696656",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Methionine",
 "original_bigg_ids":[
 "MAT",
@@ -36259,7 +36259,7 @@
 "gene_reaction_rule":"1734054",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Methionine",
 "original_bigg_ids":[
 "METS",
@@ -36387,7 +36387,7 @@
 "gene_reaction_rule":"1672474",
 "notes":{
 "Annotation_source":"E. coli GEM",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Methionine",
 "original_bigg_ids":[
 "SHSL1",
@@ -36434,7 +36434,7 @@
 "gene_reaction_rule":"1728358 or 1275778 or 1674312 or 1030374 or 1737379 or 1013570 or 963470 or 1742957",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Glycerolipid",
 "original_bigg_ids":[
 "ALCD19_D",
@@ -36537,7 +36537,7 @@
 "gene_reaction_rule":"1350111",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Glycerophospholipid",
 "original_bigg_ids":[
 "G3PD1",
@@ -36607,7 +36607,7 @@
 "gene_reaction_rule":"1711317",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Glycerolipid",
 "original_bigg_ids":[
 "G3PT"
@@ -36650,7 +36650,7 @@
 "gene_reaction_rule":"1317189",
 "notes":{
 "Annotation_source":"S. cerevisiae GEM",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Glycerolipid",
 "original_bigg_ids":[
 "GLYCDy"
@@ -36768,7 +36768,7 @@
 "gene_reaction_rule":"1292252",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Glycerophospholipid",
 "original_bigg_ids":[
 "GPCGPH_c",
@@ -36825,7 +36825,7 @@
 "gene_reaction_rule":"1279346 or 1694560",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Sphingolipid",
 "original_bigg_ids":[
 "3DSPHR",
@@ -36875,7 +36875,7 @@
 "gene_reaction_rule":"1022304",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Sphingolipid Metabolism",
 "original_bigg_ids":[
 "CERS124"
@@ -36906,7 +36906,7 @@
 "gene_reaction_rule":"1022304",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Sphingolipid Metabolism",
 "original_bigg_ids":[
 "CERS126"
@@ -36937,7 +36937,7 @@
 "gene_reaction_rule":"1022304",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Sphingolipid Metabolism",
 "original_bigg_ids":[
 "CERS224"
@@ -36968,7 +36968,7 @@
 "gene_reaction_rule":"1022304",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Sphingolipid Metabolism",
 "original_bigg_ids":[
 "CERS226"
@@ -36999,7 +36999,7 @@
 "gene_reaction_rule":"1656560",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Terpenoid backbone/Mevalonate",
 "original_bigg_ids":[
 "MEVK",
@@ -37051,7 +37051,7 @@
 "gene_reaction_rule":"1656560",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Sterol Metabolism",
 "original_bigg_ids":[
 "MEVK2"
@@ -37088,7 +37088,7 @@
 "gene_reaction_rule":"1656560",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Sterol Metabolism",
 "original_bigg_ids":[
 "MEVK3"
@@ -37125,7 +37125,7 @@
 "gene_reaction_rule":"1656560",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Sterol Metabolism",
 "original_bigg_ids":[
 "MEVK4"
@@ -37161,7 +37161,7 @@
 "gene_reaction_rule":"1670305",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Terpenoid backbone/Mevalonate",
 "original_bigg_ids":[
 "PMEVK",
@@ -37254,7 +37254,7 @@
 "gene_reaction_rule":"3375",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Sphingolipid",
 "original_bigg_ids":[
 "SBPP1",
@@ -37367,7 +37367,7 @@
 "gene_reaction_rule":"992997 or 1352360",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Sphingolipid",
 "original_bigg_ids":[
 "SERPT",
@@ -37577,7 +37577,7 @@
 "gene_reaction_rule":"1730314 or 1722827",
 "notes":{
 "Annotation_source":"Bidirectional blasting",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Terpenoid backbone/Mevalonate",
 "original_bigg_ids":[
 "DMATT",
@@ -37649,7 +37649,7 @@
 "gene_reaction_rule":"629809",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Terpenoid backbone/Mevalonate",
 "original_bigg_ids":[
 "DPMVD",
@@ -37753,7 +37753,7 @@
 "gene_reaction_rule":"1730314",
 "notes":{
 "Annotation_source":"Bidirectional blasting",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Sterol Metabolism",
 "original_bigg_ids":[
 "FRTT",
@@ -37802,7 +37802,7 @@
 "gene_reaction_rule":"1730314 or 1722827",
 "notes":{
 "Annotation_source":"Bidirectional blasting",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Terpenoid backbone/Mevalonate",
 "original_bigg_ids":[
 "FPPS",
@@ -37874,7 +37874,7 @@
 "gene_reaction_rule":"1282571",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Terpenoid backbone/Mevalonate",
 "original_bigg_ids":[
 "HMGCOAR",
@@ -37913,7 +37913,7 @@
 "gene_reaction_rule":"381056",
 "notes":{
 "Annotation_source":"Bidirectional blasting",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Sterol Metabolism",
 "original_bigg_ids":[
 "HMGCOAS",
@@ -37945,7 +37945,7 @@
 "gene_reaction_rule":"1012074",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Terpenoid backbone/Mevalonate",
 "original_bigg_ids":[
 "IDI",
@@ -38015,7 +38015,7 @@
 "gene_reaction_rule":"1433465",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Phospholipid Biosynthesis",
 "original_bigg_ids":[
 "CHLPCTD",
@@ -38152,7 +38152,7 @@
 "gene_reaction_rule":"318737",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Glycerophospholipid",
 "original_bigg_ids":[
 "ETHAK",
@@ -38289,7 +38289,7 @@
 "gene_reaction_rule":"1689692",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Inositol",
 "original_bigg_ids":[
 "MI1PP"
@@ -38354,7 +38354,7 @@
 "gene_reaction_rule":"945725",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Inositol",
 "original_bigg_ids":[
 "MI1PS"
@@ -38392,7 +38392,7 @@
 "gene_reaction_rule":"1433465",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Glycerophospholipid",
 "original_bigg_ids":[
 "PETHCT",
@@ -38461,7 +38461,7 @@
 "gene_reaction_rule":"241660",
 "notes":{
 "Annotation_source":"Bidirectional blasting",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Phospholipid Metabolism",
 "original_bigg_ids":[
 "PMI12346PH"
@@ -38517,7 +38517,7 @@
 "gene_reaction_rule":"1683329",
 "notes":{
 "Annotation_source":"Bidirectional blasting",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Phospholipid Metabolism",
 "original_bigg_ids":[
 "HMR_7652",
@@ -38603,7 +38603,7 @@
 "gene_reaction_rule":"241660",
 "notes":{
 "Annotation_source":"S. cerevisiae GEM",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Phospholipid Metabolism",
 "original_bigg_ids":[
 "PMI1346PH"
@@ -38633,7 +38633,7 @@
 "gene_reaction_rule":"1059703",
 "notes":{
 "Annotation_source":"S. cerevisiae GEM",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Phospholipid Metabolism",
 "original_bigg_ids":[
 "PMI1346PS"
@@ -38695,7 +38695,7 @@
 "gene_reaction_rule":"1426871",
 "notes":{
 "Annotation_source":"S. cerevisiae GEM",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Transporter",
 "original_bigg_ids":[
 "ACt2",
@@ -38779,7 +38779,7 @@
 "gene_reaction_rule":"1664990",
 "notes":{
 "Annotation_source":"S. cerevisiae GEM",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Transporter",
 "original_bigg_ids":[
 "ADNCNT3tc",
@@ -39380,7 +39380,7 @@
 "gene_reaction_rule":"1664990",
 "notes":{
 "Annotation_source":"S. cerevisiae GEM",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Transporter",
 "original_bigg_ids":[
 "CYTDt2",
@@ -39699,7 +39699,7 @@
 "gene_reaction_rule":"1044058 or 1058375 or 1010733 or 1298227 or 564092",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Transporter",
 "original_bigg_ids":[
 "FRUt2"
@@ -39733,7 +39733,7 @@
 "gene_reaction_rule":"1003914",
 "notes":{
 "Annotation_source":"S. cerevisiae GEM",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Transporter",
 "original_bigg_ids":[
 "GLCt1",
@@ -40384,7 +40384,7 @@
 "gene_reaction_rule":"1615582 or 1640885",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Equilibrium reaction",
 "original_bigg_ids":[
 "H2CO3D",
@@ -40892,7 +40892,7 @@
 "gene_reaction_rule":"1660795 or 1320071",
 "notes":{
 "Annotation_source":"S. cerevisiae GEM",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Transporter",
 "original_bigg_ids":[
 "SO4ti"
@@ -40951,7 +40951,7 @@
 "gene_reaction_rule":"519242",
 "notes":{
 "Annotation_source":"S. cerevisiae GEM",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Transporter",
 "original_bigg_ids":[
 "NH4t",
@@ -41728,7 +41728,7 @@
 "gene_reaction_rule":"1680131",
 "notes":{
 "Annotation_source":"S. cerevisiae GEM",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Transporter",
 "original_bigg_ids":[
 "H2Ot",
@@ -41892,7 +41892,7 @@
 "gene_reaction_rule":"1288838",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Transporter",
 "original_bigg_ids":[
 "XYLt2"
@@ -41977,7 +41977,7 @@
 "gene_reaction_rule":"1003914",
 "notes":{
 "Annotation_source":"S. cerevisiae GEM",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Transporter",
 "original_bigg_ids":[
 "GALt2"
@@ -42136,7 +42136,7 @@
 "gene_reaction_rule":"1044058 or 1058375 or 1010733 or 1298227 or 564092",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Transporter",
 "original_bigg_ids":[
 "MANt2"
@@ -42172,7 +42172,7 @@
 "gene_reaction_rule":"1305406 or 1365548",
 "notes":{
 "Annotation_source":"S. cerevisiae GEM",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Transporter",
 "original_bigg_ids":[
 "PIt",
@@ -42312,7 +42312,7 @@
 "gene_reaction_rule":"923373",
 "notes":{
 "Annotation_source":"S. cerevisiae GEM",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Transporter",
 "original_bigg_ids":[
 "NAHt_e",
@@ -43089,7 +43089,7 @@
 "gene_reaction_rule":"41060",
 "notes":{
 "Annotation_source":"S. cerevisiae GEM",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Transporter",
 "original_bigg_ids":[
 "METt2",
@@ -43279,7 +43279,7 @@
 "gene_reaction_rule":"1044058",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Transporter",
 "original_bigg_ids":[
 "GLUt2",
@@ -43616,7 +43616,7 @@
 "gene_reaction_rule":"1665313",
 "notes":{
 "Annotation_source":"S. cerevisiae GEM",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Transporter",
 "original_bigg_ids":[
 "GLYCt2"
@@ -44354,7 +44354,7 @@
 "gene_reaction_rule":"1684753",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"tRNA charging",
 "original_bigg_ids":[
 "ALATL_c",
@@ -44398,7 +44398,7 @@
 "gene_reaction_rule":"1750929",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"tRNA charging",
 "original_bigg_ids":[
 "ARGT",
@@ -44446,7 +44446,7 @@
 "gene_reaction_rule":"1088754",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"tRNA charging",
 "original_bigg_ids":[
 "ASNTL_c",
@@ -44493,7 +44493,7 @@
 "gene_reaction_rule":"1620734",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"tRNA charging",
 "original_bigg_ids":[
 "ASPTL_c",
@@ -44536,7 +44536,7 @@
 "gene_reaction_rule":"1727422 or 1694832",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"tRNA charging",
 "original_bigg_ids":[
 "CYSTL",
@@ -44584,7 +44584,7 @@
 "gene_reaction_rule":"1660195",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"tRNA charging",
 "original_bigg_ids":[
 "GLNTL",
@@ -44631,7 +44631,7 @@
 "gene_reaction_rule":"1724438",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Heme",
 "original_bigg_ids":[
 "GLUTL",
@@ -44725,7 +44725,7 @@
 "gene_reaction_rule":"961519",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"tRNA charging",
 "original_bigg_ids":[
 "HISTL",
@@ -44772,7 +44772,7 @@
 "gene_reaction_rule":"1305908",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"tRNA charging",
 "original_bigg_ids":[
 "ILETL",
@@ -44819,7 +44819,7 @@
 "gene_reaction_rule":"1065361",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"tRNA charging",
 "original_bigg_ids":[
 "LEUTL",
@@ -44913,7 +44913,7 @@
 "gene_reaction_rule":"1687259",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"tRNA charging",
 "original_bigg_ids":[
 "METTL",
@@ -44956,7 +44956,7 @@
 "gene_reaction_rule":"1622495 or 995572",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"tRNA charging",
 "original_bigg_ids":[
 "PHETL_c",
@@ -45002,7 +45002,7 @@
 "gene_reaction_rule":"1727422",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"tRNA charging",
 "original_bigg_ids":[
 "PROTL",
@@ -45049,7 +45049,7 @@
 "gene_reaction_rule":"977542",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"tRNA charging",
 "original_bigg_ids":[
 "SERTL",
@@ -45092,7 +45092,7 @@
 "gene_reaction_rule":"1332761",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"tRNA charging",
 "original_bigg_ids":[
 "THRTL",
@@ -45139,7 +45139,7 @@
 "gene_reaction_rule":"1627637 or 1649430",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"tRNA charging",
 "original_bigg_ids":[
 "TRPTL",
@@ -45186,7 +45186,7 @@
 "gene_reaction_rule":"1658270",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"tRNA charging",
 "original_bigg_ids":[
 "TYRTL",
@@ -45233,7 +45233,7 @@
 "gene_reaction_rule":"1703202",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"tRNA charging",
 "original_bigg_ids":[
 "VALTL",
@@ -45277,7 +45277,7 @@
 "gene_reaction_rule":"1270276 or 1664605",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Glycolysis",
 "original_bigg_ids":[
 "A1E"
@@ -45311,7 +45311,7 @@
 "gene_reaction_rule":"323283 or 1280520 or 1039217",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Glycolysis",
 "original_bigg_ids":[
 "GLK_c",
@@ -45361,7 +45361,7 @@
 "gene_reaction_rule":"1280520 or 1723927",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Homology_genes":"Neosp1(428539); Anasp1(205459); Pirfi3(278900); PirE2(45058)",
 "Subsystem":"Glycolysis",
 "original_bigg_ids":[
@@ -45394,7 +45394,7 @@
 "gene_reaction_rule":"1616229",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Glycolysis",
 "original_bigg_ids":[
 "PGI",
@@ -45429,7 +45429,7 @@
 "gene_reaction_rule":"1402293",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Glycolysis",
 "original_bigg_ids":[
 "G6PI"
@@ -45463,7 +45463,7 @@
 "gene_reaction_rule":"968804",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Galactose",
 "original_bigg_ids":[
 "PGMT",
@@ -45509,7 +45509,7 @@
 "gene_reaction_rule":"1635766 or 1045046",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Glycolysis",
 "original_bigg_ids":[
 "PFK",
@@ -45548,7 +45548,7 @@
 "gene_reaction_rule":"96401",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Glycolysis",
 "original_bigg_ids":[
 "FBA",
@@ -45592,7 +45592,7 @@
 "gene_reaction_rule":"1722515",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Glycolysis",
 "original_bigg_ids":[
 "TPI",
@@ -45681,7 +45681,7 @@
 "gene_reaction_rule":"1617931",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Glycolysis",
 "original_bigg_ids":[
 "GAPD",
@@ -45773,7 +45773,7 @@
 "gene_reaction_rule":"1644724",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Glycolysis",
 "original_bigg_ids":[
 "PGK",
@@ -45860,7 +45860,7 @@
 "gene_reaction_rule":"1418268 or 1302212",
 "notes":{
 "Annotation_source":"Bidirectional blasting",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Glycolysis",
 "original_bigg_ids":[
 "PGAM_c",
@@ -45948,7 +45948,7 @@
 "gene_reaction_rule":"1675144",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Glycolysis",
 "original_bigg_ids":[
 "ENO"
@@ -46037,7 +46037,7 @@
 "gene_reaction_rule":"1297137",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Glycolysis",
 "original_bigg_ids":[
 "PYK",
@@ -46108,7 +46108,7 @@
 "gene_reaction_rule":"994755",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"TCA",
 "original_bigg_ids":[
 "PEPCK",
@@ -46185,7 +46185,7 @@
 "gene_reaction_rule":"1309316 or 1663124",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"TCA",
 "original_bigg_ids":[
 "MDH"
@@ -46282,7 +46282,7 @@
 "gene_reaction_rule":"1672442",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"TCA",
 "original_bigg_ids":[
 "FUM",
@@ -46398,7 +46398,7 @@
 "gene_reaction_rule":"453510",
 "notes":{
 "Annotation_source":"Bidirectional blasting",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"TCA",
 "original_bigg_ids":[
 "CS"
@@ -46469,7 +46469,7 @@
 "gene_reaction_rule":"1276456 or 1636158",
 "notes":{
 "Annotation_source":"Bidirectional blasting",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"TCA",
 "original_bigg_ids":[
 "SUCOAS"
@@ -46536,7 +46536,7 @@
 "gene_reaction_rule":"961785",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"TCA",
 "original_bigg_ids":[
 "ACONTb"
@@ -46580,7 +46580,7 @@
 "gene_reaction_rule":"961785",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"TCA",
 "original_bigg_ids":[
 "ACONTa"
@@ -46629,7 +46629,7 @@
 "gene_reaction_rule":"1740689",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"TCA",
 "original_bigg_ids":[
 "ICDH",
@@ -46675,7 +46675,7 @@
 "gene_reaction_rule":"1750825",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"PPP",
 "original_bigg_ids":[
 "DRPA",
@@ -46740,7 +46740,7 @@
 "gene_reaction_rule":"1421025",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"PPP",
 "original_bigg_ids":[
 "DRBK",
@@ -46778,7 +46778,7 @@
 "gene_reaction_rule":"1303957",
 "notes":{
 "Annotation_source":"Bidirectional blasting",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"PPP",
 "original_bigg_ids":[
 "PPM2",
@@ -46831,7 +46831,7 @@
 "gene_reaction_rule":"1017000",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"PPP",
 "original_bigg_ids":[
 "TKL2_c",
@@ -46877,7 +46877,7 @@
 "gene_reaction_rule":"1720177",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"PPP",
 "original_bigg_ids":[
 "TAL",
@@ -46924,7 +46924,7 @@
 "gene_reaction_rule":"1017000",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"PPP",
 "original_bigg_ids":[
 "TKL1_c",
@@ -46956,7 +46956,7 @@
 "gene_reaction_rule":"1701668",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"PPP",
 "original_bigg_ids":[
 "RPE",
@@ -47041,7 +47041,7 @@
 "gene_reaction_rule":"1615777 or 1652648",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"PPP",
 "original_bigg_ids":[
 "RPI"
@@ -47075,7 +47075,7 @@
 "gene_reaction_rule":"1634774 or 960761",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"PPP",
 "original_bigg_ids":[
 "PRPPS",
@@ -47112,7 +47112,7 @@
 "gene_reaction_rule":"1421025",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"PPP",
 "original_bigg_ids":[
 "RBK",
@@ -47144,7 +47144,7 @@
 "gene_reaction_rule":"968804",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Purine synthesis",
 "original_bigg_ids":[
 "PPM",
@@ -47185,7 +47185,7 @@
 "gene_reaction_rule":"1706286",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Purine synthesis",
 "original_bigg_ids":[
 "ADPR",
@@ -47220,7 +47220,7 @@
 "gene_reaction_rule":"1435882 or 1298227 or 1288838 or 1305406 or 1315994 or 997917 or 564092 or 1010733",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Homology_genes":"Neosp1(389810); Neosp1(705775); Neosp1(707593); Neosp1(456374); Neosp1(455570); Anasp1(327825); Anasp1(296144); Anasp1(233233); Pirfi3(398655); Pirfi3(586812); Pirfi3(415026); Pirfi3(364255); PirE2(34666); PirE2(21637); PirE2(20524); Orpsp1(1182993); Orpsp1(1187392); Orpsp1(1192744)",
 "Subsystem":"Pentose and glucuronate",
 "original_bigg_ids":[
@@ -47255,7 +47255,7 @@
 "gene_reaction_rule":"1728358 or 1275778 or 1674312 or 1030374 or 1737379 or 1013570",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Pentose and glucuronate",
 "original_bigg_ids":[
 "ARABR"
@@ -47289,7 +47289,7 @@
 "gene_reaction_rule":"1701527",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Pentose and glucuronate",
 "original_bigg_ids":[
 "G1PUT_c",
@@ -47361,7 +47361,7 @@
 "gene_reaction_rule":"1422813",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Pentose and glucuronate",
 "original_bigg_ids":[
 "UDPGD",
@@ -47429,7 +47429,7 @@
 "gene_reaction_rule":"1737379",
 "notes":{
 "Annotation_source":"Bidirectional blasting",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Pentose and glucuronate",
 "original_bigg_ids":[
 "GULND",
@@ -47525,7 +47525,7 @@
 "gene_reaction_rule":"1296684 or 1432591",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Cellobiose",
 "original_bigg_ids":[
 "CLBH"
@@ -47614,7 +47614,7 @@
 "gene_reaction_rule":"1080247",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Galactose",
 "original_bigg_ids":[
 "GALE",
@@ -47684,7 +47684,7 @@
 "gene_reaction_rule":"1618175",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Galactose",
 "original_bigg_ids":[
 "UGLT"
@@ -47751,7 +47751,7 @@
 "gene_reaction_rule":"1618175",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Homology_genes":"Neosp1(709297)",
 "Subsystem":"Galactose",
 "original_bigg_ids":[
@@ -47802,7 +47802,7 @@
 "gene_reaction_rule":"1045106",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Galactose",
 "original_bigg_ids":[
 "LACZ"
@@ -47849,7 +47849,7 @@
 "gene_reaction_rule":"1647010",
 "notes":{
 "Annotation_source":"Bidirectional blasting",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Galactose",
 "original_bigg_ids":[
 "EPMGH"
@@ -47889,7 +47889,7 @@
 "gene_reaction_rule":"1647010",
 "notes":{
 "Annotation_source":"Bidirectional blasting",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Galactose",
 "original_bigg_ids":[
 "MELTGH"
@@ -47928,7 +47928,7 @@
 "gene_reaction_rule":"1647010",
 "notes":{
 "Annotation_source":"Bidirectional blasting",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Galactose",
 "original_bigg_ids":[
 "GALIGH"
@@ -47968,7 +47968,7 @@
 "gene_reaction_rule":"1647010",
 "notes":{
 "Annotation_source":"Bidirectional blasting",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Galactose",
 "original_bigg_ids":[
 "G3MGGH_c",
@@ -48009,7 +48009,7 @@
 "gene_reaction_rule":"1728358 or 1275778 or 1674312 or 1030374 or 1737379 or 1013570",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Galactose",
 "original_bigg_ids":[
 "GALOR"
@@ -48106,7 +48106,7 @@
 "gene_reaction_rule":"929507",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Galactose",
 "original_bigg_ids":[
 "AGMIS"
@@ -48155,7 +48155,7 @@
 "gene_reaction_rule":"1647010",
 "notes":{
 "Annotation_source":"Bidirectional blasting",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Galactose",
 "original_bigg_ids":[
 "GALS4"
@@ -48198,7 +48198,7 @@
 "gene_reaction_rule":"1305401 or 1032921",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Homology_genes":"Neosp1(413466); Anasp1(295308); PirE2(15666); Orpsp1(1175963)",
 "Subsystem":"Galactose",
 "original_bigg_ids":[
@@ -48233,7 +48233,7 @@
 "gene_reaction_rule":"1647010",
 "notes":{
 "Annotation_source":"Bidirectional blasting",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Galactose",
 "original_bigg_ids":[
 "GALS3",
@@ -48270,7 +48270,7 @@
 "gene_reaction_rule":"1647010",
 "notes":{
 "Annotation_source":"Bidirectional blasting",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Galactose",
 "original_bigg_ids":[
 "RAFFGALACT",
@@ -48314,7 +48314,7 @@
 "gene_reaction_rule":"1724954 or 993640",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Galactose",
 "original_bigg_ids":[
 "SUCH",
@@ -48356,7 +48356,7 @@
 "gene_reaction_rule":"1728358 or 1275778 or 1674312 or 1030374 or 1737379 or 1013570",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Fructose and mannose",
 "original_bigg_ids":[
 "SBTR"
@@ -48393,7 +48393,7 @@
 "gene_reaction_rule":"323283 or 1280520 or 1039217",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Fructose and mannose",
 "original_bigg_ids":[
 "AM6PT",
@@ -48440,7 +48440,7 @@
 "gene_reaction_rule":"974950 or 622726 or 930760 or 1648888",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Fructose and mannose",
 "original_bigg_ids":[
 "MAN6PI",
@@ -48481,7 +48481,7 @@
 "gene_reaction_rule":"323283 or 1280520 or 1039217",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Fructose and mannose",
 "original_bigg_ids":[
 "FRUK",
@@ -48519,7 +48519,7 @@
 "gene_reaction_rule":"1003136",
 "notes":{
 "Annotation_source":"Bidirectional blasting",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Fructose and mannose",
 "original_bigg_ids":[
 "FBP26"
@@ -48562,7 +48562,7 @@
 "gene_reaction_rule":"1615777 or 1652648",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Fructose and mannose",
 "original_bigg_ids":[
 "ALLPI"
@@ -48644,7 +48644,7 @@
 "gene_reaction_rule":"943338",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Fructose and mannose",
 "original_bigg_ids":[
 "PFK26"
@@ -48688,7 +48688,7 @@
 "gene_reaction_rule":"96401",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Fructose and mannose",
 "original_bigg_ids":[
 "FBA2"
@@ -48735,7 +48735,7 @@
 "gene_reaction_rule":"1043263",
 "notes":{
 "Annotation_source":"Bidirectional blasting",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Glyoxylate",
 "original_bigg_ids":[
 "MALS"
@@ -48783,7 +48783,7 @@
 "gene_reaction_rule":"1723566",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Glyoxylate",
 "original_bigg_ids":[
 "PGLYCP"
@@ -48832,7 +48832,7 @@
 "gene_reaction_rule":"593444 or 1634555 or 1735397 or 538855 or 931534 or 1054997 or 943120 or 1627814",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Glutamate",
 "original_bigg_ids":[
 "GF6PTA",
@@ -48873,7 +48873,7 @@
 "gene_reaction_rule":"1693248",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Amino sugar",
 "original_bigg_ids":[
 "ACGAM6PS",
@@ -48921,7 +48921,7 @@
 "gene_reaction_rule":"1641851",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Amino sugar",
 "original_bigg_ids":[
 "ACGAMPM",
@@ -48978,7 +48978,7 @@
 "gene_reaction_rule":"1683513",
 "notes":{
 "Annotation_source":"Bidirectional blasting",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Amino sugar",
 "original_bigg_ids":[
 "UAGDP",
@@ -49037,7 +49037,7 @@
 "gene_reaction_rule":"994291 or 1316522 or 1408109 or 1424081 or 1296956 or 1012277",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Amino sugar",
 "original_bigg_ids":[
 "CHTNDA"
@@ -49160,7 +49160,7 @@
 "gene_reaction_rule":"1746057",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Amino sugar",
 "original_bigg_ids":[
 "MPPM",
@@ -49231,7 +49231,7 @@
 "gene_reaction_rule":"945236 or 952008 or 1649454",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Amino sugar",
 "original_bigg_ids":[
 "GAMPG",
@@ -49281,7 +49281,7 @@
 "gene_reaction_rule":"973540",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Amino sugar",
 "original_bigg_ids":[
 "GMAND",
@@ -49332,7 +49332,7 @@
 "gene_reaction_rule":"1006455",
 "notes":{
 "Annotation_source":"Bidirectional blasting",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Amino sugar",
 "original_bigg_ids":[
 "GDPMANER",
@@ -49431,7 +49431,7 @@
 "gene_reaction_rule":"982250",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Amino sugar",
 "original_bigg_ids":[
 "XYL14BASE"
@@ -49511,7 +49511,7 @@
 "gene_reaction_rule":"1648049",
 "notes":{
 "Annotation_source":"Bidirectional blasting",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Amino sugar",
 "original_bigg_ids":[
 "UAPGR",
@@ -49563,7 +49563,7 @@
 "gene_reaction_rule":"139417 or 1315890",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Pyruvate metabolism",
 "original_bigg_ids":[
 "PPS"
@@ -49612,7 +49612,7 @@
 "gene_reaction_rule":"602687",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Pyruvate metabolism",
 "original_bigg_ids":[
 "LDH_D"
@@ -49659,7 +49659,7 @@
 "gene_reaction_rule":"1621816",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Pyruvate metabolism",
 "original_bigg_ids":[
 "GLYOX",
@@ -49728,7 +49728,7 @@
 "gene_reaction_rule":"1734254",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Pyruvate metabolism",
 "original_bigg_ids":[
 "GLYOX"
@@ -49777,7 +49777,7 @@
 "gene_reaction_rule":"1068283",
 "notes":{
 "Annotation_source":"E. coli GEM",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Pyruvate metabolism",
 "original_bigg_ids":[
 "ME1",
@@ -49828,7 +49828,7 @@
 "gene_reaction_rule":"1307328 or 1699045",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Pyruvate metabolism",
 "original_bigg_ids":[
 "ME1",
@@ -49878,7 +49878,7 @@
 "gene_reaction_rule":"1731457",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Pyruvate metabolism",
 "original_bigg_ids":[
 "ACOAH",
@@ -49944,7 +49944,7 @@
 "gene_reaction_rule":"1275853",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Pyruvate metabolism",
 "original_bigg_ids":[
 "ACYP_2"
@@ -49985,7 +49985,7 @@
 "gene_reaction_rule":"1021847",
 "notes":{
 "Annotation_source":"Bidirectional blasting",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Pyruvate metabolism",
 "original_bigg_ids":[
 "ACALD",
@@ -50035,7 +50035,7 @@
 "gene_reaction_rule":"963470 or 1742957",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Glycolysis",
 "original_bigg_ids":[
 "ADH_c",
@@ -50082,7 +50082,7 @@
 "gene_reaction_rule":"1021847",
 "notes":{
 "Annotation_source":"Bidirectional blasting",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Glycolysis",
 "original_bigg_ids":[
 "ALCD2if",
@@ -50152,7 +50152,7 @@
 "gene_reaction_rule":"1069929",
 "notes":{
 "Annotation_source":"Bidirectional blasting",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Valine",
 "original_bigg_ids":[
 "IPMS",
@@ -50205,7 +50205,7 @@
 "gene_reaction_rule":"1035532",
 "notes":{
 "Annotation_source":"Bidirectional blasting",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Fatty acid biosynthesis",
 "original_bigg_ids":[
 "ACCO2L",
@@ -50310,7 +50310,7 @@
 "gene_reaction_rule":"1689692",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Inositol",
 "original_bigg_ids":[
 "MI4PP"
@@ -50377,7 +50377,7 @@
 "gene_reaction_rule":"1738393",
 "notes":{
 "Annotation_source":"Bidirectional blasting",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Inositol",
 "original_bigg_ids":[
 "MI3456PK"
@@ -50444,7 +50444,7 @@
 "gene_reaction_rule":"1738393",
 "notes":{
 "Annotation_source":"Bidirectional blasting",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Inositol",
 "original_bigg_ids":[
 "AMI3TP",
@@ -50478,7 +50478,7 @@
 "gene_reaction_rule":"1421595",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Inositol",
 "original_bigg_ids":[
 "ITKPH",
@@ -50513,7 +50513,7 @@
 "gene_reaction_rule":"1738393",
 "notes":{
 "Annotation_source":"Bidirectional blasting",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Inositol",
 "original_bigg_ids":[
 "HMR_6566",
@@ -50581,7 +50581,7 @@
 "gene_reaction_rule":"1421595",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Inositol",
 "original_bigg_ids":[
 "MI145PP",
@@ -50712,7 +50712,7 @@
 "gene_reaction_rule":"1689692",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Inositol",
 "original_bigg_ids":[
 "MI3PP",
@@ -50779,7 +50779,7 @@
 "gene_reaction_rule":"1297354 or 988502",
 "notes":{
 "Annotation_source":"Bidirectional blasting",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Inositol",
 "original_bigg_ids":[
 "MI13PP"
@@ -50812,7 +50812,7 @@
 "gene_reaction_rule":"1305401 or 1032921",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Homology_genes":"Neosp1(413466); Anasp1(295308); PirE2(15666); Orpsp1(1175963)",
 "Subsystem":"Starch and Sucrose",
 "original_bigg_ids":[
@@ -50854,7 +50854,7 @@
 "gene_reaction_rule":"1434764 or 1301239",
 "notes":{
 "Annotation_source":"Bidirectional blasting",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Starch and Sucrose",
 "original_bigg_ids":[
 "UDPGP"
@@ -50912,7 +50912,7 @@
 "gene_reaction_rule":"1692976",
 "notes":{
 "Annotation_source":"Bidirectional blasting",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Starch and Sucrose",
 "original_bigg_ids":[
 "THP",
@@ -50964,7 +50964,7 @@
 "gene_reaction_rule":"1072397",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Starch and Sucrose",
 "original_bigg_ids":[
 "TREH"
@@ -51011,7 +51011,7 @@
 "gene_reaction_rule":"1014659",
 "notes":{
 "Annotation_source":"Bidirectional blasting",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Starch and Sucrose",
 "original_bigg_ids":[
 "TRE6PS"
@@ -51058,7 +51058,7 @@
 "gene_reaction_rule":"1714985",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Starch and Sucrose",
 "original_bigg_ids":[
 "AAMYL"
@@ -51093,7 +51093,7 @@
 "gene_reaction_rule":"1724954 or 993640",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Starch and Sucrose",
 "original_bigg_ids":[
 "MALT"
@@ -51136,7 +51136,7 @@
 "gene_reaction_rule":"963470",
 "notes":{
 "Annotation_source":"Bidirectional blasting",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Propanoate",
 "original_bigg_ids":[
 "ALCD20y"
@@ -51183,7 +51183,7 @@
 "gene_reaction_rule":"1722515",
 "notes":{
 "Annotation_source":"Bidirectional blasting",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Propanoate",
 "original_bigg_ids":[
 "MGSA",
@@ -51232,7 +51232,7 @@
 "gene_reaction_rule":"981064 or 1027775",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Propanoate",
 "original_bigg_ids":[
 "OBTFL"
@@ -51282,7 +51282,7 @@
 "gene_reaction_rule":"1743265",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Homology_genes":"PirE2(8019)",
 "Subsystem":"Propanoate",
 "original_bigg_ids":[
@@ -51379,7 +51379,7 @@
 "gene_reaction_rule":"1021847",
 "notes":{
 "Annotation_source":"Bidirectional blasting",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Butanoate",
 "original_bigg_ids":[
 "BNOR",
@@ -51426,7 +51426,7 @@
 "gene_reaction_rule":"1675079",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Homology_genes":"PirE2(39779); Orpsp1(1191226)",
 "Subsystem":"Butanoate",
 "original_bigg_ids":[
@@ -51532,7 +51532,7 @@
 "gene_reaction_rule":"981064 or 1027775",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Pyruvate metabolism",
 "original_bigg_ids":[
 "PFL",
@@ -51579,7 +51579,7 @@
 "gene_reaction_rule":"938912",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Glycogen",
 "original_bigg_ids":[
 "GLDBRAN2"
@@ -51613,7 +51613,7 @@
 "gene_reaction_rule":"938912",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Glycogen",
 "original_bigg_ids":[
 "GLBRAN2"
@@ -51648,7 +51648,7 @@
 "gene_reaction_rule":"989662",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Glycogen",
 "original_bigg_ids":[
 "GLCP2"
@@ -51683,7 +51683,7 @@
 "gene_reaction_rule":"989662",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Glycogen",
 "original_bigg_ids":[
 "GLCP"
@@ -51717,7 +51717,7 @@
 "gene_reaction_rule":"949234",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Xylose",
 "original_bigg_ids":[
 "XYLI1",
@@ -51767,7 +51767,7 @@
 "gene_reaction_rule":"985494",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Xylose",
 "original_bigg_ids":[
 "XYLK",
@@ -51832,7 +51832,7 @@
 "gene_reaction_rule":"1714985",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Starch and Sucrose",
 "original_bigg_ids":[
 "AAMYL"
@@ -51865,7 +51865,7 @@
 "gene_reaction_rule":"1672152 or 975512",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Glycolysis",
 "original_bigg_ids":[
 "PPA",
@@ -51964,7 +51964,7 @@
 "gene_reaction_rule":"1370813",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Pyruvate metabolism",
 "original_bigg_ids":[
 "PYRDC"
@@ -52014,7 +52014,7 @@
 "gene_reaction_rule":"1021847",
 "notes":{
 "Annotation_source":"Bidirectional blasting",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Glycolysis",
 "original_bigg_ids":[
 "ACNO",
@@ -52101,7 +52101,7 @@
 "gene_reaction_rule":"96401",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"PPP",
 "original_bigg_ids":[
 "FBA3"
@@ -52150,7 +52150,7 @@
 "gene_reaction_rule":"1635766 or 1045046",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"PPP",
 "original_bigg_ids":[
 "PFK_3"
@@ -52198,7 +52198,7 @@
 "gene_reaction_rule":"987505",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Arginine",
 "original_bigg_ids":[
 "ALAAT",
@@ -52320,7 +52320,7 @@
 "gene_reaction_rule":"1694249",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Aspartate",
 "original_bigg_ids":[
 "ASNAL_c",
@@ -52435,7 +52435,7 @@
 "gene_reaction_rule":"1687975 or 1637339",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Arginine",
 "original_bigg_ids":[
 "ASPAT",
@@ -52564,7 +52564,7 @@
 "gene_reaction_rule":"574445 or 1026271",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Arginine",
 "original_bigg_ids":[
 "GLUDH_c",
@@ -52618,7 +52618,7 @@
 "gene_reaction_rule":"1642497",
 "notes":{
 "Annotation_source":"Bidirectional blasting",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Glutamate",
 "original_bigg_ids":[
 "GLUSy"
@@ -52669,7 +52669,7 @@
 "gene_reaction_rule":"1317846",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Arginine",
 "original_bigg_ids":[
 "GAL",
@@ -52739,7 +52739,7 @@
 "gene_reaction_rule":"1626061 or 1278363",
 "notes":{
 "Annotation_source":"Bidirectional blasting",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Arginine",
 "original_bigg_ids":[
 "GLUN",
@@ -52805,7 +52805,7 @@
 "gene_reaction_rule":"1355053",
 "notes":{
 "Annotation_source":"Bidirectional blasting",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Pyrimidine synthesis",
 "original_bigg_ids":[
 "ASPCT",
@@ -52882,7 +52882,7 @@
 "gene_reaction_rule":"1682263",
 "notes":{
 "Annotation_source":"S. cerevisiae GEM",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Aspartate",
 "original_bigg_ids":[
 "ASNS1",
@@ -52951,7 +52951,7 @@
 "gene_reaction_rule":"1309297",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Homology_genes":"",
 "Subsystem":"Aspartate",
 "original_bigg_ids":[
@@ -53003,7 +53003,7 @@
 "gene_reaction_rule":"1636052",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Arginine",
 "original_bigg_ids":[
 "ARGSS",
@@ -53069,7 +53069,7 @@
 "gene_reaction_rule":"1307288",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Purine synthesis",
 "original_bigg_ids":[
 "ADSS",
@@ -53204,7 +53204,7 @@
 "gene_reaction_rule":"38145",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Purine synthesis",
 "original_bigg_ids":[
 "AAL(fum)_c",
@@ -53276,7 +53276,7 @@
 "gene_reaction_rule":"1040063",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Glutamate",
 "original_bigg_ids":[
 "ARGD",
@@ -53330,7 +53330,7 @@
 "gene_reaction_rule":"306346 or 966725",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Pyrimidine synthesis",
 "original_bigg_ids":[
 "CBPS",
@@ -53405,7 +53405,7 @@
 "gene_reaction_rule":"1088290",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Purine synthesis",
 "original_bigg_ids":[
 "GLUPRT",
@@ -53477,7 +53477,7 @@
 "gene_reaction_rule":"1295397",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Glycerolipid",
 "original_bigg_ids":[
 "GLYCK",
@@ -53543,7 +53543,7 @@
 "gene_reaction_rule":"1627017",
 "notes":{
 "Annotation_source":"Bidirectional blasting",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Vitamin B6",
 "original_bigg_ids":[
 "GLYCOR_LPAREN_nadp_RPAREN_",
@@ -53596,7 +53596,7 @@
 "gene_reaction_rule":"1627017",
 "notes":{
 "Annotation_source":"Bidirectional blasting",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Vitamin B6",
 "original_bigg_ids":[
 "GLYD",
@@ -53649,7 +53649,7 @@
 "gene_reaction_rule":"1730486",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Cysteine",
 "original_bigg_ids":[
 "3PGDH",
@@ -53788,7 +53788,7 @@
 "gene_reaction_rule":"1745643 or 1279515",
 "notes":{
 "Annotation_source":"Bidirectional blasting",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Serine",
 "original_bigg_ids":[
 "PSP",
@@ -53857,7 +53857,7 @@
 "gene_reaction_rule":"930109 or 956288",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Tryptophan",
 "original_bigg_ids":[
 "TRPS2",
@@ -53908,7 +53908,7 @@
 "gene_reaction_rule":"930109 or 956288",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Serine",
 "original_bigg_ids":[
 "SERH",
@@ -54020,7 +54020,7 @@
 "gene_reaction_rule":"928848 or 1291492",
 "notes":{
 "Annotation_source":"Bidirectional blasting",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Serine",
 "original_bigg_ids":[
 "SER_AL"
@@ -54068,7 +54068,7 @@
 "gene_reaction_rule":"1268579 or 151554",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Glycine",
 "original_bigg_ids":[
 "HMR_4284",
@@ -54121,7 +54121,7 @@
 "gene_reaction_rule":"1024613",
 "notes":{
 "Annotation_source":"E. coli GEM",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Glycine",
 "original_bigg_ids":[
 "GLYAT",
@@ -54170,7 +54170,7 @@
 "gene_reaction_rule":"1727954",
 "notes":{
 "Annotation_source":"Bidirectional blasting",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Threonine",
 "original_bigg_ids":[
 "THRS",
@@ -54270,7 +54270,7 @@
 "gene_reaction_rule":"928848 or 1291492",
 "notes":{
 "Annotation_source":"Bidirectional blasting",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Isoleucine",
 "original_bigg_ids":[
 "TAL",
@@ -54323,7 +54323,7 @@
 "gene_reaction_rule":"167953",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Threonine",
 "original_bigg_ids":[
 "HMR_9718",
@@ -54373,7 +54373,7 @@
 "gene_reaction_rule":"186553",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Threonine",
 "original_bigg_ids":[
 "HSD2",
@@ -54421,7 +54421,7 @@
 "gene_reaction_rule":"186553",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Lysine",
 "original_bigg_ids":[
 "HSDx",
@@ -54470,7 +54470,7 @@
 "gene_reaction_rule":"1647350",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Lysine",
 "original_bigg_ids":[
 "ASAD",
@@ -54521,7 +54521,7 @@
 "gene_reaction_rule":"1338764",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Lysine",
 "original_bigg_ids":[
 "ASPK",
@@ -54574,7 +54574,7 @@
 "gene_reaction_rule":"1722220 or 1031982",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"One carbon pool by folate",
 "original_bigg_ids":[
 "GHMT",
@@ -54619,7 +54619,7 @@
 "gene_reaction_rule":"928848",
 "notes":{
 "Annotation_source":"Bidirectional blasting",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Serine",
 "original_bigg_ids":[
 "SAL_c",
@@ -54673,7 +54673,7 @@
 "gene_reaction_rule":"1279973 or 1296854",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Serine",
 "original_bigg_ids":[
 "CYS"
@@ -54731,7 +54731,7 @@
 "gene_reaction_rule":"928848",
 "notes":{
 "Annotation_source":"Bidirectional blasting",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Serine",
 "original_bigg_ids":[
 "2AMACHYD"
@@ -54779,7 +54779,7 @@
 "gene_reaction_rule":"1623326 or 1669695 or 1681003",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Cysteine",
 "original_bigg_ids":[
 "SAT",
@@ -54833,7 +54833,7 @@
 "gene_reaction_rule":"1745643",
 "notes":{
 "Annotation_source":"Bidirectional blasting",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Cysteine",
 "original_bigg_ids":[
 "CYSS",
@@ -54883,7 +54883,7 @@
 "gene_reaction_rule":"1672474 or 1634738",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Cysteine",
 "original_bigg_ids":[
 "CGL_c",
@@ -54949,7 +54949,7 @@
 "gene_reaction_rule":"1279973 or 1296854",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Methionine",
 "original_bigg_ids":[
 "CBS_c",
@@ -55010,7 +55010,7 @@
 "gene_reaction_rule":"1033578",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Proline",
 "original_bigg_ids":[
 "ADMDC",
@@ -55064,7 +55064,7 @@
 "gene_reaction_rule":"1713402",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Proline",
 "original_bigg_ids":[
 "APAPT",
@@ -55116,7 +55116,7 @@
 "gene_reaction_rule":"1669433",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Methionine",
 "original_bigg_ids":[
 "M5TAP",
@@ -55179,7 +55179,7 @@
 "gene_reaction_rule":"979920 or 1437407 or 1646995",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Methionine",
 "original_bigg_ids":[
 "M5TRPI",
@@ -55265,7 +55265,7 @@
 "gene_reaction_rule":"1672474 or 1634738",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Cysteine",
 "original_bigg_ids":[
 "CYSDS",
@@ -55315,7 +55315,7 @@
 "gene_reaction_rule":"1687975 or 1637339",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Cysteine",
 "original_bigg_ids":[
 "ASPA3",
@@ -55368,7 +55368,7 @@
 "gene_reaction_rule":"986342",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Methionine",
 "original_bigg_ids":[
 "ACCS_c",
@@ -55419,7 +55419,7 @@
 "gene_reaction_rule":"1659166",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Homology_genes":"Anasp1(328892); Orpsp1(1191427)",
 "Subsystem":"Methionine",
 "original_bigg_ids":[
@@ -55509,7 +55509,7 @@
 "gene_reaction_rule":"1640980",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Methionine",
 "original_bigg_ids":[
 "ADSH",
@@ -55578,7 +55578,7 @@
 "gene_reaction_rule":"1295461 or 998947 or 1669867",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Homology_genes":"Neosp1(464516); Anasp1(295038); Pirfi3(346164); PirE2(4276); Orpsp1(1186161)",
 "Subsystem":"Methionine",
 "original_bigg_ids":[
@@ -55617,7 +55617,7 @@
 "gene_reaction_rule":"1029164",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Methionine",
 "original_bigg_ids":[
 "HSAT",
@@ -55713,7 +55713,7 @@
 "gene_reaction_rule":"1734054",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Methionine",
 "original_bigg_ids":[
 "HCYSMT",
@@ -55765,7 +55765,7 @@
 "gene_reaction_rule":"1352834",
 "notes":{
 "Annotation_source":"S. cerevisiae GEM",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Methionine",
 "original_bigg_ids":[
 "ACHMSSH",
@@ -55841,7 +55841,7 @@
 "gene_reaction_rule":"1285326",
 "notes":{
 "Annotation_source":"Bidirectional blasting",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Pantothenate and CoA",
 "original_bigg_ids":[
 "ACLS"
@@ -55934,7 +55934,7 @@
 "gene_reaction_rule":"1307269",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Pantothenate and CoA",
 "original_bigg_ids":[
 "DHAD1",
@@ -55983,7 +55983,7 @@
 "gene_reaction_rule":"1285326",
 "notes":{
 "Annotation_source":"Bidirectional blasting",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Isoleucine",
 "original_bigg_ids":[
 "ACHBS"
@@ -56072,7 +56072,7 @@
 "gene_reaction_rule":"1307269",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Isoleucine",
 "original_bigg_ids":[
 "DHAD",
@@ -56119,7 +56119,7 @@
 "gene_reaction_rule":"1740755",
 "notes":{
 "Annotation_source":"E. coli GEM",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Leucine",
 "original_bigg_ids":[
 "IMDHT",
@@ -56168,7 +56168,7 @@
 "gene_reaction_rule":"1740755",
 "notes":{
 "Annotation_source":"E. coli GEM",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Leucine",
 "original_bigg_ids":[
 "IMDHT_3c2hmp",
@@ -56220,7 +56220,7 @@
 "gene_reaction_rule":"1074553",
 "notes":{
 "Annotation_source":"S. cerevisiae GEM",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Leucine",
 "original_bigg_ids":[
 "IMDH",
@@ -56319,7 +56319,7 @@
 "gene_reaction_rule":"960652",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Isoleucine",
 "original_bigg_ids":[
 "ILETA"
@@ -56367,7 +56367,7 @@
 "gene_reaction_rule":"960652",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Valine",
 "original_bigg_ids":[
 "BCTAV_c",
@@ -56418,7 +56418,7 @@
 "gene_reaction_rule":"960652",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Leucine",
 "original_bigg_ids":[
 "BCTAL_c",
@@ -56471,7 +56471,7 @@
 "gene_reaction_rule":"381056",
 "notes":{
 "Annotation_source":"Bidirectional blasting",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Terpenoid backbone/Mevalonate",
 "original_bigg_ids":[
 "MHGS"
@@ -56504,7 +56504,7 @@
 "gene_reaction_rule":"1727594",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Leucine",
 "original_bigg_ids":[
 "KAT1"
@@ -56603,7 +56603,7 @@
 "gene_reaction_rule":"1615861",
 "notes":{
 "Annotation_source":"Bidirectional blasting",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Valine",
 "original_bigg_ids":[
 "3HIBD",
@@ -56639,7 +56639,7 @@
 "gene_reaction_rule":"1675079 or 1021847",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Homology_genes":"PirE2(39779); Orpsp1(1191226); Orpsp1(1176736)",
 "Subsystem":"Valine",
 "original_bigg_ids":[
@@ -56802,7 +56802,7 @@
 "gene_reaction_rule":"1055797",
 "notes":{
 "Annotation_source":"Bidirectional blasting",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Lysine",
 "original_bigg_ids":[
 "HCITS"
@@ -56835,7 +56835,7 @@
 "gene_reaction_rule":"1417562",
 "notes":{
 "Annotation_source":"Bidirectional blasting",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Lysine",
 "original_bigg_ids":[
 "AATA",
@@ -56917,7 +56917,7 @@
 "gene_reaction_rule":"1358659",
 "notes":{
 "Annotation_source":"Bidirectional blasting",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Lysine",
 "original_bigg_ids":[
 "AASAD1"
@@ -56965,7 +56965,7 @@
 "gene_reaction_rule":"1697096",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Lysine",
 "original_bigg_ids":[
 "SACCD1"
@@ -57016,7 +57016,7 @@
 "gene_reaction_rule":"1654155",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Lysine",
 "original_bigg_ids":[
 "SACCD2"
@@ -57065,7 +57065,7 @@
 "gene_reaction_rule":"1659293 or 954171",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Homology_genes":"Neosp1(663808); Orpsp1(1181677)",
 "Subsystem":"Lysine",
 "original_bigg_ids":[
@@ -57116,7 +57116,7 @@
 "gene_reaction_rule":"1358659",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Lysine",
 "original_bigg_ids":[
 "AASAD3",
@@ -57188,7 +57188,7 @@
 "gene_reaction_rule":"1358659",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Lysine",
 "original_bigg_ids":[
 "AASAD2"
@@ -57427,7 +57427,7 @@
 "gene_reaction_rule":"1727594",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Lysine",
 "original_bigg_ids":[
 "ACACCT"
@@ -57476,7 +57476,7 @@
 "gene_reaction_rule":"1047950",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Arginine",
 "original_bigg_ids":[
 "AAAT",
@@ -57539,7 +57539,7 @@
 "gene_reaction_rule":"1619513",
 "notes":{
 "Annotation_source":"Bidirectional blasting",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Arginine",
 "original_bigg_ids":[
 "ACGK",
@@ -57590,7 +57590,7 @@
 "gene_reaction_rule":"1619513",
 "notes":{
 "Annotation_source":"Bidirectional blasting",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Arginine",
 "original_bigg_ids":[
 "AGGPR",
@@ -57639,7 +57639,7 @@
 "gene_reaction_rule":"1678873",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Arginine",
 "original_bigg_ids":[
 "ACOTA",
@@ -57688,7 +57688,7 @@
 "gene_reaction_rule":"1275878",
 "notes":{
 "Annotation_source":"Bidirectional blasting",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Arginine",
 "original_bigg_ids":[
 "GACT",
@@ -57739,7 +57739,7 @@
 "gene_reaction_rule":"1628314",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Arginine",
 "original_bigg_ids":[
 "OCBT",
@@ -57806,7 +57806,7 @@
 "gene_reaction_rule":"1729791",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Homology_genes":"Neosp1(678182); Anasp1(292923)",
 "Subsystem":"Arginine",
 "original_bigg_ids":[
@@ -57858,7 +57858,7 @@
 "gene_reaction_rule":"197830",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Homology_genes":"",
 "Subsystem":"Proline",
 "original_bigg_ids":[
@@ -57938,7 +57938,7 @@
 "gene_reaction_rule":"1724789",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Proline",
 "original_bigg_ids":[
 "G5K_c",
@@ -57989,7 +57989,7 @@
 "gene_reaction_rule":"1656398",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Proline",
 "original_bigg_ids":[
 "G5DH",
@@ -58042,7 +58042,7 @@
 "gene_reaction_rule":"1688179",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Proline",
 "original_bigg_ids":[
 "PRO1y"
@@ -58106,7 +58106,7 @@
 "gene_reaction_rule":"1688179",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Proline",
 "original_bigg_ids":[
 "PRO1x"
@@ -58189,7 +58189,7 @@
 "gene_reaction_rule":"1731034",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Proline",
 "original_bigg_ids":[
 "ORDC",
@@ -58260,7 +58260,7 @@
 "gene_reaction_rule":"1713402",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Proline",
 "original_bigg_ids":[
 "AMSAPT_c",
@@ -58311,7 +58311,7 @@
 "gene_reaction_rule":"1713402",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Proline",
 "original_bigg_ids":[
 "G5SAD",
@@ -58369,7 +58369,7 @@
 "gene_reaction_rule":"1687975 or 1637339",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Proline",
 "original_bigg_ids":[
 "ABTA",
@@ -58419,7 +58419,7 @@
 "gene_reaction_rule":"1650660 or 1728000",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Homology_genes":"Neosp1(383139); Anasp1(223068); Pirfi3(580449)",
 "Subsystem":"Proline",
 "original_bigg_ids":[
@@ -58482,7 +58482,7 @@
 "gene_reaction_rule":"1009546",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Homology_genes":"Anasp1(324269); PirE2(45321)",
 "Subsystem":"Proline",
 "original_bigg_ids":[
@@ -58571,7 +58571,7 @@
 "gene_reaction_rule":"943491",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Histidine",
 "original_bigg_ids":[
 "ADPART",
@@ -58623,7 +58623,7 @@
 "gene_reaction_rule":"1083471",
 "notes":{
 "Annotation_source":"Bidirectional blasting",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Histidine",
 "original_bigg_ids":[
 "PRADP",
@@ -58671,7 +58671,7 @@
 "gene_reaction_rule":"1673832",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Histidine",
 "original_bigg_ids":[
 "PRICI",
@@ -58722,7 +58722,7 @@
 "gene_reaction_rule":"1687927",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Histidine",
 "original_bigg_ids":[
 "IGPD",
@@ -58772,7 +58772,7 @@
 "gene_reaction_rule":"1007881",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Histidine",
 "original_bigg_ids":[
 "AOOA",
@@ -58823,7 +58823,7 @@
 "gene_reaction_rule":"1290846",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Histidine",
 "original_bigg_ids":[
 "HISTP",
@@ -58874,7 +58874,7 @@
 "gene_reaction_rule":"1083471",
 "notes":{
 "Annotation_source":"Bidirectional blasting",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Histidine",
 "original_bigg_ids":[
 "HDH_c",
@@ -58922,7 +58922,7 @@
 "gene_reaction_rule":"1083471",
 "notes":{
 "Annotation_source":"Bidirectional blasting",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Histidine",
 "original_bigg_ids":[
 "PRACH",
@@ -58975,7 +58975,7 @@
 "gene_reaction_rule":"1626061",
 "notes":{
 "Annotation_source":"Bidirectional blasting",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Histidine",
 "original_bigg_ids":[
 "IG3PS",
@@ -59026,7 +59026,7 @@
 "gene_reaction_rule":"1416520 or 1624082 or 1663899",
 "notes":{
 "Annotation_source":"Bidirectional blasting",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Tyrosine",
 "original_bigg_ids":[
 "DAHPS",
@@ -59077,7 +59077,7 @@
 "gene_reaction_rule":"1023811",
 "notes":{
 "Annotation_source":"Bidirectional blasting",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Tyrosine",
 "original_bigg_ids":[
 "DHQS"
@@ -59124,7 +59124,7 @@
 "gene_reaction_rule":"1023811",
 "notes":{
 "Annotation_source":"Bidirectional blasting",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Tyrosine",
 "original_bigg_ids":[
 "DHQD",
@@ -59175,7 +59175,7 @@
 "gene_reaction_rule":"1023811",
 "notes":{
 "Annotation_source":"Bidirectional blasting",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Tyrosine",
 "original_bigg_ids":[
 "SHK3D",
@@ -59228,7 +59228,7 @@
 "gene_reaction_rule":"1023811",
 "notes":{
 "Annotation_source":"Bidirectional blasting",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Tyrosine",
 "original_bigg_ids":[
 "SHKK"
@@ -59279,7 +59279,7 @@
 "gene_reaction_rule":"1023811",
 "notes":{
 "Annotation_source":"Bidirectional blasting",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Tyrosine",
 "original_bigg_ids":[
 "PSCIT",
@@ -59331,7 +59331,7 @@
 "gene_reaction_rule":"1663736",
 "notes":{
 "Annotation_source":"Bidirectional blasting",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Tyrosine",
 "original_bigg_ids":[
 "CHORS"
@@ -59377,7 +59377,7 @@
 "gene_reaction_rule":"1623887",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Tyrosine",
 "original_bigg_ids":[
 "CHORM",
@@ -59429,7 +59429,7 @@
 "gene_reaction_rule":"1062436",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Tyrosine",
 "original_bigg_ids":[
 "PPND2"
@@ -59477,7 +59477,7 @@
 "gene_reaction_rule":"1687975 or 1637339 or 1007881",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Phenylalanine",
 "original_bigg_ids":[
 "ASPTA5",
@@ -59566,7 +59566,7 @@
 "gene_reaction_rule":"1687975 or 1637339 or 1007881",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Phenylalanine",
 "original_bigg_ids":[
 "ASPTA6",
@@ -59622,7 +59622,7 @@
 "gene_reaction_rule":"1655007",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Phenylalanine",
 "original_bigg_ids":[
 "AROH"
@@ -59671,7 +59671,7 @@
 "gene_reaction_rule":"1655007",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Phenylalanine",
 "original_bigg_ids":[
 "PPDH",
@@ -59724,7 +59724,7 @@
 "gene_reaction_rule":"1356638",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Phenylalanine",
 "original_bigg_ids":[
 "ANS",
@@ -59773,7 +59773,7 @@
 "gene_reaction_rule":"1279625",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Tryptophan",
 "original_bigg_ids":[
 "ANPRT",
@@ -59820,7 +59820,7 @@
 "gene_reaction_rule":"953307",
 "notes":{
 "Annotation_source":"Bidirectional blasting",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Tryptophan",
 "original_bigg_ids":[
 "PRAI",
@@ -59871,7 +59871,7 @@
 "gene_reaction_rule":"953307",
 "notes":{
 "Annotation_source":"Bidirectional blasting",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Tryptophan",
 "original_bigg_ids":[
 "IGPS",
@@ -59921,7 +59921,7 @@
 "gene_reaction_rule":"974617",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Tryptophan",
 "original_bigg_ids":[
 "TRPAS2",
@@ -59970,7 +59970,7 @@
 "gene_reaction_rule":"1370813",
 "notes":{
 "Annotation_source":"S. cerevisiae GEM",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Tryptophan",
 "original_bigg_ids":[
 "INDPYRD"
@@ -60068,7 +60068,7 @@
 "gene_reaction_rule":"1675079 or 1021847",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Homology_genes":"PirE2(39779); Orpsp1(1191226); Orpsp1(1176736)",
 "Subsystem":"Tryptophan",
 "original_bigg_ids":[
@@ -60119,7 +60119,7 @@
 "gene_reaction_rule":"1675079 or 1021847 or 1638430",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Homology_genes":"PirE2(39779); Orpsp1(1191226); Orpsp1(1176736)",
 "Subsystem":"Tryptophan",
 "original_bigg_ids":[
@@ -60157,7 +60157,7 @@
 "gene_reaction_rule":"1397557 or 1684856",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Homology_genes":"",
 "Subsystem":"Tryptophan",
 "original_bigg_ids":[
@@ -60210,7 +60210,7 @@
 "gene_reaction_rule":"1417562",
 "notes":{
 "Annotation_source":"Bidirectional blasting",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Tryptophan",
 "original_bigg_ids":[
 "KYNAKGAT"
@@ -60243,7 +60243,7 @@
 "gene_reaction_rule":"1417562",
 "notes":{
 "Annotation_source":"Bidirectional blasting",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Tryptophan",
 "original_bigg_ids":[
 "3HKYNAKGAT"
@@ -60276,7 +60276,7 @@
 "gene_reaction_rule":"1748611",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Tryptophan",
 "original_bigg_ids":[
 "3HXKYNDCL"
@@ -60317,7 +60317,7 @@
 "gene_reaction_rule":"1061776",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Lysine",
 "original_bigg_ids":[
 "HACD1"
@@ -60382,7 +60382,7 @@
 "gene_reaction_rule":"1061776",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Lysine",
 "original_bigg_ids":[
 "HBCO_LPAREN_nadp_RPAREN_",
@@ -63244,7 +63244,7 @@
 "gene_reaction_rule":"979163 or 1274928 or 1307594 or 1675705 or 941813",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Exchange reaction",
 "original_bigg_ids":[
 "EX_ca2",
@@ -65072,7 +65072,7 @@
 "gene_reaction_rule":"1705995",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Purine synthesis",
 "original_bigg_ids":[
 "PPRGL"
@@ -65115,7 +65115,7 @@
 "gene_reaction_rule":"1623835",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"One carbon pool by folate",
 "original_bigg_ids":[
 "FPGFT",
@@ -65166,7 +65166,7 @@
 "gene_reaction_rule":"1320517",
 "notes":{
 "Annotation_source":"Bidirectional blasting",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Purine synthesis",
 "original_bigg_ids":[
 "PRFGS",
@@ -65227,7 +65227,7 @@
 "gene_reaction_rule":"1705995",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Purine synthesis",
 "original_bigg_ids":[
 "PRFGCL"
@@ -65266,7 +65266,7 @@
 "gene_reaction_rule":"1750988",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Purine synthesis",
 "original_bigg_ids":[
 "PRAIC"
@@ -65308,7 +65308,7 @@
 "gene_reaction_rule":"1706312",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Purine synthesis",
 "original_bigg_ids":[
 "PRAIS",
@@ -65371,7 +65371,7 @@
 "gene_reaction_rule":"38145",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Purine synthesis",
 "original_bigg_ids":[
 "ADSL2",
@@ -65439,7 +65439,7 @@
 "gene_reaction_rule":"1664066",
 "notes":{
 "Annotation_source":"Bidirectional blasting",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"One carbon pool by folate",
 "original_bigg_ids":[
 "AICART",
@@ -65503,7 +65503,7 @@
 "gene_reaction_rule":"1664066",
 "notes":{
 "Annotation_source":"Bidirectional blasting",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Purine synthesis",
 "original_bigg_ids":[
 "ICH",
@@ -65573,7 +65573,7 @@
 "gene_reaction_rule":"1681618 or 1637351 or 1653612 or 1659345",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Purine synthesis",
 "original_bigg_ids":[
 "I5NT",
@@ -65626,7 +65626,7 @@
 "gene_reaction_rule":"1625111",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Purine synthesis",
 "original_bigg_ids":[
 "PUNP5",
@@ -65678,7 +65678,7 @@
 "gene_reaction_rule":"468832",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Purine synthesis",
 "original_bigg_ids":[
 "HPRT",
@@ -65731,7 +65731,7 @@
 "gene_reaction_rule":"1434764 or 1301239",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Purine synthesis",
 "original_bigg_ids":[
 "NTPP6"
@@ -65779,7 +65779,7 @@
 "gene_reaction_rule":"1649787 or 1052332 or 1630400 or 1648900 or 1043411 or 1082669",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Purine synthesis",
 "original_bigg_ids":[
 "ADK1",
@@ -65867,7 +65867,7 @@
 "gene_reaction_rule":"1681618 or 1637351 or 1653612 or 1659345",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Purine synthesis",
 "original_bigg_ids":[
 "AMP5N",
@@ -65929,7 +65929,7 @@
 "gene_reaction_rule":"1625111",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Purine synthesis",
 "original_bigg_ids":[
 "ADPADR",
@@ -65979,7 +65979,7 @@
 "gene_reaction_rule":"35691",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Purine synthesis",
 "original_bigg_ids":[
 "ADPT",
@@ -66049,7 +66049,7 @@
 "gene_reaction_rule":"1625111",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Purine synthesis",
 "original_bigg_ids":[
 "PUNP2",
@@ -66098,7 +66098,7 @@
 "gene_reaction_rule":"1681618 or 1637351 or 1653612 or 1659345",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Purine synthesis",
 "original_bigg_ids":[
 "DAMPH",
@@ -66149,7 +66149,7 @@
 "gene_reaction_rule":"1649787 or 1052332 or 1630400 or 1648900 or 1043411 or 1082669",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Purine synthesis",
 "original_bigg_ids":[
 "ADK_syn",
@@ -66233,7 +66233,7 @@
 "gene_reaction_rule":"1724816 or 1022630 or 1034293",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Purine synthesis",
 "original_bigg_ids":[
 "NDPK",
@@ -66285,7 +66285,7 @@
 "gene_reaction_rule":"398072",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Purine synthesis",
 "original_bigg_ids":[
 "IMPD",
@@ -66356,7 +66356,7 @@
 "gene_reaction_rule":"1728051",
 "notes":{
 "Annotation_source":"Bidirectional blasting",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Purine synthesis",
 "original_bigg_ids":[
 "GMPR",
@@ -66410,7 +66410,7 @@
 "gene_reaction_rule":"1027696",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Purine synthesis",
 "original_bigg_ids":[
 "GMPS2",
@@ -66460,7 +66460,7 @@
 "gene_reaction_rule":"1681618 or 1637351 or 1653612 or 1659345",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Purine synthesis",
 "original_bigg_ids":[
 "NTD10",
@@ -66510,7 +66510,7 @@
 "gene_reaction_rule":"468832",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Purine synthesis",
 "original_bigg_ids":[
 "HMR_4664",
@@ -66562,7 +66562,7 @@
 "gene_reaction_rule":"1625111",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Purine synthesis",
 "original_bigg_ids":[
 "PUNP7",
@@ -66612,7 +66612,7 @@
 "gene_reaction_rule":"1434764 or 1301239",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Purine synthesis",
 "original_bigg_ids":[
 "NTDP",
@@ -66663,7 +66663,7 @@
 "gene_reaction_rule":"1724816 or 1022630 or 1034293",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Purine synthesis",
 "original_bigg_ids":[
 "ATGD",
@@ -66713,7 +66713,7 @@
 "gene_reaction_rule":"1697503",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Purine synthesis",
 "original_bigg_ids":[
 "AGPT",
@@ -66763,7 +66763,7 @@
 "gene_reaction_rule":"1681618 or 1637351 or 1653612 or 1659345",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Purine synthesis",
 "original_bigg_ids":[
 "GMP5N_c",
@@ -66812,7 +66812,7 @@
 "gene_reaction_rule":"1625111",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Purine synthesis",
 "original_bigg_ids":[
 "PUNP3",
@@ -66861,7 +66861,7 @@
 "gene_reaction_rule":"35691 or 468832",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Purine synthesis",
 "original_bigg_ids":[
 "GPAR"
@@ -66910,7 +66910,7 @@
 "gene_reaction_rule":"1625111",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Purine synthesis",
 "original_bigg_ids":[
 "PUNP4",
@@ -66959,7 +66959,7 @@
 "gene_reaction_rule":"1681618 or 1637351 or 1653612 or 1659345",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Purine synthesis",
 "original_bigg_ids":[
 "DMPH",
@@ -67009,7 +67009,7 @@
 "gene_reaction_rule":"1697503",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Purine synthesis",
 "original_bigg_ids":[
 "ATDGM",
@@ -67093,7 +67093,7 @@
 "gene_reaction_rule":"1724816 or 1022630 or 1034293",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Purine synthesis",
 "original_bigg_ids":[
 "ATDGD",
@@ -67143,7 +67143,7 @@
 "gene_reaction_rule":"1699408",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Purine synthesis",
 "original_bigg_ids":[
 "3NUCLE1"
@@ -67191,7 +67191,7 @@
 "gene_reaction_rule":"1681618",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Purine synthesis",
 "original_bigg_ids":[
 "23CN2P1"
@@ -67240,7 +67240,7 @@
 "gene_reaction_rule":"981600",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Purine synthesis",
 "original_bigg_ids":[
 "ADPA",
@@ -67286,7 +67286,7 @@
 "gene_reaction_rule":"1682672 or 1709280 or 1423640 or 1029599 or 1288011 or 981600",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Purine synthesis",
 "original_bigg_ids":[
 "ATPPH",
@@ -67338,7 +67338,7 @@
 "gene_reaction_rule":"1724816 or 1022630 or 1034293 or 1297137",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Purine synthesis",
 "original_bigg_ids":[
 "ATID",
@@ -67388,7 +67388,7 @@
 "gene_reaction_rule":"930633 or 1328252 or 1274178 or 1009086",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Purine synthesis",
 "original_bigg_ids":[
 "ADEC",
@@ -67611,7 +67611,7 @@
 "gene_reaction_rule":"1696227 or 1318470",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Purine synthesis",
 "original_bigg_ids":[
 "ADEDA",
@@ -67661,7 +67661,7 @@
 "gene_reaction_rule":"1625111",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Purine synthesis",
 "original_bigg_ids":[
 "PUNP6",
@@ -67804,7 +67804,7 @@
 "gene_reaction_rule":"1619412",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Purine synthesis",
 "original_bigg_ids":[
 "INSH",
@@ -67857,7 +67857,7 @@
 "gene_reaction_rule":"1696227 or 1318470",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Purine synthesis",
 "original_bigg_ids":[
 "ADA",
@@ -67919,7 +67919,7 @@
 "gene_reaction_rule":"1619412",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Purine synthesis",
 "original_bigg_ids":[
 "ADNUC",
@@ -67971,7 +67971,7 @@
 "gene_reaction_rule":"939041",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Purine synthesis",
 "original_bigg_ids":[
 "ADNK",
@@ -68023,7 +68023,7 @@
 "gene_reaction_rule":"1724816 or 1022630 or 1034293",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Purine synthesis",
 "original_bigg_ids":[
 "NTP11"
@@ -68066,7 +68066,7 @@
 "gene_reaction_rule":"1724816 or 1022630 or 1034293 or 981600",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Purine synthesis",
 "original_bigg_ids":[
 "ITPA",
@@ -68119,7 +68119,7 @@
 "gene_reaction_rule":"981600",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Purine synthesis",
 "original_bigg_ids":[
 "IDPA",
@@ -68182,7 +68182,7 @@
 "gene_reaction_rule":"1292497",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Purine synthesis",
 "original_bigg_ids":[
 "AP4AH1"
@@ -68231,7 +68231,7 @@
 "gene_reaction_rule":"405594 or 958569 or 1703727 or 1626568",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Purine synthesis",
 "original_bigg_ids":[
 "NTPD",
@@ -68299,7 +68299,7 @@
 "gene_reaction_rule":"1619412",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Purine synthesis",
 "original_bigg_ids":[
 "PNS4",
@@ -68416,7 +68416,7 @@
 "gene_reaction_rule":"1619412",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Purine synthesis",
 "original_bigg_ids":[
 "GNNUC",
@@ -68467,7 +68467,7 @@
 "gene_reaction_rule":"1653612",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Purine synthesis",
 "original_bigg_ids":[
 "3NUCLE4"
@@ -68515,7 +68515,7 @@
 "gene_reaction_rule":"1653612",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Purine synthesis",
 "original_bigg_ids":[
 "23CN2P4"
@@ -68564,7 +68564,7 @@
 "gene_reaction_rule":"981600",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Purine synthesis",
 "original_bigg_ids":[
 "GDPA",
@@ -68616,7 +68616,7 @@
 "gene_reaction_rule":"981600",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Purine synthesis",
 "original_bigg_ids":[
 "FUSA1",
@@ -68669,7 +68669,7 @@
 "gene_reaction_rule":"1292497",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Purine synthesis",
 "original_bigg_ids":[
 "ATPATF3"
@@ -68705,7 +68705,7 @@
 "gene_reaction_rule":"1272721",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Purine synthesis",
 "original_bigg_ids":[
 "GBDP",
@@ -68753,7 +68753,7 @@
 "gene_reaction_rule":"930633 or 1328252 or 1274178 or 1009086",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Purine synthesis",
 "original_bigg_ids":[
 "GUAC"
@@ -68802,7 +68802,7 @@
 "gene_reaction_rule":"934588 or 1694685",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Purine synthesis",
 "original_bigg_ids":[
 "PDE4"
@@ -68851,7 +68851,7 @@
 "gene_reaction_rule":"1724816 or 1022630 or 1034293",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Purine synthesis",
 "original_bigg_ids":[
 "ATDTD",
@@ -68901,7 +68901,7 @@
 "gene_reaction_rule":"1743004",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Pyrimidine synthesis",
 "original_bigg_ids":[
 "DHORTS",
@@ -68972,7 +68972,7 @@
 "gene_reaction_rule":"1699796",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Pyrimidine synthesis",
 "original_bigg_ids":[
 "DHORD3"
@@ -69009,7 +69009,7 @@
 "gene_reaction_rule":"356260",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Pyrimidine synthesis",
 "original_bigg_ids":[
 "NADPHQR"
@@ -69045,7 +69045,7 @@
 "gene_reaction_rule":"1683916",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Pyrimidine synthesis",
 "original_bigg_ids":[
 "ORPRT",
@@ -69116,7 +69116,7 @@
 "gene_reaction_rule":"1682945",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Pyrimidine synthesis",
 "original_bigg_ids":[
 "OMPDC",
@@ -69187,7 +69187,7 @@
 "gene_reaction_rule":"1062698",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Pyrimidine synthesis",
 "original_bigg_ids":[
 "HMR_4343",
@@ -69240,7 +69240,7 @@
 "gene_reaction_rule":"1681618 or 1637351 or 1653612 or 1659345",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Pyrimidine synthesis",
 "original_bigg_ids":[
 "NTD2",
@@ -69291,7 +69291,7 @@
 "gene_reaction_rule":"1432077 or 1335279",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Pyrimidine synthesis",
 "original_bigg_ids":[
 "AUPT",
@@ -69341,7 +69341,7 @@
 "gene_reaction_rule":"1653612",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Pyrimidine synthesis",
 "original_bigg_ids":[
 "3NUCLE2"
@@ -69389,7 +69389,7 @@
 "gene_reaction_rule":"1653612",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Pyrimidine synthesis",
 "original_bigg_ids":[
 "23CN2P2",
@@ -69439,7 +69439,7 @@
 "gene_reaction_rule":"1677651",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Pyrimidine synthesis",
 "original_bigg_ids":[
 "CDDA",
@@ -69488,7 +69488,7 @@
 "gene_reaction_rule":"1727718 or 1017338",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Homology_genes":"Anasp1(267785); Pirfi3(405108)",
 "Subsystem":"Pyrimidine synthesis",
 "original_bigg_ids":[
@@ -69538,7 +69538,7 @@
 "gene_reaction_rule":"1619412",
 "notes":{
 "Annotation_source":"E. coli GEM",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Pyrimidine synthesis",
 "original_bigg_ids":[
 "URIH"
@@ -69586,7 +69586,7 @@
 "gene_reaction_rule":"1635883",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Pyrimidine synthesis",
 "original_bigg_ids":[
 "PSUDS",
@@ -69621,7 +69621,7 @@
 "gene_reaction_rule":"1625111",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Pyrimidine synthesis",
 "original_bigg_ids":[
 "DURIPP",
@@ -69671,7 +69671,7 @@
 "gene_reaction_rule":"1681618 or 1637351 or 1653612 or 1659345",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Pyrimidine synthesis",
 "original_bigg_ids":[
 "NTD1",
@@ -69768,7 +69768,7 @@
 "gene_reaction_rule":"599745",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"One carbon pool by folate",
 "original_bigg_ids":[
 "MDUMT",
@@ -69815,7 +69815,7 @@
 "gene_reaction_rule":"1677651",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Pyrimidine synthesis",
 "original_bigg_ids":[
 "DCAH",
@@ -69880,7 +69880,7 @@
 "gene_reaction_rule":"1681618 or 1637351 or 1653612 or 1659345",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Pyrimidine synthesis",
 "original_bigg_ids":[
 "DCMP",
@@ -69929,7 +69929,7 @@
 "gene_reaction_rule":"1635896",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Pyrimidine synthesis",
 "original_bigg_ids":[
 "ATDCM",
@@ -69980,7 +69980,7 @@
 "gene_reaction_rule":"1724816 or 1022630 or 1034293",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Pyrimidine synthesis",
 "original_bigg_ids":[
 "ATDCD",
@@ -70031,7 +70031,7 @@
 "gene_reaction_rule":"975306",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Pyrimidine synthesis",
 "original_bigg_ids":[
 "5MCSDA_c",
@@ -70082,7 +70082,7 @@
 "gene_reaction_rule":"1699921",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Pyrimidine synthesis",
 "original_bigg_ids":[
 "NDP8"
@@ -70119,7 +70119,7 @@
 "gene_reaction_rule":"1724816 or 1022630 or 1034293",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Pyrimidine synthesis",
 "original_bigg_ids":[
 "NTP8"
@@ -70161,7 +70161,7 @@
 "gene_reaction_rule":"1699921",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Pyrimidine synthesis",
 "original_bigg_ids":[
 "ATDTM",
@@ -70212,7 +70212,7 @@
 "gene_reaction_rule":"981600",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Pyrimidine synthesis",
 "original_bigg_ids":[
 "DTDPH_c",
@@ -70256,7 +70256,7 @@
 "gene_reaction_rule":"981600",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Pyrimidine synthesis",
 "original_bigg_ids":[
 "DTNH",
@@ -70307,7 +70307,7 @@
 "gene_reaction_rule":"1434764 or 1301239",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Pyrimidine synthesis",
 "original_bigg_ids":[
 "DTTPDP",
@@ -70419,7 +70419,7 @@
 "gene_reaction_rule":"1681618 or 1637351 or 1653612 or 1659345",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Pyrimidine synthesis",
 "original_bigg_ids":[
 "NTD5",
@@ -70469,7 +70469,7 @@
 "gene_reaction_rule":"1681618",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Pyrimidine synthesis",
 "original_bigg_ids":[
 "23CN2P3"
@@ -70517,7 +70517,7 @@
 "gene_reaction_rule":"1699408",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Pyrimidine synthesis",
 "original_bigg_ids":[
 "3NUCLE3"
@@ -70565,7 +70565,7 @@
 "gene_reaction_rule":"1681618 or 1637351 or 1653612 or 1659345",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Pyrimidine synthesis",
 "original_bigg_ids":[
 "CMP",
@@ -70615,7 +70615,7 @@
 "gene_reaction_rule":"1619412",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Pyrimidine synthesis",
 "original_bigg_ids":[
 "PYNP1",
@@ -70657,7 +70657,7 @@
 "gene_reaction_rule":"975306",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Pyrimidine synthesis",
 "original_bigg_ids":[
 "CSDA",
@@ -70708,7 +70708,7 @@
 "gene_reaction_rule":"1432077 or 1335279",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Pyrimidine synthesis",
 "original_bigg_ids":[
 "ATCY",
@@ -70758,7 +70758,7 @@
 "gene_reaction_rule":"1635896",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Pyrimidine synthesis",
 "original_bigg_ids":[
 "UMPK",
@@ -70808,7 +70808,7 @@
 "gene_reaction_rule":"1724816 or 1022630 or 1034293",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Pyrimidine synthesis",
 "original_bigg_ids":[
 "ATUD",
@@ -70863,7 +70863,7 @@
 "gene_reaction_rule":"1361712",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Pyrimidine synthesis",
 "original_bigg_ids":[
 "CTPS2",
@@ -70948,7 +70948,7 @@
 "gene_reaction_rule":"981600",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Pyrimidine synthesis",
 "original_bigg_ids":[
 "ATCD",
@@ -70998,7 +70998,7 @@
 "gene_reaction_rule":"981600",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Pyrimidine synthesis",
 "original_bigg_ids":[
 "ATCM",
@@ -71049,7 +71049,7 @@
 "gene_reaction_rule":"1434764 or 1301239",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Pyrimidine synthesis",
 "original_bigg_ids":[
 "NTPP4"
@@ -71098,7 +71098,7 @@
 "gene_reaction_rule":"1434764 or 1301239",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Pyrimidine synthesis",
 "original_bigg_ids":[
 "NTPP8",
@@ -71149,7 +71149,7 @@
 "gene_reaction_rule":"981600",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Pyrimidine synthesis",
 "original_bigg_ids":[
 "NTP7",
@@ -71194,7 +71194,7 @@
 "gene_reaction_rule":"981600",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Pyrimidine synthesis",
 "original_bigg_ids":[
 "NDP7",
@@ -71240,7 +71240,7 @@
 "gene_reaction_rule":"1724816 or 1022630 or 1034293",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Pyrimidine synthesis",
 "original_bigg_ids":[
 "CTPH",
@@ -71291,7 +71291,7 @@
 "gene_reaction_rule":"1635896",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Pyrimidine synthesis",
 "original_bigg_ids":[
 "CDPH_c",
@@ -71337,7 +71337,7 @@
 "gene_reaction_rule":"1631806",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Pyrimidine synthesis",
 "original_bigg_ids":[
 "DGOTO",
@@ -71383,7 +71383,7 @@
 "gene_reaction_rule":"1631806",
 "notes":{
 "Annotation_source":"S. cerevisiae GEM",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Pyrimidine synthesis",
 "original_bigg_ids":[
 "DGTTO",
@@ -71426,7 +71426,7 @@
 "gene_reaction_rule":"1631806",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Pyrimidine synthesis",
 "original_bigg_ids":[
 "DAOTO",
@@ -71472,7 +71472,7 @@
 "gene_reaction_rule":"1631806",
 "notes":{
 "Annotation_source":"S. cerevisiae GEM",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Pyrimidine synthesis",
 "original_bigg_ids":[
 "RNTR",
@@ -71515,7 +71515,7 @@
 "gene_reaction_rule":"1631806",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Pyrimidine synthesis",
 "original_bigg_ids":[
 "DCDT",
@@ -71561,7 +71561,7 @@
 "gene_reaction_rule":"1631806",
 "notes":{
 "Annotation_source":"S. cerevisiae GEM",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Pyrimidine synthesis",
 "original_bigg_ids":[
 "DCTT",
@@ -71604,7 +71604,7 @@
 "gene_reaction_rule":"1631806",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Pyrimidine synthesis",
 "original_bigg_ids":[
 "DUDT",
@@ -71649,7 +71649,7 @@
 "gene_reaction_rule":"1631806",
 "notes":{
 "Annotation_source":"S. cerevisiae GEM",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Pyrimidine synthesis",
 "original_bigg_ids":[
 "DUTT",
@@ -71690,7 +71690,7 @@
 "gene_reaction_rule":"1623393",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Purine synthesis",
 "original_bigg_ids":[
 "APATT"
@@ -71729,7 +71729,7 @@
 "gene_reaction_rule":"1623393",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Purine synthesis",
 "original_bigg_ids":[
 "BTPS"
@@ -71778,7 +71778,7 @@
 "gene_reaction_rule":"1062059",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Purine synthesis",
 "original_bigg_ids":[
 "BTP"
@@ -71827,7 +71827,7 @@
 "gene_reaction_rule":"1292497",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Purine synthesis",
 "original_bigg_ids":[
 "ADATT"
@@ -71876,7 +71876,7 @@
 "gene_reaction_rule":"1058664",
 "notes":{
 "Annotation_source":"Bidirectional blasting",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Thiamine",
 "original_bigg_ids":[
 "HMPK1"
@@ -71913,7 +71913,7 @@
 "gene_reaction_rule":"1058664",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Thiamine",
 "original_bigg_ids":[
 "HMPK2"
@@ -71950,7 +71950,7 @@
 "gene_reaction_rule":"1058664",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Thiamine",
 "original_bigg_ids":[
 "HMPK3"
@@ -71987,7 +71987,7 @@
 "gene_reaction_rule":"1058664",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Thiamine",
 "original_bigg_ids":[
 "HMPK4"
@@ -72023,7 +72023,7 @@
 "gene_reaction_rule":"1058664",
 "notes":{
 "Annotation_source":"Bidirectional blasting",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Thiamine",
 "original_bigg_ids":[
 "PMPK",
@@ -72065,7 +72065,7 @@
 "gene_reaction_rule":"966472",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Thiamine",
 "original_bigg_ids":[
 "TYRL"
@@ -72108,7 +72108,7 @@
 "gene_reaction_rule":"995020",
 "notes":{
 "Annotation_source":"Bidirectional blasting",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Thiamine",
 "original_bigg_ids":[
 "HETZK"
@@ -72156,7 +72156,7 @@
 "gene_reaction_rule":"1670665",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Thiamine",
 "original_bigg_ids":[
 "THMP"
@@ -72193,7 +72193,7 @@
 "gene_reaction_rule":"995020",
 "notes":{
 "Annotation_source":"Bidirectional blasting",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Thiamine",
 "original_bigg_ids":[
 "TMPPP",
@@ -72244,7 +72244,7 @@
 "gene_reaction_rule":"995020",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Thiamine",
 "original_bigg_ids":[
 "TMPPP"
@@ -72272,7 +72272,7 @@
 "gene_reaction_rule":"1432833 or 1718290 or 1734156",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Thiamine",
 "original_bigg_ids":[
 "TMDPK",
@@ -72309,7 +72309,7 @@
 "gene_reaction_rule":"1649787 or 1052332 or 1630400 or 1648900 or 1043411 or 1082669",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Thiamine",
 "original_bigg_ids":[
 "TMDPPK",
@@ -72365,7 +72365,7 @@
 "gene_reaction_rule":"1655008 or 1278363",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Vitamin B6",
 "original_bigg_ids":[
 "PDBL_1",
@@ -72409,7 +72409,7 @@
 "gene_reaction_rule":"1295397",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Vitamin B6",
 "original_bigg_ids":[
 "GLYCK2",
@@ -72505,7 +72505,7 @@
 "gene_reaction_rule":"243650",
 "notes":{
 "Annotation_source":"Bidirectional blasting",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Vitamin B6",
 "original_bigg_ids":[
 "PDXPP",
@@ -72555,7 +72555,7 @@
 "gene_reaction_rule":"238088 or 1747508",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Homology_genes":"",
 "Subsystem":"Vitamin B6",
 "original_bigg_ids":[
@@ -72626,7 +72626,7 @@
 "gene_reaction_rule":"1623258",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Vitamin B6",
 "original_bigg_ids":[
 "PYDXDH_c",
@@ -72676,7 +72676,7 @@
 "gene_reaction_rule":"1747508 or 238088",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Homology_genes":"",
 "Subsystem":"Vitamin B6",
 "original_bigg_ids":[
@@ -72745,7 +72745,7 @@
 "gene_reaction_rule":"243650",
 "notes":{
 "Annotation_source":"Bidirectional blasting",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Vitamin B6",
 "original_bigg_ids":[
 "PYDXPP",
@@ -72822,7 +72822,7 @@
 "gene_reaction_rule":"1747508 or 238088",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Homology_genes":"",
 "Subsystem":"Vitamin B6",
 "original_bigg_ids":[
@@ -72891,7 +72891,7 @@
 "gene_reaction_rule":"243650",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Vitamin B6",
 "original_bigg_ids":[
 "HYPOE",
@@ -72990,7 +72990,7 @@
 "gene_reaction_rule":"1727954",
 "notes":{
 "Annotation_source":"Bidirectional blasting",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Vitamin B6",
 "original_bigg_ids":[
 "4HTHRS"
@@ -73038,7 +73038,7 @@
 "gene_reaction_rule":"1699563",
 "notes":{
 "Annotation_source":"Bidirectional blasting",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Riboflavin",
 "original_bigg_ids":[
 "DB4PS"
@@ -73079,7 +73079,7 @@
 "gene_reaction_rule":"995013",
 "notes":{
 "Annotation_source":"Bidirectional blasting",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Riboflavin",
 "original_bigg_ids":[
 "RBFSa"
@@ -73118,7 +73118,7 @@
 "gene_reaction_rule":"1652525",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Riboflavin",
 "original_bigg_ids":[
 "RBFSb"
@@ -73166,7 +73166,7 @@
 "gene_reaction_rule":"1670665",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Riboflavin",
 "original_bigg_ids":[
 "ACP1",
@@ -73233,7 +73233,7 @@
 "gene_reaction_rule":"1677547",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Riboflavin",
 "original_bigg_ids":[
 "ARPT",
@@ -73301,7 +73301,7 @@
 "gene_reaction_rule":"1434764 or 1301239",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Riboflavin",
 "original_bigg_ids":[
 "FADDP"
@@ -73367,7 +73367,7 @@
 "gene_reaction_rule":"1062437 or 1434065 or 1654586",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Riboflavin",
 "original_bigg_ids":[
 "FMNAT",
@@ -73437,7 +73437,7 @@
 "gene_reaction_rule":"1745205",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Riboflavin",
 "original_bigg_ids":[
 "FMNRx"
@@ -73486,7 +73486,7 @@
 "gene_reaction_rule":"1745205",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Riboflavin",
 "original_bigg_ids":[
 "FLDO",
@@ -73545,7 +73545,7 @@
 "gene_reaction_rule":"1745534",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Folate synthesis",
 "original_bigg_ids":[
 "GTPCII2"
@@ -73592,7 +73592,7 @@
 "gene_reaction_rule":"975306",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Riboflavin",
 "original_bigg_ids":[
 "DHPPDA2"
@@ -73637,7 +73637,7 @@
 "gene_reaction_rule":"1693187",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Riboflavin",
 "original_bigg_ids":[
 "A56PAR",
@@ -73687,7 +73687,7 @@
 "gene_reaction_rule":"1694524",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Homology_genes":"Neosp1(669594); Anasp1(265217); Pirfi3(402221)",
 "Subsystem":"Riboflavin",
 "original_bigg_ids":[
@@ -73737,7 +73737,7 @@
 "gene_reaction_rule":"1625111",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Nicotinate and nicotinamide metabolism",
 "original_bigg_ids":[
 "PNP",
@@ -73780,7 +73780,7 @@
 "gene_reaction_rule":"1681618 or 1637351 or 1653612 or 1659345",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Nicotinate and nicotinamide metabolism",
 "original_bigg_ids":[
 "NARP",
@@ -73845,7 +73845,7 @@
 "gene_reaction_rule":"1625111",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Nicotinate and nicotinamide metabolism",
 "original_bigg_ids":[
 "NP1",
@@ -73885,7 +73885,7 @@
 "gene_reaction_rule":"1681618 or 1637351 or 1653612 or 1659345",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Nicotinate and nicotinamide metabolism",
 "original_bigg_ids":[
 "NRPH",
@@ -73935,7 +73935,7 @@
 "gene_reaction_rule":"919173",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Nicotinate and nicotinamide metabolism",
 "original_bigg_ids":[
 "ANNA",
@@ -74036,7 +74036,7 @@
 "gene_reaction_rule":"1434764 or 1301239",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Nicotinate and nicotinamide metabolism",
 "original_bigg_ids":[
 "DNADDP",
@@ -74083,7 +74083,7 @@
 "gene_reaction_rule":"1644846",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Nicotinate and nicotinamide metabolism",
 "original_bigg_ids":[
 "DNGAL",
@@ -74154,7 +74154,7 @@
 "gene_reaction_rule":"989235 or 1659731 or 1690605",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Nicotinate and nicotinamide metabolism",
 "original_bigg_ids":[
 "NNMT"
@@ -74275,7 +74275,7 @@
 "gene_reaction_rule":"919173",
 "notes":{
 "Annotation_source":"Bidirectional blasting",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Nicotinate and nicotinamide metabolism",
 "original_bigg_ids":[
 "NMNAT",
@@ -74343,7 +74343,7 @@
 "gene_reaction_rule":"280880",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Nicotinate and nicotinamide metabolism",
 "original_bigg_ids":[
 "NPH"
@@ -74393,7 +74393,7 @@
 "gene_reaction_rule":"1722272",
 "notes":{
 "Annotation_source":"S. cerevisiae GEM",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Nicotinate and nicotinamide metabolism",
 "original_bigg_ids":[
 "AN2PT",
@@ -74460,7 +74460,7 @@
 "gene_reaction_rule":"1722272 or 1005147 or 942385 or 962805",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Homology_genes":"Neosp1(456946); Anasp1(218338); Anasp1(293389); Pirfi3(166608); Pirfi3(371338); PirE2(42744); PirE2(44620); Orpsp1(1190526)",
 "Subsystem":"Nicotinate and nicotinamide metabolism",
 "original_bigg_ids":[
@@ -74500,7 +74500,7 @@
 "gene_reaction_rule":"1644846",
 "notes":{
 "Annotation_source":"S. cerevisiae GEM",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Nicotinate and nicotinamide metabolism",
 "original_bigg_ids":[
 "HMR_4261",
@@ -74551,7 +74551,7 @@
 "gene_reaction_rule":"1270497",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Nicotinate and nicotinamide metabolism",
 "original_bigg_ids":[
 "NNDPR",
@@ -74616,7 +74616,7 @@
 "gene_reaction_rule":"492630",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Nicotinate and nicotinamide metabolism",
 "original_bigg_ids":[
 "QULNS"
@@ -74664,7 +74664,7 @@
 "gene_reaction_rule":"644431",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Nicotinate and nicotinamide metabolism",
 "original_bigg_ids":[
 "ASPO5"
@@ -74710,7 +74710,7 @@
 "gene_reaction_rule":"943360",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Pantothenate and CoA",
 "original_bigg_ids":[
 "MOHMT"
@@ -74753,7 +74753,7 @@
 "gene_reaction_rule":"1355274 or 1693023",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Pantothenate and CoA",
 "original_bigg_ids":[
 "DPR",
@@ -74806,7 +74806,7 @@
 "gene_reaction_rule":"1744632",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Pantothenate and CoA",
 "original_bigg_ids":[
 "PANTS",
@@ -74856,7 +74856,7 @@
 "gene_reaction_rule":"1000773",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Pantothenate and CoA",
 "original_bigg_ids":[
 "APPT",
@@ -74933,7 +74933,7 @@
 "gene_reaction_rule":"1748786",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Pantothenate and CoA",
 "original_bigg_ids":[
 "ASP1DC"
@@ -75051,7 +75051,7 @@
 "gene_reaction_rule":"1627054",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Pantothenate and CoA",
 "original_bigg_ids":[
 "PPCL",
@@ -75124,7 +75124,7 @@
 "gene_reaction_rule":"1627054",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Pantothenate and CoA",
 "original_bigg_ids":[
 "PPNCL"
@@ -75160,7 +75160,7 @@
 "gene_reaction_rule":"1752140",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Pantothenate and CoA",
 "original_bigg_ids":[
 "CYSCL",
@@ -75229,7 +75229,7 @@
 "gene_reaction_rule":"1000773",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Pantothenate and CoA",
 "original_bigg_ids":[
 "APCPT"
@@ -75269,7 +75269,7 @@
 "gene_reaction_rule":"1311483 or 1021215",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Pantothenate and CoA",
 "original_bigg_ids":[
 "APPAT"
@@ -75337,7 +75337,7 @@
 "gene_reaction_rule":"1434764 or 1301239",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Pantothenate and CoA",
 "original_bigg_ids":[
 "DPCOAPP",
@@ -75378,7 +75378,7 @@
 "gene_reaction_rule":"1000773",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Pantothenate and CoA",
 "original_bigg_ids":[
 "APNPT",
@@ -75431,7 +75431,7 @@
 "gene_reaction_rule":"1627054",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Pantothenate and CoA",
 "original_bigg_ids":[
 "PPCL_LPAREN_CTP_RPAREN_",
@@ -75483,7 +75483,7 @@
 "gene_reaction_rule":"1713900",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Pantothenate and CoA",
 "original_bigg_ids":[
 "ADCPT",
@@ -75556,7 +75556,7 @@
 "gene_reaction_rule":"1671426",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Vitamin B7 (biotin)",
 "original_bigg_ids":[
 "BTS6"
@@ -75584,7 +75584,7 @@
 "gene_reaction_rule":"1437413",
 "notes":{
 "Annotation_source":"Bidirectional blasting",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Vitamin B7 (biotin)",
 "original_bigg_ids":[
 "BACCL"
@@ -75702,7 +75702,7 @@
 "gene_reaction_rule":"1678873",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Vitamin B7 (biotin)",
 "original_bigg_ids":[
 "AMAOT",
@@ -75752,7 +75752,7 @@
 "gene_reaction_rule":"1024613",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Homology_genes":"PirE2(64179)",
 "Subsystem":"Vitamin B7 (biotin)",
 "original_bigg_ids":[
@@ -75831,7 +75831,7 @@
 "gene_reaction_rule":"948791",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Vitamin B7 (biotin)",
 "original_bigg_ids":[
 "EPMEACPR"
@@ -75866,7 +75866,7 @@
 "gene_reaction_rule":"1057780",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Vitamin B7 (biotin)",
 "original_bigg_ids":[
 "OPMEACPD"
@@ -75906,7 +75906,7 @@
 "gene_reaction_rule":"1326109",
 "notes":{
 "Annotation_source":"E. coli GEM",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Vitamin B7 (biotin)",
 "original_bigg_ids":[
 "OPMEACPR"
@@ -75941,7 +75941,7 @@
 "gene_reaction_rule":"1075765",
 "notes":{
 "Annotation_source":"Bidirectional blasting",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Vitamin B7 (biotin)",
 "original_bigg_ids":[
 "OPMEACPS"
@@ -76009,7 +76009,7 @@
 "gene_reaction_rule":"1057780",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Vitamin B7 (biotin)",
 "original_bigg_ids":[
 "OGMEACPD"
@@ -76049,7 +76049,7 @@
 "gene_reaction_rule":"1326109",
 "notes":{
 "Annotation_source":"E. coli GEM",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Vitamin B7 (biotin)",
 "original_bigg_ids":[
 "OGMEACPR"
@@ -76146,7 +76146,7 @@
 "gene_reaction_rule":"1615852 or 1652726",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Folate synthesis",
 "original_bigg_ids":[
 "GTPCH_c",
@@ -76217,7 +76217,7 @@
 "gene_reaction_rule":"1737770",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Folate synthesis",
 "original_bigg_ids":[
 "AKP1"
@@ -76255,7 +76255,7 @@
 "gene_reaction_rule":"1304486",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Folate synthesis",
 "original_bigg_ids":[
 "DHNPA2",
@@ -76306,7 +76306,7 @@
 "gene_reaction_rule":"1745534",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Folate synthesis",
 "original_bigg_ids":[
 "GTPCII"
@@ -76340,7 +76340,7 @@
 "gene_reaction_rule":"1304486",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Folate synthesis",
 "original_bigg_ids":[
 "HPPK2",
@@ -76389,7 +76389,7 @@
 "gene_reaction_rule":"1654774 or 1655187",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Folate synthesis",
 "original_bigg_ids":[
 "DHFS",
@@ -76440,7 +76440,7 @@
 "gene_reaction_rule":"1745236",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Folate synthesis",
 "original_bigg_ids":[
 "DHFR",
@@ -76503,7 +76503,7 @@
 "gene_reaction_rule":"1745236",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Folate synthesis",
 "original_bigg_ids":[
 "DHFOR",
@@ -76544,7 +76544,7 @@
 "gene_reaction_rule":"1745236",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Folate synthesis",
 "original_bigg_ids":[
 "THFOR1",
@@ -76582,7 +76582,7 @@
 "gene_reaction_rule":"1745236",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Folate synthesis",
 "original_bigg_ids":[
 "THFOR2",
@@ -76619,7 +76619,7 @@
 "gene_reaction_rule":"1304486",
 "notes":{
 "Annotation_source":"Bidirectional blasting",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Folate synthesis",
 "original_bigg_ids":[
 "DHPS2",
@@ -76672,7 +76672,7 @@
 "gene_reaction_rule":"1654774 or 1655187",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Folate synthesis",
 "original_bigg_ids":[
 "THFGLUS"
@@ -76710,7 +76710,7 @@
 "gene_reaction_rule":"957199 or 1046184",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"One carbon pool by folate",
 "original_bigg_ids":[
 "FTHFL",
@@ -76790,7 +76790,7 @@
 "gene_reaction_rule":"1046184 or 957199",
 "notes":{
 "Annotation_source":"Bidirectional blasting",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"One carbon pool by folate",
 "original_bigg_ids":[
 "MTHFC",
@@ -76855,7 +76855,7 @@
 "gene_reaction_rule":"1046184 or 957199",
 "notes":{
 "Annotation_source":"Bidirectional blasting",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"One carbon pool by folate",
 "original_bigg_ids":[
 "MTHFD",
@@ -76899,7 +76899,7 @@
 "gene_reaction_rule":"999939",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"One carbon pool by folate",
 "original_bigg_ids":[
 "METFR",
@@ -76944,7 +76944,7 @@
 "gene_reaction_rule":"1695323",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"One carbon pool by folate",
 "original_bigg_ids":[
 "FTHFCL",
@@ -76991,7 +76991,7 @@
 "gene_reaction_rule":"1307634",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"One carbon pool by folate",
 "original_bigg_ids":[
 "FTHDF",
@@ -77035,7 +77035,7 @@
 "gene_reaction_rule":"1279575",
 "notes":{
 "Annotation_source":"Bidirectional blasting",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Thioredoxin",
 "original_bigg_ids":[
 "TDSR",
@@ -77127,7 +77127,7 @@
 "gene_reaction_rule":"1728358 or 1275778 or 1674312 or 1030374 or 1737379 or 1013570",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Folate synthesis",
 "original_bigg_ids":[
 "r0673"
@@ -77225,7 +77225,7 @@
 "gene_reaction_rule":"1745236",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Folate synthesis",
 "original_bigg_ids":[
 "r0398"
@@ -77344,7 +77344,7 @@
 "gene_reaction_rule":"1036771",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Homology_genes":"",
 "Subsystem":"Heme",
 "original_bigg_ids":[
@@ -77611,7 +77611,7 @@
 "gene_reaction_rule":"121710",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Heme",
 "original_bigg_ids":[
 "CPPPGO2"
@@ -77727,7 +77727,7 @@
 "gene_reaction_rule":"1679206",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Heme",
 "original_bigg_ids":[
 "FCLT",
@@ -77807,7 +77807,7 @@
 "gene_reaction_rule":"953307",
 "notes":{
 "Annotation_source":"E. coli GEM",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Folate synthesis",
 "original_bigg_ids":[
 "ADCS",
@@ -77856,7 +77856,7 @@
 "gene_reaction_rule":"1290032",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Fatty acid biosynthesis",
 "original_bigg_ids":[
 "ACOATA",
@@ -77900,7 +77900,7 @@
 "gene_reaction_rule":"1057780",
 "notes":{
 "Annotation_source":"Bidirectional blasting",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Fatty acid biosynthesis",
 "original_bigg_ids":[
 "MCOATA"
@@ -77944,7 +77944,7 @@
 "gene_reaction_rule":"1075765 or 1072353 or 1057780",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Homology_genes":"Neosp1(143535); Anasp1(248107); Pirfi3(411080); PirE2(38102); PirE2(43654)",
 "Subsystem":"Fatty acid biosynthesis",
 "original_bigg_ids":[
@@ -77988,7 +77988,7 @@
 "gene_reaction_rule":"1326109",
 "notes":{
 "Annotation_source":"E. coli GEM",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Fatty acid biosynthesis",
 "original_bigg_ids":[
 "3OAR40",
@@ -78024,7 +78024,7 @@
 "gene_reaction_rule":"1057780",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Fatty acid biosynthesis",
 "original_bigg_ids":[
 "3HAD40",
@@ -78095,7 +78095,7 @@
 "gene_reaction_rule":"948791",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Fatty acid biosynthesis",
 "original_bigg_ids":[
 "EAR40x",
@@ -78131,7 +78131,7 @@
 "gene_reaction_rule":"1075765",
 "notes":{
 "Annotation_source":"Bidirectional blasting",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Fatty acid biosynthesis",
 "original_bigg_ids":[
 "3OAS60",
@@ -78166,7 +78166,7 @@
 "gene_reaction_rule":"1326109",
 "notes":{
 "Annotation_source":"E. coli GEM",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Fatty acid biosynthesis",
 "original_bigg_ids":[
 "3OAR60",
@@ -78205,7 +78205,7 @@
 "gene_reaction_rule":"1057780",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Fatty acid biosynthesis",
 "original_bigg_ids":[
 "3HAD60",
@@ -78280,7 +78280,7 @@
 "gene_reaction_rule":"948791",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Fatty acid biosynthesis",
 "original_bigg_ids":[
 "EAR60x"
@@ -78315,7 +78315,7 @@
 "gene_reaction_rule":"1075765",
 "notes":{
 "Annotation_source":"Bidirectional blasting",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Fatty acid biosynthesis",
 "original_bigg_ids":[
 "3OAS80",
@@ -78350,7 +78350,7 @@
 "gene_reaction_rule":"1326109",
 "notes":{
 "Annotation_source":"E. coli GEM",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Fatty acid biosynthesis",
 "original_bigg_ids":[
 "3OAR80",
@@ -78392,7 +78392,7 @@
 "gene_reaction_rule":"1057780",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Fatty acid biosynthesis",
 "original_bigg_ids":[
 "3HAD80",
@@ -78470,7 +78470,7 @@
 "gene_reaction_rule":"948791",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Fatty acid biosynthesis",
 "original_bigg_ids":[
 "EAR80x"
@@ -78505,7 +78505,7 @@
 "gene_reaction_rule":"1075765",
 "notes":{
 "Annotation_source":"Bidirectional blasting",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Fatty acid biosynthesis",
 "original_bigg_ids":[
 "3OAS100",
@@ -78540,7 +78540,7 @@
 "gene_reaction_rule":"1326109",
 "notes":{
 "Annotation_source":"E. coli GEM",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Fatty acid biosynthesis",
 "original_bigg_ids":[
 "3OAR100",
@@ -78582,7 +78582,7 @@
 "gene_reaction_rule":"1057780",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Fatty acid biosynthesis",
 "original_bigg_ids":[
 "3HAD100",
@@ -78657,7 +78657,7 @@
 "gene_reaction_rule":"948791",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Fatty acid biosynthesis",
 "original_bigg_ids":[
 "EAR100x"
@@ -78692,7 +78692,7 @@
 "gene_reaction_rule":"1075765",
 "notes":{
 "Annotation_source":"Bidirectional blasting",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Fatty acid biosynthesis",
 "original_bigg_ids":[
 "3OAS120",
@@ -78727,7 +78727,7 @@
 "gene_reaction_rule":"1326109",
 "notes":{
 "Annotation_source":"E. coli GEM",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Fatty acid biosynthesis",
 "original_bigg_ids":[
 "3OAR120",
@@ -78766,7 +78766,7 @@
 "gene_reaction_rule":"1057780",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Fatty acid biosynthesis",
 "original_bigg_ids":[
 "3HAD120",
@@ -78840,7 +78840,7 @@
 "gene_reaction_rule":"948791",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Fatty acid biosynthesis",
 "original_bigg_ids":[
 "EAR120x",
@@ -78876,7 +78876,7 @@
 "gene_reaction_rule":"1075765",
 "notes":{
 "Annotation_source":"Bidirectional blasting",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Fatty acid biosynthesis",
 "original_bigg_ids":[
 "3OAS140",
@@ -78911,7 +78911,7 @@
 "gene_reaction_rule":"1326109",
 "notes":{
 "Annotation_source":"E. coli GEM",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Fatty acid biosynthesis",
 "original_bigg_ids":[
 "3OAR140",
@@ -78953,7 +78953,7 @@
 "gene_reaction_rule":"1057780",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Fatty acid biosynthesis",
 "original_bigg_ids":[
 "3HAD140",
@@ -79031,7 +79031,7 @@
 "gene_reaction_rule":"948791",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Fatty acid biosynthesis",
 "original_bigg_ids":[
 "EAR140x"
@@ -79066,7 +79066,7 @@
 "gene_reaction_rule":"1075765",
 "notes":{
 "Annotation_source":"Bidirectional blasting",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Fatty acid biosynthesis",
 "original_bigg_ids":[
 "3OAS160",
@@ -79101,7 +79101,7 @@
 "gene_reaction_rule":"1326109",
 "notes":{
 "Annotation_source":"E. coli GEM",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Fatty acid biosynthesis",
 "original_bigg_ids":[
 "3OAR160",
@@ -79140,7 +79140,7 @@
 "gene_reaction_rule":"1057780",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Fatty acid biosynthesis",
 "original_bigg_ids":[
 "3HAD160",
@@ -79214,7 +79214,7 @@
 "gene_reaction_rule":"948791",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Fatty acid biosynthesis",
 "original_bigg_ids":[
 "EAR160x"
@@ -79249,7 +79249,7 @@
 "gene_reaction_rule":"1075765",
 "notes":{
 "Annotation_source":"Bidirectional blasting",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Fatty acid biosynthesis",
 "original_bigg_ids":[
 "3OAS180",
@@ -79284,7 +79284,7 @@
 "gene_reaction_rule":"1326109",
 "notes":{
 "Annotation_source":"E. coli GEM",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Fatty acid biosynthesis",
 "original_bigg_ids":[
 "3OAR180",
@@ -79320,7 +79320,7 @@
 "gene_reaction_rule":"1057780",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Fatty acid biosynthesis",
 "original_bigg_ids":[
 "3HAD180",
@@ -79394,7 +79394,7 @@
 "gene_reaction_rule":"948791",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Fatty acid biosynthesis",
 "original_bigg_ids":[
 "EAR180x"
@@ -79428,7 +79428,7 @@
 "gene_reaction_rule":"1057780",
 "notes":{
 "Annotation_source":"Bidirectional blasting",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Fatty acid biosynthesis",
 "original_bigg_ids":[
 "FA140ACPH",
@@ -79463,7 +79463,7 @@
 "gene_reaction_rule":"1057780",
 "notes":{
 "Annotation_source":"Bidirectional blasting",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Fatty acid biosynthesis",
 "original_bigg_ids":[
 "FA160ACPH",
@@ -79498,7 +79498,7 @@
 "gene_reaction_rule":"1057780",
 "notes":{
 "Annotation_source":"Bidirectional blasting",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Fatty acid biosynthesis",
 "original_bigg_ids":[
 "FA180ACPH"
@@ -79533,7 +79533,7 @@
 "gene_reaction_rule":"1657642 or 997817 or 1621814 or 1288928",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Fatty acid biosynthesis",
 "original_bigg_ids":[
 "FACOAL160",
@@ -79585,7 +79585,7 @@
 "gene_reaction_rule":"1657642 or 997817 or 1621814 or 1288928",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Fatty acid biosynthesis",
 "original_bigg_ids":[
 "FACOAL180",
@@ -79636,7 +79636,7 @@
 "gene_reaction_rule":"1057780",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Fatty acid biosynthesis",
 "original_bigg_ids":[
 "FASC200ACP"
@@ -79671,7 +79671,7 @@
 "gene_reaction_rule":"1657642 or 997817 or 1621814 or 1288928",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Fatty acid biosynthesis",
 "original_bigg_ids":[
 "FACOAL200",
@@ -79708,7 +79708,7 @@
 "gene_reaction_rule":"1719836 or 1420524",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Terpenoid backbone/Mevalonate",
 "original_bigg_ids":[
 "DHDDS"
@@ -79742,7 +79742,7 @@
 "gene_reaction_rule":"1719836 or 1420524",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Terpenoid backbone/Mevalonate",
 "original_bigg_ids":[
 "DEDOLP1",
@@ -79776,7 +79776,7 @@
 "gene_reaction_rule":"1719836 or 1420524",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Terpenoid backbone/Mevalonate",
 "original_bigg_ids":[
 "DEDOLP2",
@@ -79811,7 +79811,7 @@
 "gene_reaction_rule":"1738297",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Terpenoid backbone/Mevalonate",
 "original_bigg_ids":[
 "DEDOLR",
@@ -79846,7 +79846,7 @@
 "gene_reaction_rule":"1703857",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Terpenoid backbone/Mevalonate",
 "original_bigg_ids":[
 "DOLK",
@@ -79881,7 +79881,7 @@
 "gene_reaction_rule":"1684859",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Terpenoid backbone/Mevalonate",
 "original_bigg_ids":[
 "DOLDPP",
@@ -79917,7 +79917,7 @@
 "gene_reaction_rule":"1281347",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Terpenoid backbone/Mevalonate",
 "original_bigg_ids":[
 "SQLS"
@@ -79964,7 +79964,7 @@
 "gene_reaction_rule":"1675079 or 1021847",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Homology_genes":"PirE2(39779); Orpsp1(1191226); Orpsp1(1176736)",
 "Subsystem":"Glycerolipid",
 "original_bigg_ids":[
@@ -80030,7 +80030,7 @@
 "gene_reaction_rule":"1728358 or 1275778 or 1674312 or 1030374 or 1737379 or 1013570 or 963470 or 1742957",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Glycerolipid",
 "original_bigg_ids":[
 "ALCD19",
@@ -80144,7 +80144,7 @@
 "gene_reaction_rule":"3375",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Sphingolipid",
 "original_bigg_ids":[
 "HMR_0775",
@@ -80306,7 +80306,7 @@
 "gene_reaction_rule":"1281920",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Homology_genes":"PirE2(66406)",
 "Subsystem":"Glycerophospholipid",
 "original_bigg_ids":[
@@ -80340,7 +80340,7 @@
 "gene_reaction_rule":"1281920",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Homology_genes":"PirE2(66406)",
 "Subsystem":"Glycerophospholipid",
 "original_bigg_ids":[
@@ -80378,7 +80378,7 @@
 "gene_reaction_rule":"965113 or 1654295",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Glycerophospholipid",
 "original_bigg_ids":[
 "AGPAT160"
@@ -80412,7 +80412,7 @@
 "gene_reaction_rule":"318900",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Glycerophospholipid",
 "original_bigg_ids":[
 "DASYN160"
@@ -80449,7 +80449,7 @@
 "gene_reaction_rule":"1037346",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Glycerophospholipid",
 "original_bigg_ids":[
 "PGSA160"
@@ -80519,7 +80519,7 @@
 "gene_reaction_rule":"982082",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Glycerophospholipid",
 "original_bigg_ids":[
 "CLPNS160"
@@ -80557,7 +80557,7 @@
 "gene_reaction_rule":"1657642 or 997817 or 1621814 or 1288928",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Glycerophospholipid",
 "original_bigg_ids":[
 "FACOAL140",
@@ -80592,7 +80592,7 @@
 "gene_reaction_rule":"1281920",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Homology_genes":"PirE2(66406)",
 "Subsystem":"Glycerophospholipid",
 "original_bigg_ids":[
@@ -80626,7 +80626,7 @@
 "gene_reaction_rule":"1281920",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Homology_genes":"PirE2(66406)",
 "Subsystem":"Glycerophospholipid",
 "original_bigg_ids":[
@@ -80661,7 +80661,7 @@
 "gene_reaction_rule":"965113 or 1654295",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Glycerophospholipid",
 "original_bigg_ids":[
 "AGPAT180"
@@ -80695,7 +80695,7 @@
 "gene_reaction_rule":"318900",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Glycerophospholipid",
 "original_bigg_ids":[
 "DASYN180"
@@ -80732,7 +80732,7 @@
 "gene_reaction_rule":"1037346",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Glycerophospholipid",
 "original_bigg_ids":[
 "PGSA180"
@@ -80802,7 +80802,7 @@
 "gene_reaction_rule":"982082",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Glycerophospholipid",
 "original_bigg_ids":[
 "CLPNS180"
@@ -80835,7 +80835,7 @@
 "gene_reaction_rule":"1281920",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Homology_genes":"PirE2(66406)",
 "Subsystem":"Glycerophospholipid",
 "original_bigg_ids":[
@@ -80869,7 +80869,7 @@
 "gene_reaction_rule":"1281920",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Homology_genes":"PirE2(66406)",
 "Subsystem":"Glycerophospholipid",
 "original_bigg_ids":[
@@ -80898,7 +80898,7 @@
 "gene_reaction_rule":"965113 or 1654295",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Glycerophospholipid",
 "original_bigg_ids":[
 "AGPAT140"
@@ -80932,7 +80932,7 @@
 "gene_reaction_rule":"318900",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Glycerophospholipid",
 "original_bigg_ids":[
 "DASYN140"
@@ -80969,7 +80969,7 @@
 "gene_reaction_rule":"1037346",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Glycerophospholipid",
 "original_bigg_ids":[
 "PGSA140"
@@ -81033,7 +81033,7 @@
 "gene_reaction_rule":"982082",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Glycerophospholipid",
 "original_bigg_ids":[
 "CLPNS140"
@@ -81067,7 +81067,7 @@
 "gene_reaction_rule":"1294756 or 1294635",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Glycerophospholipid",
 "original_bigg_ids":[
 "DAGK160",
@@ -81101,7 +81101,7 @@
 "gene_reaction_rule":"3375",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Glycerophospholipid",
 "original_bigg_ids":[
 "PAPA160",
@@ -81137,7 +81137,7 @@
 "gene_reaction_rule":"1294756 or 1294635",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Glycerophospholipid",
 "original_bigg_ids":[
 "DAGK140",
@@ -81171,7 +81171,7 @@
 "gene_reaction_rule":"3375",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Glycerophospholipid",
 "original_bigg_ids":[
 "PAPA140",
@@ -81207,7 +81207,7 @@
 "gene_reaction_rule":"1294756 or 1294635",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Glycerophospholipid",
 "original_bigg_ids":[
 "DAGK180",
@@ -81241,7 +81241,7 @@
 "gene_reaction_rule":"3375",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Glycerophospholipid",
 "original_bigg_ids":[
 "PAPA180",
@@ -81277,7 +81277,7 @@
 "gene_reaction_rule":"1037421",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Glycerophospholipid",
 "original_bigg_ids":[
 "ETHAPT_PALM_PALM_c"
@@ -81305,7 +81305,7 @@
 "gene_reaction_rule":"1037421",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Glycerophospholipid",
 "original_bigg_ids":[
 "ETHAPT_STC_STC_c"
@@ -81333,7 +81333,7 @@
 "gene_reaction_rule":"1037421",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Glycerophospholipid",
 "original_bigg_ids":[
 "ETHAPT_MYRS_MYRS_c"
@@ -81360,7 +81360,7 @@
 "gene_reaction_rule":"1677914 or 995482",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Glycerophospholipid",
 "original_bigg_ids":[
 "LPEAT_PALM_PALM_sn2_c"
@@ -81388,7 +81388,7 @@
 "gene_reaction_rule":"1677914 or 995482",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Glycerophospholipid",
 "original_bigg_ids":[
 "LPEH160_sn1_c"
@@ -81415,7 +81415,7 @@
 "gene_reaction_rule":"1677914 or 995482",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Glycerophospholipid",
 "original_bigg_ids":[
 "LPEAT_STC_STC_sn2_c"
@@ -81443,7 +81443,7 @@
 "gene_reaction_rule":"1677914 or 995482",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Glycerophospholipid",
 "original_bigg_ids":[
 "LPEH180_sn1_c",
@@ -81504,7 +81504,7 @@
 "gene_reaction_rule":"1677914 or 995482",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Glycerophospholipid",
 "original_bigg_ids":[
 "LPEH140_sn1_c"
@@ -81581,7 +81581,7 @@
 "gene_reaction_rule":"1648890",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Homology_genes":"",
 "Subsystem":"Glycerophospholipid",
 "original_bigg_ids":[
@@ -81631,7 +81631,7 @@
 "gene_reaction_rule":"1648890",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Homology_genes":"",
 "Subsystem":"Glycerophospholipid",
 "original_bigg_ids":[
@@ -81680,7 +81680,7 @@
 "gene_reaction_rule":"1648890",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Homology_genes":"",
 "Subsystem":"Glycerophospholipid",
 "original_bigg_ids":[
@@ -81819,7 +81819,7 @@
 "gene_reaction_rule":"1677914 or 995482",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Glycerophospholipid",
 "original_bigg_ids":[
 "LPCH180_sn1_c"
@@ -81873,7 +81873,7 @@
 "gene_reaction_rule":"1290734 or 1277339 or 964251",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Homology_genes":"Pirfi3(412934); PirE2(5301); Orpsp1(1180499)",
 "Subsystem":"Glycerophospholipid",
 "original_bigg_ids":[
@@ -81902,7 +81902,7 @@
 "gene_reaction_rule":"1290734 or 1277339 or 964251",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Homology_genes":"Pirfi3(412934); PirE2(5301); Orpsp1(1180499)",
 "Subsystem":"Glycerophospholipid",
 "original_bigg_ids":[
@@ -81930,7 +81930,7 @@
 "gene_reaction_rule":"918105 or 1642448",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Glycerophospholipid",
 "original_bigg_ids":[
 "PSD180"
@@ -81967,7 +81967,7 @@
 "gene_reaction_rule":"1677914 or 995482",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Glycerophospholipid",
 "original_bigg_ids":[
 "LPCH140_sn1_c"
@@ -82021,7 +82021,7 @@
 "gene_reaction_rule":"1290734 or 1277339 or 964251",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Homology_genes":"Pirfi3(412934); PirE2(5301); Orpsp1(1180499)",
 "Subsystem":"Glycerophospholipid",
 "original_bigg_ids":[
@@ -82050,7 +82050,7 @@
 "gene_reaction_rule":"1290734 or 1277339 or 964251",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Homology_genes":"Pirfi3(412934); PirE2(5301); Orpsp1(1180499)",
 "Subsystem":"Glycerophospholipid",
 "original_bigg_ids":[
@@ -82078,7 +82078,7 @@
 "gene_reaction_rule":"918105 or 1642448",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Glycerophospholipid",
 "original_bigg_ids":[
 "PSD140"
@@ -82112,7 +82112,7 @@
 "gene_reaction_rule":"1677914 or 995482",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Glycerophospholipid",
 "original_bigg_ids":[
 "LPCH160_sn1_c"
@@ -82166,7 +82166,7 @@
 "gene_reaction_rule":"1290734 or 1277339 or 964251",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Homology_genes":"Pirfi3(412934); PirE2(5301); Orpsp1(1180499)",
 "Subsystem":"Glycerophospholipid",
 "original_bigg_ids":[
@@ -82195,7 +82195,7 @@
 "gene_reaction_rule":"1290734 or 1277339 or 964251",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Homology_genes":"Pirfi3(412934); PirE2(5301); Orpsp1(1180499)",
 "Subsystem":"Glycerophospholipid",
 "original_bigg_ids":[
@@ -82223,7 +82223,7 @@
 "gene_reaction_rule":"918105 or 1642448",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Glycerophospholipid",
 "original_bigg_ids":[
 "PSD160"
@@ -82340,7 +82340,7 @@
 "gene_reaction_rule":"1644132",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Glycerophospholipid",
 "original_bigg_ids":[
 "MAGAH160",
@@ -82448,7 +82448,7 @@
 "gene_reaction_rule":"1679771 or 969108 or 1375160 or 1633381",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Hydrogenosome"
 },
 "annotation":{
@@ -82589,7 +82589,7 @@
 "gene_reaction_rule":"981064 or 1027775",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Hydrogenosome"
 },
 "annotation":{
@@ -82613,7 +82613,7 @@
 "gene_reaction_rule":"623223",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Hydrogenosome"
 },
 "annotation":{
@@ -82634,7 +82634,7 @@
 "gene_reaction_rule":"1341048 or 1718044",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Hydrogenosome"
 },
 "annotation":{
@@ -82657,7 +82657,7 @@
 "gene_reaction_rule":"1047445 and 993995",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Hydrogenosome"
 },
 "annotation":{
@@ -82678,7 +82678,7 @@
 "gene_reaction_rule":"1702000 and 1688149 and 1286787 and 1677752",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Hydrogenosome"
 },
 "annotation":{
@@ -82698,7 +82698,7 @@
 "gene_reaction_rule":"985684",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Hydrogenosome"
 },
 "annotation":{
@@ -82721,7 +82721,7 @@
 "gene_reaction_rule":"923302 and 1083241 and 1341048",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Hydrogenosome"
 },
 "annotation":{
@@ -82744,7 +82744,7 @@
 "gene_reaction_rule":"1037070 and 1706307 and 1045818 and 1061751",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Hydrogenosome"
 },
 "annotation":{
@@ -82767,7 +82767,7 @@
 "gene_reaction_rule":"1276456 and 1636158",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Hydrogenosome"
 },
 "annotation":{
@@ -82788,7 +82788,7 @@
 "gene_reaction_rule":"1731457 or 1316948",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Hydrogenosome"
 },
 "annotation":{
@@ -82810,7 +82810,7 @@
 "gene_reaction_rule":"1699045",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Homology_genes":"Neosp1(458540); Anasp1(330901); Pirfi3(402829); PirE2(20452)",
 "Subsystem":"Hydrogenosome"
 },
@@ -82833,7 +82833,7 @@
 "gene_reaction_rule":"1307328 or 1699045",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":"Hydrogenosome"
 },
 "annotation":{
@@ -82876,7 +82876,7 @@
 "gene_reaction_rule":"1341048 or 1718044",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "Subsystem":""
 },
 "annotation":{
@@ -82981,7 +82981,7 @@
 "gene_reaction_rule":"1638430",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "EC":"EC1.2.1.9",
 "Subsystem":"Glycolysis"
 },
@@ -83004,7 +83004,7 @@
 "gene_reaction_rule":"1740755 or 1074553",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "EC":"EC4.2.1.36",
 "Subsystem":"Miscellaneous"
 },
@@ -83030,7 +83030,7 @@
 "gene_reaction_rule":"1622940",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "EC":"EC1.1.1.87",
 "Subsystem":"Miscellaneous"
 },
@@ -83079,7 +83079,7 @@
 "gene_reaction_rule":"960652",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "EC":"EC2.6.1.42",
 "Subsystem":"Miscellaneous"
 },
@@ -83105,7 +83105,7 @@
 "gene_reaction_rule":"1022507",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "EC":"EC6.3.2.2",
 "Subsystem":"Miscellaneous"
 },
@@ -83131,7 +83131,7 @@
 "gene_reaction_rule":"1743926",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "EC":"EC6.3.2.3",
 "Subsystem":"Miscellaneous"
 },
@@ -83188,7 +83188,7 @@
 "gene_reaction_rule":"1305345 or 1064267 or 1271028 or 1014585 or 1296375 or 1633485 or 1434949 or 1628421 or 1679267 or 1022639 or 1038131 or 1042592 or 1044348 or 1429656 or 1417501 or 1022355 or 1052952 or 1424769 or 1024730 or 1663533 or 973500 or 1056544 or 216737 or 972543 or 986760 or 1643275 or 1436618 or 983506 or 263805 or 1745393 or 1032442 or 1322229 or 1285707 or 578733 or 1030993 or 1725966 or 1402564 or 69157 or 1300963 or 932305 or 1303879 or 1032987 or 1419524 or 984303 or 1286465 or 1369153 or 1053378 or 1436615 or 1000637 or 1295744 or 1022365 or 989875 or 1416536 or 1423902 or 174151 or 65711 or 996094 or 642615 or 1675743 or 1428630 or 507843 or 1027169 or 1289151 or 1057651 or 1289443 or 24949 or 1727249 or 1285776 or 1051461 or 927101 or 1024737 or 1294676 or 1434775 or 1438954 or 972400 or 176754 or 642611 or 1423912 or 1673177 or 1296588 or 1661449 or 926959 or 1635989 or 1278464 or 1421142 or 966605 or 1296433 or 977870 or 1310133 or 1299175 or 1707418 or 1409792 or 439841 or 995372 or 1633472 or 1055363 or 602025 or 1295810 or 1051950 or 1663557 or 1430077 or 216701 or 1032978 or 1347883 or 1434682 or 1083986 or 236157 or 1355486 or 1022776 or 1024000 or 1029897 or 1313027 or 1643233 or 32143 or 1003231 or 1289073 or 1301655 or 1313121 or 1431385 or 1419523 or 1416532 or 1431693 or 1371179 or 439801 or 1043990 or 1354103 or 1038148 or 1730609 or 1048016 or 1047688 or 1064328 or 578655 or 1275190 or 996244 or 1417100 or 210495 or 978535 or 323760 or 1436635 or 1032465 or 1044338 or 1433334 or 1415859 or 1003974 or 1083964 or 998731 or 1304742 or 1302520 or 1643845 or 1421303 or 926790 or 1287907 or 1436621 or 1617008 or 1288914 or 1034280 or 1287541 or 581435 or 1311718 or 1405744 or 1422177 or 1285636 or 1313560 or 1432914 or 1313290 or 1332539 or 1736054 or 1741721 or 1305204 or 1318560 or 1427222 or 489686 or 1006470 or 1277176 or 1759743 or 1295025 or 989839 or 990773 or 1416541 or 1317439 or 1417503 or 359996 or 1016901 or 1743872 or 256597 or 1032459 or 1078284 or 1063781 or 1651396 or 1064289 or 97632 or 987829 or 1296497 or 439815 or 1064354 or 1315385 or 1064274 or 1293109 or 1431953 or 1422662 or 1294171 or 1420402 or 1436616 or 189205 or 138987 or 1425999 or 952463 or 642626 or 1293346 or 984764 or 1663489 or 1314073 or 1052950 or 1652986 or 578717 or 980608 or 1054138 or 1027772 or 1056227 or 1416542 or 1314071 or 1429652 or 979626 or 1285775 or 1733487 or 1421677 or 1022252 or 1620927 or 461992 or 1329937 or 1041221 or 1064352 or 1281121",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "EC":"EC3.2.1.4",
 "Subsystem":"Cazymes"
 },
@@ -83211,7 +83211,7 @@
 "gene_reaction_rule":"1401830 or 1296375 or 1305161 or 1738851 or 1312738 or 1628421 or 1679267 or 1305163 or 1715290 or 1027898 or 1022639 or 1314410 or 263450 or 1058409 or 1682074 or 1429656 or 1417501 or 1724478 or 1054465 or 1300325 or 1692143 or 1022653 or 1007483 or 1424769 or 1633288 or 1319533 or 1085199 or 973500 or 982250 or 1317914 or 1285302 or 1272269 or 1317193 or 1643275 or 1646956 or 1039573 or 983506 or 414638 or 1026773 or 1745393 or 1307221 or 578733 or 1417468 or 263550 or 1030134 or 1725966 or 1402564 or 1417446 or 987317 or 1626249 or 1626243 or 1016327 or 1082860 or 1303879 or 1645361 or 1345476 or 1291508 or 1305646 or 1427272 or 1286465 or 1369153 or 1043740 or 1053378 or 1295744 or 1006591 or 1429844 or 1071101 or 65711 or 1044083 or 1717656 or 1307926 or 1302008 or 1646957 or 1734151 or 1002633 or 1428630 or 991188 or 1291505 or 1669300 or 1305162 or 507843 or 1305689 or 1417454 or 1027169 or 50261 or 1063940 or 14148 or 1436424 or 1289443 or 14256 or 1293336 or 280328 or 1419353 or 25495 or 1310557 or 24949 or 1337907 or 1051461 or 1430528 or 1043738 or 1653640 or 1656317 or 1327518 or 1295187 or 1294676 or 972400 or 176754 or 1673177 or 1668929 or 174400 or 1009672 or 1296588 or 1301996 or 1039230 or 1039236 or 1661449 or 1635989 or 1278464 or 1615979 or 1296433 or 1314358 or 1643019 or 1279472 or 87122 or 1707418 or 1717649 or 1633472 or 1429850 or 1051950 or 1291510 or 956602 or 1039355 or 1434682 or 1424660 or 1423720 or 1024000 or 1715293 or 1670382 or 1323002 or 32143 or 1003231 or 1643005 or 1058940 or 1270280 or 1313121 or 1431385 or 1674340 or 3638 or 259404 or 1308100 or 1030640 or 1371179 or 1043394 or 1294796 or 1305164 or 1637371 or 1289250 or 1047272 or 1269040 or 1053968 or 1318541 or 1668993 or 1317457 or 1615583 or 444460 or 578655 or 1670379 or 1314111 or 978535 or 323760 or 1670916 or 1294231 or 495720 or 1433334 or 1670977 or 1026046 or 1083964 or 1291280 or 1086223 or 993033 or 1055123 or 1040286 or 1431191 or 1417453 or 944148 or 25511 or 1006492 or 1302520 or 958035 or 1000478 or 1048786 or 1425351 or 1287907 or 1760609 or 1287541 or 1025940 or 1305531 or 1309684 or 1396562 or 993845 or 1013609 or 1311718 or 1622826 or 1289293 or 263542 or 1022204 or 1405744 or 1628255 or 1039583 or 1736788 or 932592 or 1313560 or 1736054 or 1743009 or 1027907 or 1291786 or 489686 or 1298495 or 933440 or 1314999 or 1745755 or 1032224 or 1431723 or 1011309 or 1310558 or 1669299 or 1314998 or 1428980 or 1695736 or 1417447 or 1305647 or 1317439 or 1417503 or 1424576 or 1745309 or 1743872 or 1006913 or 1417455 or 1045456 or 987829 or 1699418 or 1431722 or 1033842 or 1312742 or 1315385 or 1715295 or 1293109 or 1699420 or 1422662 or 1294060 or 1424477 or 1287244 or 1626250 or 1289440 or 1037785 or 138987 or 1425999 or 1269041 or 1315092 or 87201 or 1003546 or 327489 or 1296071 or 1425307 or 1293346 or 1315091 or 1317044 or 1289249 or 1312737 or 1314361 or 578717 or 1418556 or 1423712 or 489940 or 1437879 or 1079711 or 499441 or 1056227 or 1418939 or 1431192 or 1040292 or 1012953 or 989296 or 24345 or 1305165 or 1417449 or 1085200 or 1429652 or 1320330 or 1626244 or 1737579 or 1033919 or 1035177 or 934641 or 979626 or 1006221 or 976179 or 1424903 or 1670380 or 1073654 or 985415 or 1022252 or 1315001 or 1431781 or 976154 or 1653617 or 42509 or 1424289 or 1427446 or 1285453",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "EC":"Assorted",
 "Subsystem":"Cazymes"
 },
@@ -83254,7 +83254,7 @@
 "gene_reaction_rule":"1682640",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "EC":"EC1.1.2.4",
 "Subsystem":"Glycolysis"
 },
@@ -83280,7 +83280,7 @@
 "gene_reaction_rule":"1682640",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "EC":"EC1.1.2.4",
 "Subsystem":"Glycolysis"
 },
@@ -83305,7 +83305,7 @@
 "gene_reaction_rule":"3375",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "EC":"EC3.1.3.4",
 "Subsystem":"Miscellaneous"
 },
@@ -83330,7 +83330,7 @@
 "gene_reaction_rule":"3375",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "EC":"EC3.1.3.4",
 "Subsystem":"Miscellaneous"
 },
@@ -83355,7 +83355,7 @@
 "gene_reaction_rule":"1022304",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "EC":"EC2.3.1.24",
 "Subsystem":"Miscellaneous"
 },
@@ -83380,7 +83380,7 @@
 "gene_reaction_rule":"1653617",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "EC":"EC3.2.1.45",
 "Subsystem":"Miscellaneous"
 },
@@ -83405,7 +83405,7 @@
 "gene_reaction_rule":"1045106",
 "notes":{
 "Annotation_source":"JGI",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "EC":"EC3.2.1.23",
 "Subsystem":"Miscellaneous"
 },
@@ -83454,7 +83454,7 @@
 "gene_reaction_rule":"1647010",
 "notes":{
 "Annotation_source":"Manual",
-"Confidence_score":"2",
+"Confidence_score":"3",
 "EC":"EC3.2.1.22",
 "Subsystem":"Miscellaneous"
 },
