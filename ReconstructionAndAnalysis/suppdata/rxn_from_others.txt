@@ -1,0 +1,37 @@
+NADK	A. robustus	N. californiae	P. finnis	P. sp. E2	P. ruminantium
+3OAR80	A. robustus				
+MITKP	A. robustus	N. californiae	P. finnis	P. ruminantium	
+GLUK_syn	A. robustus	N. californiae	P. finnis	P. sp. E2	
+GLYAT	P. sp. E2	P. ruminantium			
+3OAR60	A. robustus				
+ACS2	A. robustus	N. californiae	P. finnis	P. sp. E2	P. ruminantium
+ME1	A. robustus	N. californiae	P. finnis	P. sp. E2	
+ARAI	A. robustus	N. californiae	P. finnis	P. sp. E2	P. ruminantium
+r_R01500	P. sp. E2				
+GACMTRc	A. robustus	N. californiae	P. finnis		
+3OAR160	A. robustus				
+NTRLASE	P. sp. E2				
+SPHK21c	N. californiae	P. finnis	P. sp. E2		
+TMDK1	P. finnis				
+3OAR40	A. robustus				
+NADK1	A. robustus	N. californiae	P. finnis	P. sp. E2	P. ruminantium
+OPMEACPR	A. robustus				
+APRAUR	A. robustus	N. californiae	P. finnis		
+FFSD	A. robustus	N. californiae	P. sp. E2	P. ruminantium	
+IPPMIb	N. californiae				
+ASNS1	A. robustus	N. californiae	P. finnis		
+3OAR140	A. robustus				
+INDPYRD	P. sp. E2	P. ruminantium			
+GALT	N. californiae	P. sp. E2			
+DURIK1	P. finnis				
+BUPN	N. californiae				
+3OAR100	A. robustus				
+FMETDF	P. sp. E2				
+IPPMIa	N. californiae				
+ACODA	A. robustus	N. californiae	P. finnis	P. sp. E2	
+DHAK	P. finnis				
+3OAR120	A. robustus				
+3OAR180	A. robustus				
+RAFH	A. robustus	N. californiae	P. sp. E2	P. ruminantium	
+LYSDC	A. robustus	N. californiae	P. finnis	P. sp. E2	P. ruminantium
+ARAT	P. sp. E2				
