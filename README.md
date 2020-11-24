@@ -27,6 +27,7 @@ After the preceding steps the model can be run. We supply example scripts: `/Rec
 
 ### Notes
 Please note that each fungus is referred to by a shorthand code in the `OmicsData` section. This is described here:
+ 
 | Fungus name | Short name |
 | --- | --- |
 |Neocallimastix lanati | Neosp3 |
