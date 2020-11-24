@@ -35,3 +35,4 @@ Please note that each fungus is referred to by a shorthand code in the `OmicsDat
 |*Piromyces finnis* | Pirfi3 |
 |*Anaeromyces robustus* | Anasp1 |
 |*Piromyces sp. E2* | PirE2 |
+|*Pecaromyces ruminantium*| Orpsp1|
