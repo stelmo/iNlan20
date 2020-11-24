@@ -23,7 +23,7 @@ For more information see:
 ### Reconstruction and Analysis
 The model can be reconstructed from scratch using a combination of manually curated files and scripts that are collected in `/ReconstructionAndAnalysis/`. To create the basic model run the notebook `/ReconstructionAndAnalysis/Reconstruction of N. lanati GEM.ipynb`. This requires at least version 1.5 of the [Julia language](https://julialang.org/), as well as the packages: JSON, BioSequences, ExcelReaders, DataValues, Statistics, FASTX, StatsBase and DataFrames. Once the basic model has been built, it is necessary to open the resulting `iNlan20.json` file in cobrapy and save it as both a JSON and SBML model, please use the notebook `/ReconstructionAndAnalysis/Write model.ipynb` for this. 
 
-After the preceding steps the model can be run. We supply example scripts: `/ReconstructionAndAnalysis/iNlan20 Example Simulations.ipynb` to make this easy. To use this script Python 3.8.3 is required, the cobrapy package, pandas, json, as well as Gurobi's linear solver.
+After the preceding steps the model can be run. We supply example scripts: `/ReconstructionAndAnalysis/iNlan20 Example Simulations.ipynb` to make this easy. To use this script Python 3.8.3 is required, the COBRApy package, pandas, json, as well as Gurobi's linear program solver.
 
 ### Notes
 Please note that each fungus is referred to by a shorthand code in the `OmicsData` section. This is described here:
