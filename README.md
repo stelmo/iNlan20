@@ -30,8 +30,8 @@ Please note that each fungus is referred to by a shorthand code in the `OmicsDat
  
 | Fungus name | Short name |
 | --- | --- |
-|Neocallimastix lanati | Neosp3 |
-|Neocallimastix californiae | Neosp1 |
-|Piromyces finnis | Pirfi3 |
-|Anaeromyces robustus | Anasp1 |
-|Piromyces sp. E2 | PirE2 |
+|*Neocallimastix lanati* | Neosp3 |
+|*Neocallimastix californiae* | Neosp1 |
+|*Piromyces finnis* | Pirfi3 |
+|*Anaeromyces robustus* | Anasp1 |
+|*Piromyces sp. E2* | PirE2 |
