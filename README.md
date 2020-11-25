@@ -13,8 +13,8 @@ For more information see:
 3) [Early-branching gut fungi possess a large, comprehensive array of biomass-degrading enzymes](https://doi.org/10.1126/science.aad1431)
 
 ### Outline of the repo
-1) The model is supplied in two formats, SBML (.xml) and cobrapy compatible JSON (.json), `iNlan20.xml` and `iNlan20.json` respectively.
-2) The Memote report of the model is supplied as `iNlan20_memote_report.html`.
+1) The model is supplied in two formats, SBML (.xml) and cobrapy compatible JSON (.json), `iNlan20.xml` and `iNlan20.json` respectively. These files are duplicated in both the root directory of the repo, as well as in the directory `ReconstructionAndAnalysis`.
+2) The Memote report of the model is supplied as `iNlan20_memote_report.html`. This file is duplicated as in (1).
 3) The entire reconstruction pipeline is supplied in `/ReconstructionAndAnalysis/`, which is further explained below.
 4) The omics data (genomics, transcriptomics and reference databases) are supplied in `/OmicsData/`.
 5) The bidirectional blast annotation results for *N. lanati* are supplied in `/MetabolicTables/`.
