@@ -1,5 +1,5 @@
 # iNlan20
-Reconstruction and analysis of a genome-scale metabolic model of *Neocallimastix lanati*. 
+Reconstruction and analysis of a genome-scale metabolic model of *Neocallimastix lanati*. See the associated paper [here](https://msystems.asm.org/content/6/1/e00002-21). 
 The Memote snapshot of the model can be found here: [iNlan20](https://gitcdn.link/repo/stelmo/iNlan20/main/iNlan20_memote_report.html).
  
  ### Introduction
